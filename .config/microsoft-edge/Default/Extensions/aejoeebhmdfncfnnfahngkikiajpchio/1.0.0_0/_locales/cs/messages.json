@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "Budík"
+   },
+   "AppDesc": {
+      "message": "Užitečné časovače pro všechny vaše potřeby"
+   },
+   "AppName": {
+      "message": "Časovač pro  ™"
+   },
+   "Cancel": {
+      "message": "zrušení"
+   },
+   "Countdown": {
+      "message": "Odpočítávání"
+   },
+   "Pause": {
+      "message": "Pauza"
+   },
+   "Resume": {
+      "message": "Životopis"
+   },
+   "Stop": {
+      "message": "Stop"
+   },
+   "Stopwatch": {
+      "message": "Stopky"
+   }
+}

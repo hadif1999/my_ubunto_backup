@@ -1,0 +1,71 @@
+Visual Studio Code (1.76.2, undefined, desktop)
+Jupyter Extension Version: 2023.2.1200692131.
+Python Extension Version: 2023.4.1.
+Workspace folder /home/hadi/Desktop
+warn 11:01:26.996: Exception while attempting zmq : /snap/core/current/usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.22' not found (required by /home/hadi/.vscode/extensions/ms-toolsai.jupyter-2023.2.1200692131/out/node_modules/zeromq/prebuilds/linux-x64/electron.napi.glibc.node)
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'jupyterTestcf'
+info 11:01:27.633: Attempting to start a server because of preload conditions ...
+info 11:01:27.698: LSP Notebooks experiment is enabled
+info 11:01:27.701: Checking for server existence.
+warn 11:01:29.237: Failed to get activated env vars with python /bin/python3 in 1364ms
+warn 11:01:29.254: Failed to get activated env vars with python /bin/python3 in 1380ms
+info 11:01:29.285: Process Execution: > /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_SITE);print("USER_BASE_VALUE");"
+> /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_SITE);print("USER_BASE_VALUE");"
+warn 11:01:29.319: Failed to get activated env vars with python /bin/python3 in 1444ms
+info 11:01:30.044: Process Execution: > /bin/python3 -c "import jupyter;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import jupyter;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 11:01:30.055: Process Execution: > /bin/python3 -c "import notebook;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import notebook;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 11:01:30.068: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+warn 11:01:33.316: Failed to get activated env vars with python /bin/python3 in 78ms
+info 11:01:33.341: Process Execution: > /bin/python3 -m jupyter kernelspec --version
+> /bin/python3 -m jupyter kernelspec --version
+info 11:01:35.620: Connecting to server
+info 11:01:35.620: Launching server
+info 11:01:35.621: Starting Notebook
+warn 11:01:35.626: Failed to get activated env vars with python /bin/python3 in 7ms
+info 11:01:35.628: Generating custom default config at /tmp/800296bd-5316-441d-921c-1de20a1da05d/jupyter_notebook_config.py
+Starting Jupyter from /bin/python3 with arguments --no-browser --notebook-dir="/home/hadi/Desktop" --config=/tmp/800296bd-5316-441d-921c-1de20a1da05d/jupyter_notebook_config.py --NotebookApp.iopub_data_rate_limit=10000000000.0
+warn 11:01:35.630: Failed to get activated env vars with python /bin/python3 in 11ms
+warn 11:01:35.634: Failed to get activated env vars with python /bin/python3 in 6ms
+warn 11:01:35.640: Failed to get activated env vars with python /bin/python3 in 5ms
+info 11:01:35.652: Process Execution: > /bin/python3 -m jupyter notebook --no-browser --notebook-dir="/home/hadi/Desktop" --config=/tmp/800296bd-5316-441d-921c-1de20a1da05d/jupyter_notebook_config.py --NotebookApp.iopub_data_rate_limit=10000000000.0
+> /bin/python3 -m jupyter notebook --no-browser --notebook-dir="/home/hadi/Desktop" --config=/tmp/800296bd-5316-441d-921c-1de20a1da05d/jupyter_notebook_config.py --NotebookApp.iopub_data_rate_limit=10000000000.0
+/home/hadi/.local/lib/python3.10/site-packages/traitlets/traitlets.py:2548: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use '/home/hadi/Desktop' instead of '"/home/hadi/Desktop"' if you require traitlets >=5.
+  warn(
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[I 11:01:42.650 NotebookApp] Serving notebooks from local directory: /home/hadi/Desktop
+[I 11:01:42.651 NotebookApp] Jupyter Notebook 6.5.3 is running at:
+[I 11:01:42.651 NotebookApp] http://localhost:8888/?token=14fd5b566743d23a4fb4bef69d69e3c9cc09d0fc42384dc4
+[I 11:01:42.651 NotebookApp]  or http://127.0.0.1:8888/?token=14fd5b566743d23a4fb4bef69d69e3c9cc09d0fc42384dc4
+[I 11:01:42.651 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+warn 11:01:42.673: Failed to get activated env vars with python /bin/python3 in 21ms
+info 11:01:42.693: Process Execution: > /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.2.1200692131/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.2.1200692131/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+[C 11:01:42.714 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/hadi/.local/share/jupyter/runtime/nbserver-5460-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=14fd5b566743d23a4fb4bef69d69e3c9cc09d0fc42384dc4
+     or http://127.0.0.1:8888/?token=14fd5b566743d23a4fb4bef69d69e3c9cc09d0fc42384dc4
+warn 11:01:42.724: Failed to get activated env vars with python /bin/python3 in 9ms
+info 11:01:42.745: Process Execution: > /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.2.1200692131/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.2.1200692131/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+info 11:01:43.740: Connecting local server kernel http://localhost:8888/
+info 11:01:43.741: Creating server with url : http://localhost:8888/
+info 11:01:43.782: Server started.

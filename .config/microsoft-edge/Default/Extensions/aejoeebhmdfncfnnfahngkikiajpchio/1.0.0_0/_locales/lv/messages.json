@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "Modinātājs"
+   },
+   "AppDesc": {
+      "message": "Noderīgi taimeri visām jūsu vajadzībām"
+   },
+   "AppName": {
+      "message": "Taimeris pārlūkam  ™"
+   },
+   "Cancel": {
+      "message": "atcelt"
+   },
+   "Countdown": {
+      "message": "Atpakaļskaitīšana"
+   },
+   "Pause": {
+      "message": "Pauze"
+   },
+   "Resume": {
+      "message": "Turpināt"
+   },
+   "Stop": {
+      "message": "Pietura"
+   },
+   "Stopwatch": {
+      "message": "hronometrs"
+   }
+}

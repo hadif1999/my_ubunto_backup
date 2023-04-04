@@ -1,0 +1,6 @@
+[2023-03-31 11:55:59.070] [GIT  ] [/home/hadi/Desktop] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 72 ms
+
+[2023-03-31 12:26:18.558] [GIT  ] [/home/hadi/Desktop/my_python_codes] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 39 ms
+
+[2023-03-31 12:30:41.411] [GIT  ] [/home/hadi/Desktop/my_python_codes] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 20 ms
+

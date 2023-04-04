@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "Будильник"
+   },
+   "AppDesc": {
+      "message": "Корисні таймери для всіх ваших потреб"
+   },
+   "AppName": {
+      "message": "Таймер для  ™"
+   },
+   "Cancel": {
+      "message": "скасувати"
+   },
+   "Countdown": {
+      "message": "Зворотний відлік"
+   },
+   "Pause": {
+      "message": "Пауза"
+   },
+   "Resume": {
+      "message": "Резюме"
+   },
+   "Stop": {
+      "message": "Стій"
+   },
+   "Stopwatch": {
+      "message": "секундомір"
+   }
+}

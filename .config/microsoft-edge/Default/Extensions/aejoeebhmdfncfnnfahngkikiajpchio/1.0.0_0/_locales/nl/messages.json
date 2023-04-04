@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "Wekker"
+   },
+   "AppDesc": {
+      "message": "Handige timers voor al uw behoeften"
+   },
+   "AppName": {
+      "message": "Timer voor  ™"
+   },
+   "Cancel": {
+      "message": "Annuleer"
+   },
+   "Countdown": {
+      "message": "Countdown"
+   },
+   "Pause": {
+      "message": "Pauze"
+   },
+   "Resume": {
+      "message": "Hervat"
+   },
+   "Stop": {
+      "message": "Hou op"
+   },
+   "Stopwatch": {
+      "message": "Stopwatch"
+   }
+}

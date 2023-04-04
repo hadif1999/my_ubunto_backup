@@ -1,0 +1,28 @@
+2023-03-31 15:25:50.285 [info] [SharedProcess] using utility process
+2023-03-31 15:25:50.299 [info] update#setState idle
+2023-03-31 15:25:52.170 [info] [UtilityProcess type: shared-process, pid: <none>]: creating new...
+2023-03-31 15:25:52.181 [info] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2023-03-31 15:25:52.213 [info] [UtilityProcess type: shared-process, pid: 15224]: successfully created
+2023-03-31 15:25:52.214 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 15225]: successfully created
+2023-03-31 15:25:52.318 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-31 15:25:52.350 [info] [UtilityProcess id: 1, type: extensionHost, pid: 15246]: successfully created
+2023-03-31 15:26:20.300 [info] update#setState checking for updates
+2023-03-31 15:26:20.308 [info] update#setState idle
+2023-03-31 16:26:20.318 [info] update#setState checking for updates
+2023-03-31 16:26:20.460 [info] update#setState idle
+2023-03-31 17:26:20.452 [info] update#setState checking for updates
+2023-03-31 17:26:20.455 [info] update#setState idle
+2023-03-31 18:26:20.456 [info] update#setState checking for updates
+2023-03-31 18:26:20.533 [info] update#setState idle
+2023-03-31 19:26:20.629 [info] update#setState checking for updates
+2023-03-31 19:26:20.630 [info] update#setState idle
+2023-03-31 20:26:20.740 [info] update#setState checking for updates
+2023-03-31 20:26:20.858 [info] update#setState idle
+2023-03-31 21:26:20.952 [info] update#setState checking for updates
+2023-03-31 21:26:20.954 [info] update#setState idle
+2023-03-31 22:09:55.303 [info] [UtilityProcess id: 1, type: extensionHost, pid: 15246]: waiting to exit...
+2023-03-31 22:09:55.304 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 15225]: attempting to kill the process...
+2023-03-31 22:09:55.310 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 15225]: successfully killed the process
+2023-03-31 22:09:55.503 [info] [UtilityProcess id: 1, type: extensionHost, pid: 15246]: received exit event with code 0
+2023-03-31 22:09:55.503 [info] Extension host with pid 15246 exited with code: 0, signal: unknown.
+2023-03-31 22:09:55.574 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 15225]: received exit event with code 0

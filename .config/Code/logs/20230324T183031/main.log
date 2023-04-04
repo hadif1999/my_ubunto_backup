@@ -1,0 +1,7 @@
+2023-03-24 18:30:31.744 [info] update#setState idle
+2023-03-24 18:30:33.723 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-24 18:30:33.741 [info] [UtilityProcess id: 1, type: extensionHost, pid: 25389]: successfully created
+2023-03-24 18:31:01.747 [info] update#setState checking for updates
+2023-03-24 18:31:01.749 [info] update#setState idle
+2023-03-24 18:50:57.209 [error] CodeWindow: detected unresponsive
+2023-03-24 18:52:52.719 [info] [UtilityProcess id: 1, type: extensionHost, pid: 25389]: waiting to exit...

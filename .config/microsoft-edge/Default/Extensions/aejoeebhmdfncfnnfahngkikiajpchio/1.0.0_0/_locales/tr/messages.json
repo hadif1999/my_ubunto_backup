@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "Alarm saati"
+   },
+   "AppDesc": {
+      "message": "Tüm ihtiyaçlarınız için kullanışlı zamanlayıcılar"
+   },
+   "AppName": {
+      "message": " ™ için zamanlayıcı"
+   },
+   "Cancel": {
+      "message": "İptal etmek"
+   },
+   "Countdown": {
+      "message": "geri sayım"
+   },
+   "Pause": {
+      "message": "Duraklat"
+   },
+   "Resume": {
+      "message": "Devam et"
+   },
+   "Stop": {
+      "message": "Dur"
+   },
+   "Stopwatch": {
+      "message": "Kronometre"
+   }
+}

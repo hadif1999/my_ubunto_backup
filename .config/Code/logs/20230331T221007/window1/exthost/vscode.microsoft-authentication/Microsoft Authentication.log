@@ -1,0 +1,94 @@
+2023-03-31 22:10:18.121 [info] Reading sessions from secret storage...
+2023-03-31 22:10:18.727 [info] Got 1 stored sessions
+2023-03-31 22:10:18.727 [info] Refreshing token for scopes: email offline_access openid profile
+2023-03-31 22:10:20.944 [info] Setting token for scopes: email offline_access openid profile
+2023-03-31 22:10:20.944 [info] Token refresh success for scopes: email offline_access openid profile
+2023-03-31 22:10:20.944 [info] Stored token for scopes: email offline_access openid profile
+2023-03-31 22:10:20.947 [info] Getting sessions for all scopes...
+2023-03-31 22:10:20.947 [info] Got 1 sessions for all scopes...
+2023-03-31 22:10:20.948 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-03-31 22:10:20.948 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-03-31 22:10:20.948 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4161996 milliseconds
+2023-03-31 22:56:35.613 [info] Refreshing token for scopes: email offline_access openid profile
+2023-03-31 22:56:38.701 [info] Setting token for scopes: email offline_access openid profile
+2023-03-31 22:56:38.701 [info] Token refresh success for scopes: email offline_access openid profile
+2023-03-31 22:56:38.705 [info] Triggering change session event...
+2023-03-31 22:56:38.721 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-03-31 22:56:38.721 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-03-31 22:56:38.722 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4409972 milliseconds
+2023-03-31 23:45:38.700 [info] Refreshing token for scopes: email offline_access openid profile
+2023-03-31 23:45:40.390 [info] Setting token for scopes: email offline_access openid profile
+2023-03-31 23:45:40.390 [info] Token refresh success for scopes: email offline_access openid profile
+2023-03-31 23:45:40.395 [info] Triggering change session event...
+2023-03-31 23:45:40.778 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-03-31 23:45:40.779 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-03-31 23:45:40.779 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4971611 milliseconds
+2023-04-01 00:40:55.058 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-01 00:40:56.864 [info] Setting token for scopes: email offline_access openid profile
+2023-04-01 00:40:56.864 [info] Token refresh success for scopes: email offline_access openid profile
+2023-04-01 00:40:56.864 [info] Triggering change session event...
+2023-04-01 00:40:56.866 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-04-01 00:40:56.866 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-04-01 00:40:56.866 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4186997 milliseconds
+2023-04-01 01:27:28.198 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-01 01:27:29.857 [info] Setting token for scopes: email offline_access openid profile
+2023-04-01 01:27:29.857 [info] Token refresh success for scopes: email offline_access openid profile
+2023-04-01 01:27:29.860 [info] Triggering change session event...
+2023-04-01 01:27:29.869 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-04-01 01:27:29.869 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-04-01 01:27:29.869 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4402989 milliseconds
+2023-04-01 02:16:25.191 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-01 02:16:26.765 [info] Setting token for scopes: email offline_access openid profile
+2023-04-01 02:16:26.765 [info] Token refresh success for scopes: email offline_access openid profile
+2023-04-01 02:16:26.766 [info] Triggering change session event...
+2023-04-01 02:16:26.777 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-04-01 02:16:26.777 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-04-01 02:16:26.777 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4146989 milliseconds
+2023-04-01 03:02:31.432 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-01 03:02:33.037 [info] Setting token for scopes: email offline_access openid profile
+2023-04-01 03:02:33.038 [info] Token refresh success for scopes: email offline_access openid profile
+2023-04-01 03:02:33.038 [info] Triggering change session event...
+2023-04-01 03:02:33.041 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-04-01 03:02:33.041 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-04-01 03:02:33.041 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4525996 milliseconds
+2023-04-01 03:52:50.371 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-01 03:52:52.114 [info] Setting token for scopes: email offline_access openid profile
+2023-04-01 03:52:52.114 [info] Token refresh success for scopes: email offline_access openid profile
+2023-04-01 03:52:52.114 [info] Triggering change session event...
+2023-04-01 03:52:52.118 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-04-01 03:52:52.118 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-04-01 03:52:52.118 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4832996 milliseconds
+2023-04-01 03:56:39.687 [info] Stored token for scopes: email offline_access openid profile
+2023-04-01 04:45:49.441 [info] Stored token for scopes: email offline_access openid profile
+2023-04-01 04:46:34.116 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-01 04:46:36.079 [info] Setting token for scopes: email offline_access openid profile
+2023-04-01 04:46:36.079 [info] Token refresh success for scopes: email offline_access openid profile
+2023-04-01 04:46:36.079 [info] Triggering change session event...
+2023-04-01 04:46:36.082 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-04-01 04:46:36.082 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-04-01 04:46:36.082 [info] Token available from cache (for scopes email offline_access openid profile), expires in 3986997 milliseconds
+2023-04-01 05:30:54.080 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-01 05:33:10.426 [error] Fetching token failed for scopes (email offline_access openid profile): request to https://login.microsoftonline.com/organizations/oauth2/v2.0/token failed, reason: getaddrinfo EAI_AGAIN login.microsoftonline.com
+2023-04-01 05:41:12.771 [info] Stored token for scopes: email offline_access openid profile
+2023-04-01 06:03:10.428 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-01 06:05:10.553 [error] Fetching token failed for scopes (email offline_access openid profile): request to https://login.microsoftonline.com/organizations/oauth2/v2.0/token failed, reason: getaddrinfo EAI_AGAIN login.microsoftonline.com
+2023-04-01 06:27:31.082 [info] Stored token for scopes: email offline_access openid profile
+2023-04-01 06:35:10.554 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-01 06:37:40.810 [error] Fetching token failed for scopes (email offline_access openid profile): request to https://login.microsoftonline.com/organizations/oauth2/v2.0/token failed, reason: getaddrinfo EAI_AGAIN login.microsoftonline.com
+2023-04-01 07:07:40.813 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-01 07:09:46.022 [error] Fetching token failed for scopes (email offline_access openid profile): request to https://login.microsoftonline.com/organizations/oauth2/v2.0/token failed, reason: getaddrinfo EAI_AGAIN login.microsoftonline.com
+2023-04-01 07:16:46.088 [info] Stored token for scopes: email offline_access openid profile
+2023-04-01 07:39:46.024 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-01 07:42:00.392 [error] Fetching token failed for scopes (email offline_access openid profile): request to https://login.microsoftonline.com/organizations/oauth2/v2.0/token failed, reason: getaddrinfo EAI_AGAIN login.microsoftonline.com
+2023-04-01 08:02:50.251 [info] Stored token for scopes: email offline_access openid profile
+2023-04-01 08:12:00.392 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-01 08:14:25.988 [error] Fetching token failed for scopes (email offline_access openid profile): request to https://login.microsoftonline.com/organizations/oauth2/v2.0/token failed, reason: getaddrinfo EAI_AGAIN login.microsoftonline.com
+2023-04-01 08:25:33.412 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-04-01 08:25:33.412 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-04-01 08:25:33.412 [info] Token expired or unavailable (for scopes email offline_access openid profile), trying refresh
+2023-04-01 08:25:33.412 [info] Refreshing token for scopes: email offline_access openid profile
+2023-04-01 08:25:34.778 [info] Setting token for scopes: email offline_access openid profile
+2023-04-01 08:25:34.778 [info] Token refresh success for scopes: email offline_access openid profile
+2023-04-01 08:37:22.444 [info] Stored token for scopes: email offline_access openid profile
+2023-04-01 08:37:22.444 [info] Stored token for scopes: email offline_access openid profile
+2023-04-01 08:37:22.444 [info] Stored token for scopes: email offline_access openid profile

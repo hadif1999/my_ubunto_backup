@@ -1,0 +1,28 @@
+Visual Studio Code (1.77.0, undefined, desktop)
+Jupyter Extension Version: 2023.3.1000892223.
+Python Extension Version: 2023.6.0.
+Workspace folder /home/hadi/Desktop
+info 15:13:04.580: ZMQ loaded via fallback mechanism.
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'jupyterTestcf'
+info 15:13:05.519: LSP Notebooks experiment is enabled
+warn 15:13:08.116: Failed to get activated env vars for /bin/python3 in 2350ms
+info 15:13:08.172: Process Execution: > /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+> /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+info 15:13:08.235: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 15:19:08.663: Starting interactive window for resource 'Untitled-2' with controller '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Interactive)'
+warn 15:19:09.127: Failed to get activated env vars for /bin/python3 in 166ms
+info 15:19:09.144: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 15:20:34.798: Starting interactive window for resource 'Untitled-2' with controller '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Interactive)'
+info 15:21:47.248: Starting interactive window for resource 'Untitled-2' with controller '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Interactive)'
+info 15:23:20.669: Starting interactive window for resource 'Untitled-2' with controller '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Interactive)'
+error 15:23:20.997: CodeWatcher::runCell, Class name = PC, completed in 331ms, has a falsy return value [Error: Failed to request creation of interactive window from VS Code.
+	at LC.createEditor (/home/hadi/.vscode/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:24:389448)
+	at async LC.create (/home/hadi/.vscode/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:24:388351)
+	at async LC.getOrCreate (/home/hadi/.vscode/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:24:387921)
+	at async PC.runMatchingCell (/home/hadi/.vscode/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:24:359201)]
+info 15:25:45.123: Shutting down notebooks for aec44476-cb54-41f2-a313-290fdd599609
+info 15:25:45.123: Disposing HostJupyterExecution 993f2dec-5765-4516-89fa-144d5253ad31
+info 15:25:45.124: Disposing HostJupyterExecution 993f2dec-5765-4516-89fa-144d5253ad31

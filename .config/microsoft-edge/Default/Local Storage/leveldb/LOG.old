@@ -1,0 +1,9 @@
+2023/03/25-22:12:15.287 3 Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
+2023/03/25-22:12:15.431 3 Recovering log #72
+2023/03/25-22:12:15.579 3 Reusing old log /home/hadi/.config/microsoft-edge/Default/Local Storage/leveldb/000072.log 
+2023/03/25-22:31:01.398 b Level-0 table #77: started
+2023/03/25-22:31:01.442 b Level-0 table #77: 19920 bytes OK
+2023/03/25-22:31:01.494 b Delete type=0 #72
+2023/03/25-22:31:44.324 3 Level-0 table #79: started
+2023/03/25-22:31:44.367 3 Level-0 table #79: 96555 bytes OK
+2023/03/25-22:31:44.419 3 Delete type=0 #76

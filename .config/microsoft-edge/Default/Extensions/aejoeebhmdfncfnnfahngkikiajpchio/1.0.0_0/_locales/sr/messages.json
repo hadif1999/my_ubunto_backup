@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "Будилник"
+   },
+   "AppDesc": {
+      "message": "Корисни тајмери за све ваше потребе"
+   },
+   "AppName": {
+      "message": "Тајмер за Гоогле Цхроме ™"
+   },
+   "Cancel": {
+      "message": "Отказати"
+   },
+   "Countdown": {
+      "message": "Цоунтдовн"
+   },
+   "Pause": {
+      "message": "Паузирај"
+   },
+   "Resume": {
+      "message": "Резиме"
+   },
+   "Stop": {
+      "message": "Зауставити"
+   },
+   "Stopwatch": {
+      "message": "штоперица"
+   }
+}

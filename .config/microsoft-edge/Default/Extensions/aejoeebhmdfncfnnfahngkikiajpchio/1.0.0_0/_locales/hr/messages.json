@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "Budilica"
+   },
+   "AppDesc": {
+      "message": "Korisni mjerači vremena za sve vaše potrebe"
+   },
+   "AppName": {
+      "message": "Odbrojavanje za  ™"
+   },
+   "Cancel": {
+      "message": "Otkazati"
+   },
+   "Countdown": {
+      "message": "odbrojavanje"
+   },
+   "Pause": {
+      "message": "Pauza"
+   },
+   "Resume": {
+      "message": "Nastavi"
+   },
+   "Stop": {
+      "message": "Stop"
+   },
+   "Stopwatch": {
+      "message": "Štoperica"
+   }
+}

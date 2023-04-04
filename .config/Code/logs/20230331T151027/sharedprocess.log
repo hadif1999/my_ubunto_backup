@@ -1,0 +1,31 @@
+2023-03-31 15:10:41.332 [error] Error: Unable to resolve nonexistent file '/home/hadi/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2023.3.30'
+    at y.resolve (/snap/code/123/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:15674)
+    at async y.Q (/snap/code/123/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:25472)
+    at async y.del (/snap/code/123/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:39:25643)
+    at async Promise.all (index 0)
+    at async Object.F [as settled] (/snap/code/123/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:21:21227)
+    at async yt.u (/snap/code/123/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:93:2393)
+2023-03-31 15:10:45.238 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-31 15:10:45.373 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-31 15:10:56.034 [info] Getting Manifest... ms-python.python
+2023-03-31 15:10:56.041 [info] Getting Manifest... ms-toolsai.jupyter
+2023-03-31 15:10:56.159 [info] Getting Manifest... ms-python.python
+2023-03-31 15:10:56.163 [info] Getting Manifest... ms-toolsai.jupyter
+2023-03-31 15:10:56.294 [info] Deleted the generated extension folder file:///home/hadi/.vscode/extensions/.8008655d-8c39-4bbf-a4dc-d4c79042326b
+2023-03-31 15:10:56.380 [info] Deleted from disk ms-python.vscode-pylance /home/hadi/.vscode/extensions/ms-python.vscode-pylance-2023.3.30
+2023-03-31 15:10:56.864 [info] Installing extension: ms-python.python
+2023-03-31 15:10:56.890 [info] Installing extension: ms-python.python
+2023-03-31 15:10:56.905 [info] Installing extension: ms-toolsai.jupyter
+2023-03-31 15:10:56.940 [info] Installing extension: ms-toolsai.jupyter
+2023-03-31 15:11:48.831 [info] Extension signature is verified: ms-python.python
+2023-03-31 15:11:50.247 [info] Extension signature is verified: ms-toolsai.jupyter
+2023-03-31 15:11:51.908 [info] Extracted extension to /home/hadi/.vscode/extensions/.ec65d9c2-a90f-4a9f-9612-20db89b2808d: ms-toolsai.jupyter
+2023-03-31 15:11:52.310 [info] Renamed to /home/hadi/.vscode/extensions/ms-toolsai.jupyter-2023.3.1000892223
+2023-03-31 15:11:52.322 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-03-31 15:11:52.393 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-03-31 15:11:52.402 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.2.1200692131
+2023-03-31 15:11:54.289 [info] Extracted extension to /home/hadi/.vscode/extensions/.1f9a00f4-298d-457e-a101-ab4a61aff2e6: ms-python.python
+2023-03-31 15:11:55.812 [info] Renamed to /home/hadi/.vscode/extensions/ms-python.python-2023.6.0
+2023-03-31 15:11:55.834 [info] Extracting extension completed. ms-python.python
+2023-03-31 15:11:55.921 [info] Extension installed successfully: ms-python.python
+2023-03-31 15:11:55.966 [info] Marked extension as uninstalled ms-python.python-2023.4.1

@@ -1,0 +1,63 @@
+2023-03-24 10:16:15.392 [info] [perf] Render performance baseline is 102ms
+2023-03-24 10:22:40.253 [error] Render frame was disposed before WebFrameMain could be accessed: Error: Render frame was disposed before WebFrameMain could be accessed
+    at /snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:81:53914
+    at Array.find (<anonymous>)
+    at k.c (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:81:53904)
+    at k.stopFindInFrame (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:81:53638)
+    at Object.call (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:25:5100)
+    at h.s (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:23:5439)
+    at h.q (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:23:4930)
+    at /snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:23:4335
+    at m.invoke (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at p.deliver (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:2070)
+    at a.fire (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:1708)
+    at /snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:17:19303
+    at m.invoke (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at p.deliver (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:2070)
+    at a.fire (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:1708)
+    at /snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:17:19485
+    at m.invoke (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at p.deliver (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:2070)
+    at a.fire (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:1708)
+    at j (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:17:21582)
+    at IpcMainImpl.g (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:16:77648)
+    at IpcMainImpl.emit (node:events:526:28)
+    at EventEmitter.<anonymous> (node:electron/js2c/browser_init:169:11430)
+    at EventEmitter.emit (node:events:526:28)
+2023-03-24 10:23:30.349 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-24 10:23:30.351 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-24 11:21:05.778 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-24 11:21:05.835 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-24 11:21:10.044 [warning] UNRESPONSIVE extension host: 'vscode.json-language-features' took 58.28351733692551% of 121.58ms, saved PROFILE here: 'file:///tmp/exthost-b172ba.cpuprofile'
+2023-03-24 11:23:30.872 [error] Render frame was disposed before WebFrameMain could be accessed: Error: Render frame was disposed before WebFrameMain could be accessed
+    at /snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:81:53914
+    at Array.find (<anonymous>)
+    at k.c (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:81:53904)
+    at k.stopFindInFrame (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:81:53638)
+    at Object.call (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:25:5100)
+    at h.s (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:23:5439)
+    at h.q (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:23:4930)
+    at /snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:23:4335
+    at m.invoke (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at p.deliver (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:2070)
+    at a.fire (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:1708)
+    at /snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:17:19303
+    at m.invoke (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at p.deliver (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:2070)
+    at a.fire (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:1708)
+    at /snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:17:19485
+    at m.invoke (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at p.deliver (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:2070)
+    at a.fire (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:19:1708)
+    at j (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:17:21582)
+    at IpcMainImpl.g (/snap/code/122/usr/share/code/resources/app/out/vs/code/electron-main/main.js:16:77648)
+    at IpcMainImpl.emit (node:events:526:28)
+    at EventEmitter.<anonymous> (node:electron/js2c/browser_init:169:11430)
+    at EventEmitter.emit (node:events:526:28)
+2023-03-24 11:23:50.785 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-24 11:23:50.787 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-24 11:27:47.135 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-24 11:27:47.481 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/snap/code/122/usr/share/code/resources/app/out/bootstrap.js:1:419)
+	at process.emit (node:events:526:28)
+2023-03-24 11:27:47.482 [info] UNRESPONSIVE extension host: starting to profile NOW

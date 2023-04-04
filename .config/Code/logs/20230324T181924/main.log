@@ -1,0 +1,9 @@
+2023-03-24 18:19:24.996 [info] update#setState idle
+2023-03-24 18:19:28.018 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-24 18:19:28.033 [info] [UtilityProcess id: 1, type: extensionHost, pid: 23720]: successfully created
+2023-03-24 18:19:55.001 [info] update#setState checking for updates
+2023-03-24 18:19:55.003 [info] update#setState idle
+2023-03-24 18:30:21.551 [info] [UtilityProcess id: 1, type: extensionHost, pid: 23720]: waiting to exit...
+2023-03-24 18:30:22.193 [info] [UtilityProcess id: 1, type: extensionHost, pid: 23720]: received exit event with code 0
+2023-03-24 18:30:22.194 [info] Extension host with pid 23720 exited with code: 0, signal: unknown.
+2023-03-24 18:30:23.729 [warning] [storage main] detected slow close() operation: Time: 2184ms, DB size: 38268928b, Large Keys: memento/workbench.editor.interactive:11472, __$__targetStorageMarker:3520, ms-toolsai.jupyter:2870, memento/workbench.editors.files.textFileEditor:2180, memento/workbench.parts.editor:2106

@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "Ceas cu alarmă"
+   },
+   "AppDesc": {
+      "message": "Cronometre utile pentru toate nevoile tale"
+   },
+   "AppName": {
+      "message": "Temporizator pentru  ™"
+   },
+   "Cancel": {
+      "message": "Anulare"
+   },
+   "Countdown": {
+      "message": "Numărătoarea inversă"
+   },
+   "Pause": {
+      "message": "Pauză"
+   },
+   "Resume": {
+      "message": "Relua"
+   },
+   "Stop": {
+      "message": "Stop"
+   },
+   "Stopwatch": {
+      "message": "Cronometru"
+   }
+}

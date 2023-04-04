@@ -1,0 +1,11 @@
+2023-03-30 17:53:08.698 [info] Starting worker process with pid 33225 (type: fileWatcher, window: 1).
+2023-03-30 17:53:12.444 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-30 17:53:16.736 [info] Getting Manifest... ms-python.vscode-pylance
+2023-03-30 17:53:17.788 [info] Installing extension: ms-python.vscode-pylance
+2023-03-30 17:53:19.200 [info] Getting Manifest... ms-python.python
+2023-03-30 17:53:40.003 [info] Extension signature verification: ms-python.vscode-pylance. Verification status: Verified.
+2023-03-30 17:53:44.321 [info] Extracted extension to /home/hadi/.vscode/extensions/.2415ce03-c495-467a-bb1b-0ef11c4a5647: ms-python.vscode-pylance
+2023-03-30 17:53:45.431 [info] Renamed to /home/hadi/.vscode/extensions/ms-python.vscode-pylance-2023.3.40
+2023-03-30 17:53:45.443 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-03-30 17:53:46.107 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-03-30 17:53:46.128 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.3.30

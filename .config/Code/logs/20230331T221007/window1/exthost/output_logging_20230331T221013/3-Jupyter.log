@@ -1,0 +1,41 @@
+Visual Studio Code (1.77.0, undefined, desktop)
+Jupyter Extension Version: 2023.3.1000892223.
+Python Extension Version: 2023.6.0.
+Workspace folder /home/hadi/Desktop
+info 22:10:15.400: ZMQ loaded via fallback mechanism.
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'jupyterTestcf'
+info 22:10:16.349: LSP Notebooks experiment is enabled
+warn 22:10:19.001: Failed to get activated env vars for /bin/python3 in 2232ms
+info 22:10:19.120: Process Execution: > /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+> /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+info 22:10:19.239: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 22:11:27.235: Starting interactive window for resource '/home/hadi/Desktop/my_python_codes/pandas_practice.py' with controller '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Interactive)'
+info 22:11:28.715: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Python Path: , EnvType: Unknown, EnvName: '', Version: 3.10.6 (main, Mar 10 2023, 10:55:28) [GCC 11.3.0]) for '/Interactive-1.interactive' (disableUI=false)
+warn 22:11:29.167: Failed to get activated env vars for /bin/python3 in 422ms
+info 22:11:29.217: Process Execution: > /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+warn 22:11:29.219: Failed to get activated env vars for /bin/python3 in 344ms
+warn 22:11:29.225: Failed to get activated env vars for /bin/python3 in 343ms
+info 22:11:29.278: Process Execution: > /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"0d2da556-69f7-4970-aa80-ca94ea237ec1" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/hadi/.local/share/jupyter/runtime/kernel-v2-24903nBSaSaf2v2KK.json
+> /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"0d2da556-69f7-4970-aa80-ca94ea237ec1" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/hadi/.local/share/jupyter/runtime/kernel-v2-24903nBSaSaf2v2KK.json
+info 22:11:29.278: Process Execution: cwd: ~/Desktop/my_python_codes
+cwd: ~/Desktop/my_python_codes
+info 22:11:29.649: ipykernel version & path 6.21.3, ~/.local/lib/python3.10/site-packages/ipykernel/__init__.py for /bin/python3
+info 22:11:30.165: ZMQ loaded via fallback mechanism.
+info 22:11:31.185: Started Kernel Python 3.10.6 (pid: 25279)
+info 22:11:31.347: Generated code for 1 = <ipython-input-1-957a1fd07a5c> with 7 lines
+warn 22:11:31.573: Failed to get activated env vars for /bin/python3 in 246ms
+info 22:11:31.616: Process Execution: > /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py
+info 22:11:32.640: Cancel all remaining cells true || Error || undefined
+info 22:16:17.534: Generated code for 2 = <ipython-input-2-957a1fd07a5c> with 7 lines
+info 22:16:41.022: Generated code for 3 = <ipython-input-3-4b4c683870da> with 2 lines
+info 22:16:42.722: Generated code for 4 = <ipython-input-4-34e919c4f785> with 2 lines
+info 08:39:43.987: Shutting down notebooks for 21d4c351-c2ea-4e23-8e8f-a0ba62699ec7
+info 08:39:44.065: Disposing HostJupyterExecution 4bb0faa2-4220-4f79-9f7b-7fb64c3ea7e3
+info 08:39:44.209: Dispose Kernel '/Interactive-1.interactive' associated with '/home/hadi/Desktop/my_python_codes/pandas_practice.py'
+info 08:39:44.732: Dispose Kernel process 25279.
+info 08:39:44.983: Disposing HostJupyterExecution 4bb0faa2-4220-4f79-9f7b-7fb64c3ea7e3
+info 08:39:45.104: Dispose Kernel '/Interactive-1.interactive' associated with '/home/hadi/Desktop/my_python_codes/pandas_practice.py'

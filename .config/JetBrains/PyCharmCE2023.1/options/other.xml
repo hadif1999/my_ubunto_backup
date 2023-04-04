@@ -1,0 +1,67 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="18.0" />
+    <option name="presentationModeIdeScale" value="1.5555556" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "KEYMAP": "run\npython console\nconsole",
+    "MarketplacePluginsSearchHistory": "/tag:theme",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "font",
+    "appcds.runOnSecondStart": "PC-231.8109.197-8eebaf2bd26a7c3f0776938fcf71bb0c36bee4fd55a14270a5d2986e37b7de33",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PC-231.8109.197",
+    "experimental.ui.used.once": "true",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "22.0",
+    "fontSizeToResetEditor": "22.0",
+    "gotit.previous.run": "PC-231.8109.197",
+    "ide.memory.adjusted": "true",
+    "ide.updates.old.dirs.scan.scheduled": "1681066067763",
+    "ide.updates.previous.build.number": "PC-231.8109.197",
+    "input.method.disabler.muted": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "PC-231.8109.197",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/hadi/Desktop/earthquake_proj/data_modifier.py"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;SpeedSearch&quot;: 1679567405011,
+    &quot;SearchEverywhere&quot;: 1679567377250,
+    &quot;GoToDeclaration&quot;: 1679672945759,
+    &quot;CommentCode&quot;: 1679567366050,
+    &quot;ShowUsages&quot;: 1679672930538,
+    &quot;FindReplaceToggle&quot;: 1679567414159,
+    &quot;FindInPath&quot;: 1679567397869
+  }
+}</component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="pythonProject1-history" project-path="$USER_HOME$/PycharmProjects/pythonProject1" last-access-time="1679673066942" />
+      <command-history-file filename="pythonProject1-history1" project-path="$USER_HOME$/PycharmProjects/pythonProject1" last-access-time="1679674406204" />
+    </command-history-files>
+  </component>
+</application>

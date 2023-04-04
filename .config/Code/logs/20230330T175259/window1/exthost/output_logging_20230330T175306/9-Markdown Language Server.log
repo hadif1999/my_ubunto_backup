@@ -1,0 +1,8 @@
+[Trace 15:45:09.710] VsCodeClientWorkspace: TextDocument.onDidOpen: vscode-notebook-cell:/Interactive-1.interactive#W0sdnNjb2RlLWludGVyYWN0aXZl
+[Trace 15:45:09.711] VsCodeClientWorkspace: TextDocument.onDidChanceContent: vscode-notebook-cell:/Interactive-1.interactive#W0sdnNjb2RlLWludGVyYWN0aXZl
+[Trace 15:47:34.448] VsCodeClientWorkspace: TextDocument.onDidClose: vscode-notebook-cell:/Interactive-1.interactive#W0sdnNjb2RlLWludGVyYWN0aXZl
+[Trace 15:47:34.449] VsCodeClientWorkspace: deleteDocument: vscode-notebook-cell:/Interactive-1.interactive#W0sdnNjb2RlLWludGVyYWN0aXZl
+[Trace 15:53:19.688] VsCodeClientWorkspace: TextDocument.onDidOpen: vscode-notebook-cell:/Interactive-1.interactive#W0sdnNjb2RlLWludGVyYWN0aXZl
+[Trace 15:53:19.689] VsCodeClientWorkspace: TextDocument.onDidChanceContent: vscode-notebook-cell:/Interactive-1.interactive#W0sdnNjb2RlLWludGVyYWN0aXZl
+[Trace 15:53:30.924] VsCodeClientWorkspace: TextDocument.onDidChanceContent: vscode-notebook-cell:/Interactive-1.interactive#W0sdnNjb2RlLWludGVyYWN0aXZl
+[Trace 15:53:30.971] VsCodeClientWorkspace: TextDocument.onDidChanceContent: vscode-notebook-cell:/Interactive-1.interactive#W0sdnNjb2RlLWludGVyYWN0aXZl

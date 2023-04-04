@@ -1,0 +1,158 @@
+12:18:10.956: Using EGL/X11
+12:18:10.956: CPU Name: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+12:18:10.956: CPU Speed: 3099.999MHz
+12:18:10.956: Physical Cores: 2, Logical Cores: 4
+12:18:10.956: Physical Memory: 7835MB Total, 2914MB Free
+12:18:10.956: Kernel Version: Linux 5.19.0-35-generic
+12:18:10.956: Distribution: "Ubuntu" "22.04"
+12:18:10.956: Session Type: x11
+12:18:10.957: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+12:18:10.957: Qt Version: 6.2.4 (runtime), 6.2.4 (compiled)
+12:18:10.957: Portable mode: false
+12:18:11.006: OBS 29.0.2 (linux)
+12:18:11.006: ---------------------------------
+12:18:11.007: ---------------------------------
+12:18:11.007: audio settings reset:
+12:18:11.007: 	samples per sec: 48000
+12:18:11.007: 	speakers:        2
+12:18:11.007: 	max buffering:   960 milliseconds
+12:18:11.007: 	buffering type:  dynamically increasing
+12:18:11.015: ---------------------------------
+12:18:11.015: Initializing OpenGL...
+12:18:11.083: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 620 (KBL GT2)
+12:18:11.083: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 22.2.5, shading language 4.60
+12:18:11.120: ---------------------------------
+12:18:11.121: video settings reset:
+12:18:11.121: 	base resolution:   1920x1080
+12:18:11.121: 	output resolution: 852x480
+12:18:11.121: 	downscale filter:  Bicubic
+12:18:11.121: 	fps:               30/1
+12:18:11.121: 	format:            NV12
+12:18:11.121: 	YUV mode:          Rec. 709/Partial
+12:18:11.121: NV12 texture support not available
+12:18:11.121: P010 texture support not available
+12:18:11.127: Audio monitoring device:
+12:18:11.127: 	name: Default
+12:18:11.127: 	id: default
+12:18:11.127: ---------------------------------
+12:18:11.139: No AJA devices found, skipping loading AJA UI plugin
+12:18:11.139: Failed to initialize module 'aja-output-ui.so'
+12:18:11.150: No AJA devices found, skipping loading AJA plugin
+12:18:11.150: Failed to initialize module 'aja.so'
+12:18:11.158: Failed to load 'en-US' text for module: 'decklink-captions.so'
+12:18:11.167: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+12:18:11.175: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+12:18:11.175: Failed to initialize module 'decklink.so'
+12:18:11.394: [pipewire] No captures available
+12:18:11.429: [obs-browser]: Version 2.19.0
+12:18:11.429: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures_143.2591+g4204d54+chromium-103.0.5060.134 (compiled)
+12:18:11.887: VAAPI: API version 1.14
+12:18:11.922: FFmpeg VAAPI H264 encoding supported
+12:18:11.987: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.1.0 | RPC Version: 1)
+12:18:11.987: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.2.4 | Qt version (run-time): 6.2.4
+12:18:11.987: [obs-websocket] [obs_module_load] Linked ASIO Version: 101201
+12:18:11.994: [obs-websocket] [obs_module_load] Module loaded.
+12:18:12.037: [vlc-video]: VLC 3.0.16 Vetinari found, VLC video source enabled
+12:18:12.037: ---------------------------------
+12:18:12.037:   Loaded Modules:
+12:18:12.037:     vlc-video.so
+12:18:12.037:     text-freetype2.so
+12:18:12.037:     rtmp-services.so
+12:18:12.037:     obs-x264.so
+12:18:12.037:     obs-websocket.so
+12:18:12.037:     obs-vst.so
+12:18:12.037:     obs-transitions.so
+12:18:12.037:     obs-outputs.so
+12:18:12.037:     obs-libfdk.so
+12:18:12.037:     obs-filters.so
+12:18:12.037:     obs-ffmpeg.so
+12:18:12.037:     obs-browser.so
+12:18:12.037:     linux-v4l2.so
+12:18:12.037:     linux-pulseaudio.so
+12:18:12.037:     linux-pipewire.so
+12:18:12.037:     linux-jack.so
+12:18:12.037:     linux-capture.so
+12:18:12.037:     linux-alsa.so
+12:18:12.037:     image-source.so
+12:18:12.037:     frontend-tools.so
+12:18:12.037:     decklink-output-ui.so
+12:18:12.037:     decklink-captions.so
+12:18:12.037: ---------------------------------
+12:18:12.038: ==== Startup complete ===============================================
+12:18:12.074: All scene data cleared
+12:18:12.074: ------------------------------------------------
+12:18:12.076: pulse-input: Server name: 'pulseaudio 15.99.1'
+12:18:12.076: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+12:18:12.077: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+12:18:12.077: [Loaded global audio device]: 'Desktop Audio'
+12:18:12.141: pulse-input: Server name: 'pulseaudio 15.99.1'
+12:18:12.141: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+12:18:12.142: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo' (default)
+12:18:12.142: [Loaded global audio device]: 'Mic/Aux'
+12:18:12.157: pulse-input: Server name: 'pulseaudio 15.99.1'
+12:18:12.157: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+12:18:12.158: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+12:18:12.160: xshm-input: Geometry 1920x1080 @ 0,0
+12:18:12.178: Switched to scene 'Scene'
+12:18:12.178: ------------------------------------------------
+12:18:12.179: Loaded scenes:
+12:18:12.179: - scene 'Scene':
+12:18:12.179:     - source: 'Screen Capture (XSHM)' (xshm_input)
+12:18:12.179:     - source: 'Audio Input Capture (PulseAudio)' (pulse_input_capture)
+12:18:12.179: ------------------------------------------------
+12:18:12.714: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+12:18:12.714: 
+12:18:42.563: ---------------------------------
+12:18:42.563: [x264 encoder: 'simple_video_recording'] preset: veryfast
+12:18:42.563: [x264 encoder: 'simple_video_recording'] profile: high
+12:18:42.563: [x264 encoder: 'simple_video_recording'] settings:
+12:18:42.563: 	rate_control: CRF
+12:18:42.563: 	bitrate:      0
+12:18:42.563: 	buffer size:  0
+12:18:42.563: 	crf:          18
+12:18:42.563: 	fps_num:      30
+12:18:42.563: 	fps_den:      1
+12:18:42.563: 	width:        852
+12:18:42.563: 	height:       480
+12:18:42.563: 	keyint:       250
+12:18:42.563: 
+12:18:42.576: libfdk_aac encoder created
+12:18:42.576: libfdk_aac bitrate: 192, channels: 2
+12:18:42.603: ==== Recording Start ===============================================
+12:18:42.603: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/hadi/2023-03-27 12-18-42.mkv'...
+12:18:57.378: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/hadi/2023-03-27 12-18-42.mkv' stopped
+12:18:57.378: Output 'simple_file_output': stopping
+12:18:57.378: Output 'simple_file_output': Total frames output: 423
+12:18:57.378: Output 'simple_file_output': Total drawn frames: 443
+12:18:57.378: ==== Recording Stop ================================================
+12:18:57.387: libfdk_aac encoder destroyed
+12:19:47.905: Settings changed (outputs)
+12:19:47.905: ------------------------------------------------
+12:34:27.015: [rtmp-services plugin] Remote update of URL "https://obsproject.com/obs2_update/rtmp-services/v4/package.json" failed: OpenSSL SSL_read: Network is unreachable, errno 101
+12:34:27.016: run: Failed to fetch whatsnew file: OpenSSL SSL_read: Network is unreachable, errno 101
+12:37:55.477: Settings changed (general, outputs)
+12:37:55.477: ------------------------------------------------
+12:38:18.192: ---------------------------------
+12:38:18.192: [x264 encoder: 'simple_video_recording'] preset: veryfast
+12:38:18.192: [x264 encoder: 'simple_video_recording'] profile: high
+12:38:18.192: [x264 encoder: 'simple_video_recording'] settings:
+12:38:18.192: 	rate_control: CRF
+12:38:18.192: 	bitrate:      0
+12:38:18.192: 	buffer size:  0
+12:38:18.192: 	crf:          18
+12:38:18.192: 	fps_num:      30
+12:38:18.192: 	fps_den:      1
+12:38:18.192: 	width:        852
+12:38:18.192: 	height:       480
+12:38:18.192: 	keyint:       250
+12:38:18.192: 
+12:38:18.202: libfdk_aac encoder created
+12:38:18.202: libfdk_aac bitrate: 192, channels: 2
+12:38:18.223: ==== Recording Start ===============================================
+12:38:18.223: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/hadi/Downloads/2023-03-27_12-38-18.mp4'...
+12:38:29.909: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/hadi/Downloads/2023-03-27_12-38-18.mp4' stopped
+12:38:29.909: Output 'simple_file_output': stopping
+12:38:29.909: Output 'simple_file_output': Total frames output: 330
+12:38:29.909: Output 'simple_file_output': Total drawn frames: 351
+12:38:29.909: ==== Recording Stop ================================================
+12:38:29.912: libfdk_aac encoder destroyed

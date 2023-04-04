@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "Äratuskell"
+   },
+   "AppDesc": {
+      "message": "Kasulikud taimerid teie kõigi vajaduste jaoks"
+   },
+   "AppName": {
+      "message": "Taimer &#39;i jaoks"
+   },
+   "Cancel": {
+      "message": "tühistama"
+   },
+   "Countdown": {
+      "message": "Tagaplaan"
+   },
+   "Pause": {
+      "message": "Paus"
+   },
+   "Resume": {
+      "message": "Jätka"
+   },
+   "Stop": {
+      "message": "Peatu"
+   },
+   "Stopwatch": {
+      "message": "stopper"
+   }
+}

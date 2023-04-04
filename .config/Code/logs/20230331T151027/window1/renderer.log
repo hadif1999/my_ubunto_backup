@@ -1,0 +1,573 @@
+2023-03-31 15:10:34.739 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:10:34.745 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:10:34.780 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:10:34.781 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:10:34.781 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:10:34.781 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:10:34.782 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:10:34.783 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:10:40.572 [error] Extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:10:40.666 [error] Extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:10:44.831 [info] [perf] Render performance baseline is 159ms
+2023-03-31 15:10:44.832 [info] [perf] Render performance baseline is 401ms
+2023-03-31 15:10:46.863 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-31 15:10:49.541 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-31 15:12:33.671 [error] Error: Could not initialize webview: Error: Could not register service worker: InvalidStateError: Failed to register a ServiceWorker: The document is in an invalid state..}
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1887:1611
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:8651
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7780
+    at Set.forEach (<anonymous>)
+    at w.onmessage (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7769)
+2023-03-31 15:12:33.851 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13847)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13012)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100175
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+    at async d.run (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2318:104487)
+2023-03-31 15:12:33.855 [error] Failed to request creation of interactive window from VS Code.: Error: Failed to request creation of interactive window from VS Code.
+	at m.h (/snap/code/123/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:126151)
+2023-03-31 15:12:47.700 [error] Error: Could not initialize webview: Error: Could not register service worker: InvalidStateError: Failed to register a ServiceWorker: The document is in an invalid state..}
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1887:1611
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:8651
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7780
+    at Set.forEach (<anonymous>)
+    at w.onmessage (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7769)
+2023-03-31 15:12:47.713 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13847)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13012)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100175
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+    at async d.run (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2318:104487)
+2023-03-31 15:12:47.784 [error] Failed to request creation of interactive window from VS Code.: Error: Failed to request creation of interactive window from VS Code.
+	at m.h (/snap/code/123/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:126151)
+2023-03-31 15:12:48.389 [error] Error: Could not initialize webview: Error: Could not register service worker: InvalidStateError: Failed to register a ServiceWorker: The document is in an invalid state..}
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1887:1611
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:8651
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7780
+    at Set.forEach (<anonymous>)
+    at w.onmessage (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7769)
+2023-03-31 15:12:48.400 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13847)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13012)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100175
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+    at async d.run (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2318:104487)
+2023-03-31 15:12:48.422 [error] Failed to request creation of interactive window from VS Code.: Error: Failed to request creation of interactive window from VS Code.
+	at m.h (/snap/code/123/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:126151)
+2023-03-31 15:12:59.598 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:12:59.613 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:12:59.614 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:12:59.614 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 15:13:05.341 [info] [perf] Render performance baseline is 86ms
+2023-03-31 15:19:09.047 [error] Error: Could not initialize webview: Error: Could not register service worker: InvalidStateError: Failed to register a ServiceWorker: The document is in an invalid state..}
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1887:1611
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:8651
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7780
+    at Set.forEach (<anonymous>)
+    at w.onmessage (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7769)
+2023-03-31 15:19:09.070 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13847)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13012)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100175
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+    at async d.run (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2318:104487)
+2023-03-31 15:19:09.113 [error] Failed to request creation of interactive window from VS Code.: Error: Failed to request creation of interactive window from VS Code.
+	at m.h (/snap/code/123/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:126151)
+2023-03-31 15:19:10.716 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o.i (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1899:49534)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1899:49464
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99467
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at Xi.Cb (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28481)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28112
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:6616
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2316:22986
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:750:80911
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at HTMLDivElement.dt (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:90:36705)
+2023-03-31 15:19:10.718 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at c.g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1899:51180)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1899:51110
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99467
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at Xi.Cb (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28481)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28112
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:6616
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2316:22986
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:750:80911
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at HTMLDivElement.dt (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:90:36705)
+2023-03-31 15:19:10.719 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at i (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1586:29670)
+    at i.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1586:28920)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99467
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at Xi.Cb (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28481)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28112
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:6616
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2316:22986
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:750:80911
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at HTMLDivElement.dt (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:90:36705)
+2023-03-31 15:19:10.720 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13550)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:12953)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99467
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at Xi.Cb (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28481)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28112
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:6616
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2316:22986
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:750:80911
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at HTMLDivElement.dt (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:90:36705)
+2023-03-31 15:20:35.042 [error] Error: Could not initialize webview: Error: Could not register service worker: InvalidStateError: Failed to register a ServiceWorker: The document is in an invalid state..}
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1887:1611
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:8651
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7780
+    at Set.forEach (<anonymous>)
+    at w.onmessage (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7769)
+2023-03-31 15:20:35.050 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13847)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13012)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100175
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+    at async d.run (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2318:104487)
+2023-03-31 15:20:35.052 [error] Failed to request creation of interactive window from VS Code.: Error: Failed to request creation of interactive window from VS Code.
+	at m.h (/snap/code/123/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:126151)
+2023-03-31 15:21:24.315 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at i (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1586:29670)
+    at i.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1586:28920)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100163
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+    at async qo.open (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2621:14187)
+2023-03-31 15:21:24.315 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13847)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:12953)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100163
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+    at async qo.open (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2621:14187)
+2023-03-31 15:21:24.319 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13847)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13012)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100175
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+    at async qo.open (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2621:14187)
+2023-03-31 15:21:43.132 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at i (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1586:29670)
+    at i.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1586:28920)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100163
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+2023-03-31 15:21:43.132 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13847)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:12953)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100163
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+2023-03-31 15:21:43.135 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13847)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13012)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100175
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+2023-03-31 15:21:47.352 [error] Error: Could not initialize webview: Error: Could not register service worker: InvalidStateError: Failed to register a ServiceWorker: The document is in an invalid state..}
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1887:1611
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:8651
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7780
+    at Set.forEach (<anonymous>)
+    at w.onmessage (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7769)
+2023-03-31 15:21:47.357 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13847)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13012)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100175
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+    at async d.run (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2318:104487)
+2023-03-31 15:21:47.374 [error] Failed to request creation of interactive window from VS Code.: Error: Failed to request creation of interactive window from VS Code.
+	at m.h (/snap/code/123/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:126151)
+2023-03-31 15:21:50.442 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o.i (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1899:49534)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1899:49464
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99467
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at Xi.Cb (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28481)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28112
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:6616
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2316:22986
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:750:80911
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at HTMLDivElement.dt (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:90:36705)
+2023-03-31 15:21:50.444 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at c.g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1899:51180)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1899:51110
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99467
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at Xi.Cb (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28481)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28112
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:6616
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2316:22986
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:750:80911
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at HTMLDivElement.dt (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:90:36705)
+2023-03-31 15:21:50.447 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at i (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1586:29670)
+    at i.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1586:28920)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99467
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at Xi.Cb (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28481)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28112
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:6616
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2316:22986
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:750:80911
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at HTMLDivElement.dt (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:90:36705)
+2023-03-31 15:21:50.450 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13550)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:12953)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99467
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at Xi.Cb (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28481)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:28112
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:6616
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2316:22986
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:750:80911
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at HTMLDivElement.dt (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:90:36705)
+2023-03-31 15:23:20.978 [error] Error: Could not initialize webview: Error: Could not register service worker: InvalidStateError: Failed to register a ServiceWorker: The document is in an invalid state..}
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1887:1611
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:8651
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7780
+    at Set.forEach (<anonymous>)
+    at w.onmessage (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1216:7769)
+2023-03-31 15:23:20.996 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13847)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13012)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100175
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+    at async d.run (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2318:104487)
+2023-03-31 15:23:21.057 [error] Failed to request creation of interactive window from VS Code.: Error: Failed to request creation of interactive window from VS Code.
+	at m.h (/snap/code/123/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:126151)
+2023-03-31 15:24:58.378 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at i (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1586:29670)
+    at i.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1586:28920)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100163
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+    at async H.F (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2332:3180)
+    at async Ue.run (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2550:28072)
+    at async D.k (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:14978)
+    at async D.run (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:14902)
+    at async p.l (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1200:36417)
+2023-03-31 15:24:58.379 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13847)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:12953)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at y.z (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100011)
+    at y (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:99919)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100163
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+    at async H.F (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2332:3180)
+    at async Ue.run (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2550:28072)
+    at async D.k (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:14978)
+    at async D.run (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:14902)
+    at async p.l (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1200:36417)
+2023-03-31 15:24:58.382 [error] Cannot read properties of undefined (reading 'notebookEditor'): TypeError: Cannot read properties of undefined (reading 'notebookEditor')
+    at g (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1088:8702)
+    at o (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13847)
+    at o.<anonymous> (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2340:13012)
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2331:100175
+    at g.invoke (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2503:13569
+    at async H.F (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2332:3180)
+    at async Ue.run (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2550:28072)
+    at async D.k (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:14978)
+    at async D.run (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:14902)
+    at async p.l (vscode-file://vscode-app/snap/code/123/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1200:36417)

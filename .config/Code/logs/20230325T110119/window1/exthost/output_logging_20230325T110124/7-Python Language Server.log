@@ -1,0 +1,24 @@
+[Info  - 11:01:34 AM] (5392) Pylance language server 2023.3.30 (pyright 68a8e98a) starting
+[Info  - 11:01:34 AM] (5392) Server root directory: /home/hadi/.vscode/extensions/ms-python.vscode-pylance-2023.3.30/dist
+[Info  - 11:01:34 AM] (5392) Starting service instance "Desktop"
+[Info  - 11:01:34 AM] (5392) Auto-indent enabled
+[Info  - 11:01:34 AM] (5392) No configuration file found.
+[Info  - 11:01:34 AM] (5392) No pyproject.toml file found.
+[Info  - 11:01:34 AM] (5392) Setting pythonPath for service "Desktop": "/bin/python3"
+[Warn  - 11:01:34 AM] (5392) stubPath /home/hadi/Desktop/typings is not a valid directory.
+[Info  - 11:01:34 AM] (5392) Assuming Python version 3.10
+[Info  - 11:01:34 AM] (5392) Assuming Python platform Linux
+[Info  - 11:01:35 AM] (5392) Searching for source files
+[Info  - 11:01:35 AM] (5392) Found 3 source files
+[Info  - 11:01:38 AM] (5392) Background analysis(1) root directory: /home/hadi/.vscode/extensions/ms-python.vscode-pylance-2023.3.30/dist
+[Info  - 11:01:38 AM] (5392) Background analysis(1) started
+[Info  - 11:01:38 AM] (5392) Indexer background runner(2) root directory: /home/hadi/.vscode/extensions/ms-python.vscode-pylance-2023.3.30/dist (index)
+[Info  - 11:01:38 AM] (5392) Indexing(2) started
+[Info  - 11:01:42 AM] (5392) [IDX(2)] Long operation: scan packages /home/hadi/Desktop (5658ms)
+[Info  - 11:01:42 AM] (5392) scanned(2) 161 files over 1 exec env
+[Info  - 11:01:43 AM] (5392) [BG(1)] Long operation: checking: /home/hadi/Desktop/earthquake_proj/data_modifier.py (4783ms)
+[Info  - 11:01:43 AM] (5392) [BG(1)] Long operation: analyzing: /home/hadi/Desktop/earthquake_proj/data_modifier.py (5405ms)
+[Info  - 11:01:47 AM] (5392) [IDX(2)] Long operation: index execution environment /home/hadi/Desktop (5149ms)
+[Info  - 11:01:47 AM] (5392) [IDX(2)] Long operation: index packages /home/hadi/Desktop (5272ms)
+[Info  - 11:01:47 AM] (5392) indexed(2) 95 files over 1 exec env
+[Info  - 11:01:47 AM] (5392) Indexing finished(2).

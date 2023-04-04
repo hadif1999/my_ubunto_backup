@@ -1,0 +1,15 @@
+2023/03/25-22:12:16.715 1221 Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/03/25-22:12:17.201 1221 Recovering log #36
+2023/03/25-22:12:17.495 1221 Reusing old log /home/hadi/.config/microsoft-edge/Default/Sync Data/LevelDB/000036.log 
+2023/03/25-22:15:13.938 1224 Level-0 table #40: started
+2023/03/25-22:15:14.050 1224 Level-0 table #40: 136861 bytes OK
+2023/03/25-22:15:14.102 1224 Delete type=0 #36
+2023/03/25-22:15:14.102 1224 Compacting 4@0 + 1@1 files
+2023/03/25-22:15:14.146 1224 Generated table #41@0: 273 keys, 25526 bytes
+2023/03/25-22:15:14.146 1224 Compacted 4@0 + 1@1 files => 25526 bytes
+2023/03/25-22:15:14.200 1224 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/25-22:15:14.202 1224 Delete type=2 #40
+2023/03/25-22:15:14.202 1224 Delete type=2 #29
+2023/03/25-22:15:14.202 1224 Delete type=2 #34
+2023/03/25-22:15:14.202 1224 Delete type=2 #37
+2023/03/25-22:15:14.202 1224 Delete type=2 #31

@@ -1,0 +1,18 @@
+Visual Studio Code (1.77.0, undefined, desktop)
+Jupyter Extension Version: 2023.2.1200692131.
+Python Extension Version: 2023.4.1.
+Workspace folder /home/hadi/Desktop
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'jupyterTestcf'
+info 15:10:47.779: LSP Notebooks experiment is enabled
+warn 15:10:50.701: Failed to get activated env vars with python /bin/python3 in 1860ms
+info 15:10:51.308: Process Execution: > /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_SITE);print("USER_BASE_VALUE");"
+> /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_SITE);print("USER_BASE_VALUE");"
+info 15:10:53.752: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 15:12:33.338: Starting interactive window for resource 'Untitled-2' with controller '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Interactive)'
+info 15:12:47.550: Starting interactive window for resource 'Untitled-2' with controller '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Interactive)'
+info 15:12:48.293: Starting interactive window for resource 'Untitled-2' with controller '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Interactive)'
+info 15:12:58.341: Shutting down notebooks for 86c4c8ef-7a1a-4eac-ab29-e434d7142d64
+info 15:12:58.341: Disposing HostJupyterExecution e39f63d2-122b-4c8a-a662-d44aaa2b5e2b
+info 15:12:58.342: Disposing HostJupyterExecution e39f63d2-122b-4c8a-a662-d44aaa2b5e2b

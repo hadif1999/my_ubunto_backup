@@ -1,0 +1,961 @@
+13:32:38.006: Using EGL/X11
+13:32:38.006: CPU Name: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+13:32:38.006: CPU Speed: 3100.019MHz
+13:32:38.006: Physical Cores: 2, Logical Cores: 4
+13:32:38.006: Physical Memory: 7835MB Total, 3393MB Free
+13:32:38.006: Kernel Version: Linux 5.19.0-35-generic
+13:32:38.006: Distribution: "Ubuntu" "22.04"
+13:32:38.006: Session Type: x11
+13:32:38.006: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+13:32:38.007: Qt Version: 6.2.4 (runtime), 6.2.4 (compiled)
+13:32:38.007: Portable mode: false
+13:32:38.062: OBS 29.0.2 (linux)
+13:32:38.062: ---------------------------------
+13:32:38.062: ---------------------------------
+13:32:38.062: audio settings reset:
+13:32:38.062: 	samples per sec: 48000
+13:32:38.062: 	speakers:        2
+13:32:38.062: 	max buffering:   960 milliseconds
+13:32:38.062: 	buffering type:  dynamically increasing
+13:32:38.071: ---------------------------------
+13:32:38.071: Initializing OpenGL...
+13:32:38.147: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 620 (KBL GT2)
+13:32:38.147: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 22.2.5, shading language 4.60
+13:32:38.182: ---------------------------------
+13:32:38.182: video settings reset:
+13:32:38.182: 	base resolution:   1920x1080
+13:32:38.182: 	output resolution: 852x480
+13:32:38.182: 	downscale filter:  Bicubic
+13:32:38.182: 	fps:               30/1
+13:32:38.182: 	format:            NV12
+13:32:38.182: 	YUV mode:          Rec. 709/Partial
+13:32:38.182: NV12 texture support not available
+13:32:38.182: P010 texture support not available
+13:32:38.189: Audio monitoring device:
+13:32:38.189: 	name: Default
+13:32:38.189: 	id: default
+13:32:38.189: ---------------------------------
+13:32:38.202: No AJA devices found, skipping loading AJA UI plugin
+13:32:38.202: Failed to initialize module 'aja-output-ui.so'
+13:32:38.213: No AJA devices found, skipping loading AJA plugin
+13:32:38.213: Failed to initialize module 'aja.so'
+13:32:38.221: Failed to load 'en-US' text for module: 'decklink-captions.so'
+13:32:38.230: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+13:32:38.238: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+13:32:38.238: Failed to initialize module 'decklink.so'
+13:32:38.463: [pipewire] No captures available
+13:32:38.498: [obs-browser]: Version 2.19.0
+13:32:38.498: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures_143.2591+g4204d54+chromium-103.0.5060.134 (compiled)
+13:32:38.955: VAAPI: API version 1.14
+13:32:38.974: FFmpeg VAAPI H264 encoding supported
+13:32:39.042: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.1.0 | RPC Version: 1)
+13:32:39.042: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.2.4 | Qt version (run-time): 6.2.4
+13:32:39.042: [obs-websocket] [obs_module_load] Linked ASIO Version: 101201
+13:32:39.050: [obs-websocket] [obs_module_load] Module loaded.
+13:32:39.093: [vlc-video]: VLC 3.0.16 Vetinari found, VLC video source enabled
+13:32:39.093: ---------------------------------
+13:32:39.093:   Loaded Modules:
+13:32:39.093:     vlc-video.so
+13:32:39.093:     text-freetype2.so
+13:32:39.093:     rtmp-services.so
+13:32:39.093:     obs-x264.so
+13:32:39.093:     obs-websocket.so
+13:32:39.093:     obs-vst.so
+13:32:39.093:     obs-transitions.so
+13:32:39.093:     obs-outputs.so
+13:32:39.093:     obs-libfdk.so
+13:32:39.093:     obs-filters.so
+13:32:39.093:     obs-ffmpeg.so
+13:32:39.093:     obs-browser.so
+13:32:39.093:     linux-v4l2.so
+13:32:39.093:     linux-pulseaudio.so
+13:32:39.093:     linux-pipewire.so
+13:32:39.094:     linux-jack.so
+13:32:39.094:     linux-capture.so
+13:32:39.094:     linux-alsa.so
+13:32:39.094:     image-source.so
+13:32:39.094:     frontend-tools.so
+13:32:39.094:     decklink-output-ui.so
+13:32:39.094:     decklink-captions.so
+13:32:39.094: ---------------------------------
+13:32:39.094: ==== Startup complete ===============================================
+13:32:39.130: All scene data cleared
+13:32:39.130: ------------------------------------------------
+13:32:39.132: pulse-input: Server name: 'pulseaudio 15.99.1'
+13:32:39.132: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+13:32:39.132: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+13:32:39.133: [Loaded global audio device]: 'Desktop Audio'
+13:32:39.197: pulse-input: Server name: 'pulseaudio 15.99.1'
+13:32:39.197: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+13:32:39.198: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo' (default)
+13:32:39.198: [Loaded global audio device]: 'Mic/Aux'
+13:32:39.202: xshm-input: Geometry 1920x1080 @ 0,0
+13:32:39.217: pulse-input: Server name: 'pulseaudio 15.99.1'
+13:32:39.218: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+13:32:39.218: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+13:32:39.221: Switched to scene 'Scene'
+13:32:39.222: ------------------------------------------------
+13:32:39.222: Loaded scenes:
+13:32:39.222: - scene 'Scene':
+13:32:39.222:     - source: 'Screen Capture (XSHM)' (xshm_input)
+13:32:39.222:     - source: 'Audio Input Capture (PulseAudio)' (pulse_input_capture)
+13:32:39.222: ------------------------------------------------
+13:32:39.769: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+13:32:39.769: 
+13:32:51.399: v4l2-input: Start capture from 
+13:32:51.400: v4l2-input: Unable to open device
+13:32:51.400: v4l2-input: Initialization failed, errno: No such file or directory
+13:32:51.415: User added source 'Video Capture Device (V4L2)' (v4l2_input) to scene 'Scene'
+13:32:51.478: v4l2-input: /dev/video1 seems to not support video capture
+13:32:51.606: v4l2-input: Found device 'USB2.0 HD UVC WebCam: USB2.0 HD' at /dev/video0
+13:32:51.607: v4l2-input: Found input 'Camera 1' (Index 0)
+13:32:51.608: v4l2-controls: setting default for Power Line Frequency to 2
+13:32:51.608: v4l2-controls: setting default for Auto Exposure to 3
+13:32:51.611: v4l2-input: Pixelformat: Motion-JPEG (available)
+13:32:51.611: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+13:32:51.611: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+13:32:51.611: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+13:32:51.611: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+13:32:51.611: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+13:32:51.612: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+13:32:51.613: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+13:32:51.616: v4l2-input: Pixelformat: Motion-JPEG (available)
+13:32:51.616: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+13:32:51.616: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+13:32:51.616: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+13:32:51.616: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+13:32:51.616: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+13:32:51.617: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+13:32:51.618: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+13:32:51.622: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+13:32:51.622: v4l2-input: Start capture from /dev/video0
+13:32:51.623: v4l2-input: Input: 0
+13:32:51.630: v4l2-input: Resolution: 1280x720
+13:32:51.630: v4l2-input: Pixelformat: MJPG
+13:32:51.630: v4l2-input: Linesize: 0 Bytes
+13:32:51.630: v4l2-input: Framerate: 30.00 fps
+13:32:51.632: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+13:33:17.310: v4l2-input: /dev/video0: Stopped capture after 761 frames
+13:33:17.325: v4l2-input: Start capture from 
+13:33:17.326: v4l2-input: Unable to open device
+13:33:17.326: v4l2-input: Initialization failed, errno: No such file or directory
+13:33:47.937: User Removed source 'Video Capture Device (V4L2)' (v4l2_input) from scene 'Scene'
+13:33:54.368: pulse-input: Stopped recording from 'default'
+13:33:54.368: pulse-input: Got 7648 packets with 3313656 frames
+13:33:54.369: pulse-input: Server name: 'pulseaudio 15.99.1'
+13:33:54.370: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+13:33:54.371: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo' (default)
+13:34:06.994: xshm-input: Geometry 1920x1080 @ 0,0
+13:34:07.893: xshm-input: Geometry 1920x1080 @ 0,0
+13:34:17.494: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:28.803: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:28.843: User added source 'Screen Capture (XSHM) 2' (xshm_input) to scene 'Scene'
+13:35:34.267: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:34.459: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:34.658: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:35.127: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:35.258: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:35.427: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:35.559: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:35.732: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:35.858: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:36.026: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:36.163: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:36.332: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:36.459: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:36.626: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:36.765: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:36.934: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:37.060: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:37.225: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:37.360: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:37.531: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:37.666: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:37.827: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:37.964: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:38.127: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:38.258: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:38.431: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:38.565: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:38.729: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:38.866: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:39.029: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:39.158: xshm-input: Geometry 1920x1080 @ 0,0
+13:35:48.745: Last log entry repeated for 4 more lines
+13:35:48.745: User Removed source 'Screen Capture (XSHM)' (xshm_input) from scene 'Scene'
+13:36:11.170: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:11.210: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Scene'
+13:36:17.796: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:18.261: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:18.435: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:18.562: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:18.729: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:18.866: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:19.025: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:19.162: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:19.325: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:19.458: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:19.637: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:19.767: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:19.934: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:20.059: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:20.234: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:20.363: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:20.532: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:20.663: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:20.833: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:20.958: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:21.125: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:21.267: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:21.433: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:21.559: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:21.726: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:21.858: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:22.035: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:22.158: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:22.334: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:22.465: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:22.629: xshm-input: Geometry 1920x1080 @ 0,0
+13:36:53.595: Last log entry repeated for 97 more lines
+13:36:53.595: xshm-input: failed to attach shm !
+13:37:00.858: xshm-input: Geometry 1920x1080 @ 0,0
+13:37:00.859: xshm-input: failed to attach shm !
+13:37:12.825: xshm-input: Geometry 1920x1080 @ 0,0
+13:37:12.825: xshm-input: failed to attach shm !
+13:37:12.837: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:12.837: device_set_viewport (GL) failed
+13:37:12.866: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:12.866: device_set_viewport (GL) failed
+13:37:12.900: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:12.900: device_set_viewport (GL) failed
+13:37:12.933: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:12.933: device_set_viewport (GL) failed
+13:37:12.966: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:12.966: device_set_viewport (GL) failed
+13:37:12.999: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.000: device_set_viewport (GL) failed
+13:37:13.033: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.033: device_set_viewport (GL) failed
+13:37:13.066: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.066: device_set_viewport (GL) failed
+13:37:13.099: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.099: device_set_viewport (GL) failed
+13:37:13.133: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.133: device_set_viewport (GL) failed
+13:37:13.166: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.166: device_set_viewport (GL) failed
+13:37:13.199: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.200: device_set_viewport (GL) failed
+13:37:13.233: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.233: device_set_viewport (GL) failed
+13:37:13.266: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.267: device_set_viewport (GL) failed
+13:37:13.299: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.299: device_set_viewport (GL) failed
+13:37:13.329: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.329: device_set_viewport (GL) failed
+13:37:13.364: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.364: device_set_viewport (GL) failed
+13:37:13.399: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.400: device_set_viewport (GL) failed
+13:37:13.432: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.433: device_set_viewport (GL) failed
+13:37:13.466: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.466: device_set_viewport (GL) failed
+13:37:13.499: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.499: device_set_viewport (GL) failed
+13:37:13.533: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.533: device_set_viewport (GL) failed
+13:37:13.562: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.562: device_set_viewport (GL) failed
+13:37:13.596: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.596: device_set_viewport (GL) failed
+13:37:13.633: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.633: device_set_viewport (GL) failed
+13:37:13.667: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.667: device_set_viewport (GL) failed
+13:37:13.700: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.700: device_set_viewport (GL) failed
+13:37:13.733: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.733: device_set_viewport (GL) failed
+13:37:13.766: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.766: device_set_viewport (GL) failed
+13:37:13.799: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.799: device_set_viewport (GL) failed
+13:37:13.833: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.833: device_set_viewport (GL) failed
+13:37:13.866: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.866: device_set_viewport (GL) failed
+13:37:13.899: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.900: device_set_viewport (GL) failed
+13:37:13.933: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.933: device_set_viewport (GL) failed
+13:37:13.967: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.967: device_set_viewport (GL) failed
+13:37:13.997: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:13.997: device_set_viewport (GL) failed
+13:37:14.022: xshm-input: Geometry 1920x1080 @ 0,0
+13:37:14.023: glBufferData failed, glGetError returned GL_OUT_OF_MEMORY(0x505)
+13:37:14.023: device_texture_create (GL) failed
+13:37:14.029: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.029: device_set_viewport (GL) failed
+13:37:14.062: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.062: device_set_viewport (GL) failed
+13:37:14.095: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.095: device_set_viewport (GL) failed
+13:37:14.128: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.128: device_set_viewport (GL) failed
+13:37:14.162: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.162: device_set_viewport (GL) failed
+13:37:14.194: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.194: device_set_viewport (GL) failed
+13:37:14.228: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.228: device_set_viewport (GL) failed
+13:37:14.266: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.266: device_set_viewport (GL) failed
+13:37:14.300: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.300: device_set_viewport (GL) failed
+13:37:14.333: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.333: device_set_viewport (GL) failed
+13:37:14.366: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.367: device_set_viewport (GL) failed
+13:37:14.400: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.400: device_set_viewport (GL) failed
+13:37:14.433: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.433: device_set_viewport (GL) failed
+13:37:14.467: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.467: device_set_viewport (GL) failed
+13:37:14.500: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.500: device_set_viewport (GL) failed
+13:37:14.533: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.533: device_set_viewport (GL) failed
+13:37:14.566: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.566: device_set_viewport (GL) failed
+13:37:14.601: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.602: device_set_viewport (GL) failed
+13:37:14.633: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.633: device_set_viewport (GL) failed
+13:37:14.666: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.666: device_set_viewport (GL) failed
+13:37:14.700: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.700: device_set_viewport (GL) failed
+13:37:14.730: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.730: device_set_viewport (GL) failed
+13:37:14.763: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.763: device_set_viewport (GL) failed
+13:37:14.798: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.798: device_set_viewport (GL) failed
+13:37:14.832: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.832: device_set_viewport (GL) failed
+13:37:14.865: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.865: device_set_viewport (GL) failed
+13:37:14.898: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.898: device_set_viewport (GL) failed
+13:37:14.932: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.932: device_set_viewport (GL) failed
+13:37:14.965: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.965: device_set_viewport (GL) failed
+13:37:14.998: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:14.998: device_set_viewport (GL) failed
+13:37:15.031: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.032: device_set_viewport (GL) failed
+13:37:15.065: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.065: device_set_viewport (GL) failed
+13:37:15.098: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.098: device_set_viewport (GL) failed
+13:37:15.131: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.131: device_set_viewport (GL) failed
+13:37:15.165: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.165: device_set_viewport (GL) failed
+13:37:15.201: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.201: device_set_viewport (GL) failed
+13:37:15.233: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.233: device_set_viewport (GL) failed
+13:37:15.266: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.266: device_set_viewport (GL) failed
+13:37:15.300: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.300: device_set_viewport (GL) failed
+13:37:15.333: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.333: device_set_viewport (GL) failed
+13:37:15.367: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.367: device_set_viewport (GL) failed
+13:37:15.400: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.400: device_set_viewport (GL) failed
+13:37:15.433: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.433: device_set_viewport (GL) failed
+13:37:15.466: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.466: device_set_viewport (GL) failed
+13:37:15.498: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.499: device_set_viewport (GL) failed
+13:37:15.532: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.532: device_set_viewport (GL) failed
+13:37:15.564: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.565: device_set_viewport (GL) failed
+13:37:15.598: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.598: device_set_viewport (GL) failed
+13:37:15.632: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.632: device_set_viewport (GL) failed
+13:37:15.665: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.665: device_set_viewport (GL) failed
+13:37:15.698: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.698: device_set_viewport (GL) failed
+13:37:15.732: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.732: device_set_viewport (GL) failed
+13:37:15.769: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.769: device_set_viewport (GL) failed
+13:37:15.799: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.799: device_set_viewport (GL) failed
+13:37:15.833: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.833: device_set_viewport (GL) failed
+13:37:15.866: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.866: device_set_viewport (GL) failed
+13:37:15.899: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.899: device_set_viewport (GL) failed
+13:37:15.933: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.933: device_set_viewport (GL) failed
+13:37:15.966: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:15.966: device_set_viewport (GL) failed
+13:37:16.000: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.000: device_set_viewport (GL) failed
+13:37:16.033: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.033: device_set_viewport (GL) failed
+13:37:16.066: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.066: device_set_viewport (GL) failed
+13:37:16.099: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.100: device_set_viewport (GL) failed
+13:37:16.133: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.133: device_set_viewport (GL) failed
+13:37:16.167: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.167: device_set_viewport (GL) failed
+13:37:16.200: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.200: device_set_viewport (GL) failed
+13:37:16.229: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.229: device_set_viewport (GL) failed
+13:37:16.262: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.262: device_set_viewport (GL) failed
+13:37:16.295: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.295: device_set_viewport (GL) failed
+13:37:16.328: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.328: device_set_viewport (GL) failed
+13:37:16.361: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.362: device_set_viewport (GL) failed
+13:37:16.395: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.395: device_set_viewport (GL) failed
+13:37:16.427: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.428: device_set_viewport (GL) failed
+13:37:16.465: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.465: device_set_viewport (GL) failed
+13:37:16.498: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.499: device_set_viewport (GL) failed
+13:37:16.532: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.532: device_set_viewport (GL) failed
+13:37:16.566: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.566: device_set_viewport (GL) failed
+13:37:16.599: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.600: device_set_viewport (GL) failed
+13:37:16.633: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.633: device_set_viewport (GL) failed
+13:37:16.666: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.666: device_set_viewport (GL) failed
+13:37:16.699: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.699: device_set_viewport (GL) failed
+13:37:16.733: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.733: device_set_viewport (GL) failed
+13:37:16.766: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.766: device_set_viewport (GL) failed
+13:37:16.799: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.799: device_set_viewport (GL) failed
+13:37:16.833: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.833: device_set_viewport (GL) failed
+13:37:16.866: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.866: device_set_viewport (GL) failed
+13:37:16.899: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.900: device_set_viewport (GL) failed
+13:37:16.932: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.932: device_set_viewport (GL) failed
+13:37:16.966: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.966: device_set_viewport (GL) failed
+13:37:16.999: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:16.999: device_set_viewport (GL) failed
+13:37:17.033: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.034: device_set_viewport (GL) failed
+13:37:17.066: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.066: device_set_viewport (GL) failed
+13:37:17.099: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.099: device_set_viewport (GL) failed
+13:37:17.133: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.133: device_set_viewport (GL) failed
+13:37:17.165: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.166: device_set_viewport (GL) failed
+13:37:17.200: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.200: device_set_viewport (GL) failed
+13:37:17.233: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.233: device_set_viewport (GL) failed
+13:37:17.266: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.266: device_set_viewport (GL) failed
+13:37:17.299: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.300: device_set_viewport (GL) failed
+13:37:17.333: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.333: device_set_viewport (GL) failed
+13:37:17.366: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.366: device_set_viewport (GL) failed
+13:37:17.400: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.400: device_set_viewport (GL) failed
+13:37:17.433: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.433: device_set_viewport (GL) failed
+13:37:17.466: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.466: device_set_viewport (GL) failed
+13:37:17.500: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.500: device_set_viewport (GL) failed
+13:37:17.533: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.533: device_set_viewport (GL) failed
+13:37:17.566: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.566: device_set_viewport (GL) failed
+13:37:17.600: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.600: device_set_viewport (GL) failed
+13:37:17.634: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.634: device_set_viewport (GL) failed
+13:37:17.666: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.667: device_set_viewport (GL) failed
+13:37:17.699: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.700: device_set_viewport (GL) failed
+13:37:17.733: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.733: device_set_viewport (GL) failed
+13:37:17.766: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.766: device_set_viewport (GL) failed
+13:37:17.800: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.800: device_set_viewport (GL) failed
+13:37:17.832: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.832: device_set_viewport (GL) failed
+13:37:17.865: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.865: device_set_viewport (GL) failed
+13:37:17.898: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.899: device_set_viewport (GL) failed
+13:37:17.931: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.932: device_set_viewport (GL) failed
+13:37:17.965: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.965: device_set_viewport (GL) failed
+13:37:17.998: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:17.998: device_set_viewport (GL) failed
+13:37:18.032: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.032: device_set_viewport (GL) failed
+13:37:18.065: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.065: device_set_viewport (GL) failed
+13:37:18.099: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.099: device_set_viewport (GL) failed
+13:37:18.131: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.132: device_set_viewport (GL) failed
+13:37:18.166: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.167: device_set_viewport (GL) failed
+13:37:18.197: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.197: device_set_viewport (GL) failed
+13:37:18.229: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.229: device_set_viewport (GL) failed
+13:37:18.262: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.262: device_set_viewport (GL) failed
+13:37:18.295: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.295: device_set_viewport (GL) failed
+13:37:18.330: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.330: device_set_viewport (GL) failed
+13:37:18.364: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.364: device_set_viewport (GL) failed
+13:37:18.397: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.398: device_set_viewport (GL) failed
+13:37:18.431: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.431: device_set_viewport (GL) failed
+13:37:18.466: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.466: device_set_viewport (GL) failed
+13:37:18.496: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.496: device_set_viewport (GL) failed
+13:37:18.528: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.528: device_set_viewport (GL) failed
+13:37:18.562: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.562: device_set_viewport (GL) failed
+13:37:18.595: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.595: device_set_viewport (GL) failed
+13:37:18.628: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.628: device_set_viewport (GL) failed
+13:37:18.662: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.662: device_set_viewport (GL) failed
+13:37:18.694: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.694: device_set_viewport (GL) failed
+13:37:18.728: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.728: device_set_viewport (GL) failed
+13:37:18.766: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.766: device_set_viewport (GL) failed
+13:37:18.799: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.799: device_set_viewport (GL) failed
+13:37:18.833: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.833: device_set_viewport (GL) failed
+13:37:18.866: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.866: device_set_viewport (GL) failed
+13:37:18.900: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.900: device_set_viewport (GL) failed
+13:37:18.929: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.929: device_set_viewport (GL) failed
+13:37:18.965: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:18.965: device_set_viewport (GL) failed
+13:37:18.999: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.000: device_set_viewport (GL) failed
+13:37:19.033: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.033: device_set_viewport (GL) failed
+13:37:19.066: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.066: device_set_viewport (GL) failed
+13:37:19.099: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.099: device_set_viewport (GL) failed
+13:37:19.133: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.133: device_set_viewport (GL) failed
+13:37:19.166: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.166: device_set_viewport (GL) failed
+13:37:19.199: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.200: device_set_viewport (GL) failed
+13:37:19.235: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.235: device_set_viewport (GL) failed
+13:37:19.265: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.265: device_set_viewport (GL) failed
+13:37:19.297: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.297: device_set_viewport (GL) failed
+13:37:19.330: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.330: device_set_viewport (GL) failed
+13:37:19.364: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.364: device_set_viewport (GL) failed
+13:37:19.398: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.398: device_set_viewport (GL) failed
+13:37:19.431: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.431: device_set_viewport (GL) failed
+13:37:19.464: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.465: device_set_viewport (GL) failed
+13:37:19.497: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.497: device_set_viewport (GL) failed
+13:37:19.531: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.531: device_set_viewport (GL) failed
+13:37:19.564: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.564: device_set_viewport (GL) failed
+13:37:19.598: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.598: device_set_viewport (GL) failed
+13:37:19.631: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.631: device_set_viewport (GL) failed
+13:37:19.664: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.664: device_set_viewport (GL) failed
+13:37:19.698: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.698: device_set_viewport (GL) failed
+13:37:19.731: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.731: device_set_viewport (GL) failed
+13:37:19.764: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.764: device_set_viewport (GL) failed
+13:37:19.797: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.797: device_set_viewport (GL) failed
+13:37:19.844: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.844: device_set_viewport (GL) failed
+13:37:19.865: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.865: device_set_viewport (GL) failed
+13:37:19.897: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.897: device_set_viewport (GL) failed
+13:37:19.930: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.930: device_set_viewport (GL) failed
+13:37:19.967: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:19.967: device_set_viewport (GL) failed
+13:37:20.000: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.000: device_set_viewport (GL) failed
+13:37:20.033: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.033: device_set_viewport (GL) failed
+13:37:20.066: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.066: device_set_viewport (GL) failed
+13:37:20.099: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.100: device_set_viewport (GL) failed
+13:37:20.133: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.133: device_set_viewport (GL) failed
+13:37:20.166: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.166: device_set_viewport (GL) failed
+13:37:20.199: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.200: device_set_viewport (GL) failed
+13:37:20.233: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.233: device_set_viewport (GL) failed
+13:37:20.265: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.265: device_set_viewport (GL) failed
+13:37:20.299: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.299: device_set_viewport (GL) failed
+13:37:20.331: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.331: device_set_viewport (GL) failed
+13:37:20.364: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.364: device_set_viewport (GL) failed
+13:37:20.397: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.397: device_set_viewport (GL) failed
+13:37:20.431: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.431: device_set_viewport (GL) failed
+13:37:20.464: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.464: device_set_viewport (GL) failed
+13:37:20.497: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.497: device_set_viewport (GL) failed
+13:37:20.529: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.529: device_set_viewport (GL) failed
+13:37:20.567: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.567: device_set_viewport (GL) failed
+13:37:20.599: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.599: device_set_viewport (GL) failed
+13:37:20.634: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.634: device_set_viewport (GL) failed
+13:37:20.662: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.662: device_set_viewport (GL) failed
+13:37:20.694: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.694: device_set_viewport (GL) failed
+13:37:20.732: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.732: device_set_viewport (GL) failed
+13:37:20.762: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.762: device_set_viewport (GL) failed
+13:37:20.795: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.795: device_set_viewport (GL) failed
+13:37:20.829: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.829: device_set_viewport (GL) failed
+13:37:20.862: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.862: device_set_viewport (GL) failed
+13:37:20.895: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.895: device_set_viewport (GL) failed
+13:37:20.929: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.929: device_set_viewport (GL) failed
+13:37:20.967: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.967: device_set_viewport (GL) failed
+13:37:20.995: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:20.995: device_set_viewport (GL) failed
+13:37:21.029: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.029: device_set_viewport (GL) failed
+13:37:21.062: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.062: device_set_viewport (GL) failed
+13:37:21.100: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.100: device_set_viewport (GL) failed
+13:37:21.133: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.133: device_set_viewport (GL) failed
+13:37:21.166: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.166: device_set_viewport (GL) failed
+13:37:21.200: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.200: device_set_viewport (GL) failed
+13:37:21.233: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.233: device_set_viewport (GL) failed
+13:37:21.268: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.269: device_set_viewport (GL) failed
+13:37:21.302: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.302: device_set_viewport (GL) failed
+13:37:21.335: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.335: device_set_viewport (GL) failed
+13:37:21.368: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.369: device_set_viewport (GL) failed
+13:37:21.402: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.402: device_set_viewport (GL) failed
+13:37:21.435: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.435: device_set_viewport (GL) failed
+13:37:21.468: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.468: device_set_viewport (GL) failed
+13:37:21.496: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.496: device_set_viewport (GL) failed
+13:37:21.530: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.530: device_set_viewport (GL) failed
+13:37:21.563: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.563: device_set_viewport (GL) failed
+13:37:21.599: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.600: device_set_viewport (GL) failed
+13:37:21.633: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.633: device_set_viewport (GL) failed
+13:37:21.661: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.661: device_set_viewport (GL) failed
+13:37:21.695: glViewport failed, glGetError returned GL_INVALID_VALUE(0x501)
+13:37:21.695: device_set_viewport (GL) failed
+13:37:21.723: xshm-input: Geometry 1920x1080 @ 0,0
+13:37:24.998: xshm-input: Geometry 1920x1080 @ 0,0
+13:37:42.193: xshm-input: Geometry 1920x1080 @ 0,0
+13:37:51.001: User Removed source 'Screen Capture (XSHM) 2' (xshm_input) from scene 'Scene'
+13:40:22.589: Number of remaining views: 1
+13:40:22.589: ---------------------------------
+13:40:22.589: video settings reset:
+13:40:22.589: 	base resolution:   1920x1080
+13:40:22.589: 	output resolution: 1920x1080
+13:40:22.589: 	downscale filter:  Bicubic
+13:40:22.589: 	fps:               60/1
+13:40:22.589: 	format:            NV12
+13:40:22.589: 	YUV mode:          Rec. 709/Partial
+13:40:22.590: NV12 texture support not available
+13:40:22.590: P010 texture support not available
+13:40:22.614: Settings changed (general, outputs, video)
+13:40:22.614: ------------------------------------------------
+13:40:26.764: ---------------------------------
+13:40:26.765: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:40:26.765: [x264 encoder: 'simple_video_recording'] profile: high
+13:40:26.765: [x264 encoder: 'simple_video_recording'] settings:
+13:40:26.765: 	rate_control: CRF
+13:40:26.765: 	bitrate:      0
+13:40:26.765: 	buffer size:  0
+13:40:26.765: 	crf:          23
+13:40:26.765: 	fps_num:      60
+13:40:26.765: 	fps_den:      1
+13:40:26.765: 	width:        1920
+13:40:26.765: 	height:       1080
+13:40:26.765: 	keyint:       250
+13:40:26.765: 
+13:40:26.779: libfdk_aac encoder created
+13:40:26.779: libfdk_aac bitrate: 192, channels: 2
+13:40:26.803: ==== Recording Start ===============================================
+13:40:26.803: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/hadi/Downloads/2023-03-27_13-40-26.mp4'...
+13:40:57.893: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/hadi/Downloads/2023-03-27_13-40-26.mp4' stopped
+13:40:57.894: Output 'simple_file_output': stopping
+13:40:57.894: Output 'simple_file_output': Total frames output: 1842
+13:40:57.894: Output 'simple_file_output': Total drawn frames: 1499 (1864 attempted)
+13:40:57.894: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 365 (19.6%)
+13:40:57.897: ==== Recording Stop ================================================
+13:40:57.920: libfdk_aac encoder destroyed
+13:49:25.087: Number of remaining views: 1
+13:49:25.087: ---------------------------------
+13:49:25.087: video settings reset:
+13:49:25.087: 	base resolution:   1920x1080
+13:49:25.087: 	output resolution: 1920x1080
+13:49:25.087: 	downscale filter:  Bicubic
+13:49:25.087: 	fps:               30/1
+13:49:25.087: 	format:            NV12
+13:49:25.087: 	YUV mode:          Rec. 709/Partial
+13:49:25.088: NV12 texture support not available
+13:49:25.088: P010 texture support not available
+13:49:25.101: Settings changed (general, outputs, video)
+13:49:25.101: ------------------------------------------------
+13:49:28.829: ---------------------------------
+13:49:28.830: [x264 encoder: 'simple_video_recording'] preset: veryfast
+13:49:28.830: [x264 encoder: 'simple_video_recording'] profile: high
+13:49:28.830: [x264 encoder: 'simple_video_recording'] settings:
+13:49:28.830: 	rate_control: CRF
+13:49:28.830: 	bitrate:      0
+13:49:28.830: 	buffer size:  0
+13:49:28.830: 	crf:          23
+13:49:28.830: 	fps_num:      30
+13:49:28.830: 	fps_den:      1
+13:49:28.830: 	width:        1920
+13:49:28.830: 	height:       1080
+13:49:28.830: 	keyint:       250
+13:49:28.830: 
+13:49:28.837: libfdk_aac encoder created
+13:49:28.837: libfdk_aac bitrate: 192, channels: 2
+13:49:28.860: ==== Recording Start ===============================================
+13:49:28.860: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/hadi/Downloads/2023-03-27_13-49-28.mp4'...
+13:49:30.564: run: Failed to fetch whatsnew file: OpenSSL SSL_read: Connection timed out, errno 110
+13:49:34.659: [rtmp-services plugin] Remote update of URL "https://obsproject.com/obs2_update/rtmp-services/v4/package.json" failed: OpenSSL SSL_read: Connection timed out, errno 110
+13:50:11.392: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/hadi/Downloads/2023-03-27_13-49-28.mp4' stopped
+13:50:11.393: Output 'simple_file_output': stopping
+13:50:11.393: Output 'simple_file_output': Total frames output: 715
+13:50:11.393: Output 'simple_file_output': Total drawn frames: 942 (1276 attempted)
+13:50:11.393: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 334 (26.2%)
+13:50:11.447: ==== Recording Stop ================================================
+13:50:13.033: Video stopped, number of skipped frames due to encoding lag: 294/737 (39.9%)
+13:50:13.536: libfdk_aac encoder destroyed
+13:54:18.350: ==== Shutting down ==================================================
+13:54:18.516: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+13:54:18.517: pulse-input: Got 243732 packets with 62281469 frames
+13:54:18.518: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+13:54:18.518: pulse-input: Got 126476 packets with 57300184 frames
+13:54:18.518: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+13:54:18.518: pulse-input: Got 118826 packets with 53985856 frames
+13:54:18.607: All scene data cleared
+13:54:18.607: ------------------------------------------------
+13:54:18.920: [obs-websocket] [obs_module_unload] Shutting down...
+13:54:18.922: [obs-websocket] [obs_module_unload] Finished shutting down.
+13:54:18.981: [Scripting] Total detached callbacks: 0
+13:54:18.982: Freeing OBS context data
+13:54:19.201: == Profiler Results =============================
+13:54:19.202: run_program_init: 2431.28 ms
+13:54:19.202:  ┣OBSApp::AppInit: 6.904 ms
+13:54:19.202:  ┃ ┗OBSApp::InitLocale: 1.454 ms
+13:54:19.202:  ┗OBSApp::OBSInit: 1379.87 ms
+13:54:19.202:    ┣obs_startup: 1.135 ms
+13:54:19.202:    ┗OBSBasic::OBSInit: 1323.57 ms
+13:54:19.202:      ┣OBSBasic::InitBasicConfig: 0.094 ms
+13:54:19.203:      ┣OBSBasic::ResetAudio: 0.236 ms
+13:54:19.203:      ┣OBSBasic::ResetVideo: 126.204 ms
+13:54:19.203:      ┣OBSBasic::InitOBSCallbacks: 0.006 ms
+13:54:19.203:      ┣OBSBasic::InitHotkeys: 0.063 ms
+13:54:19.203:      ┣obs_load_all_modules2: 904.555 ms
+13:54:19.203:      ┃ ┣obs_init_module(aja-output-ui.so): 0.104 ms
+13:54:19.203:      ┃ ┣obs_init_module(aja.so): 0.101 ms
+13:54:19.203:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+13:54:19.204:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+13:54:19.204:      ┃ ┣obs_init_module(decklink.so): 0.226 ms
+13:54:19.204:      ┃ ┣obs_init_module(frontend-tools.so): 93.05 ms
+13:54:19.204:      ┃ ┣obs_init_module(image-source.so): 0.011 ms
+13:54:19.204:      ┃ ┣obs_init_module(linux-alsa.so): 0.007 ms
+13:54:19.204:      ┃ ┣obs_init_module(linux-capture.so): 1.037 ms
+13:54:19.204:      ┃ ┣obs_init_module(linux-jack.so): 0.008 ms
+13:54:19.204:      ┃ ┣obs_init_module(linux-pipewire.so): 1.629 ms
+13:54:19.204:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.006 ms
+13:54:19.204:      ┃ ┣obs_init_module(linux-v4l2.so): 3.052 ms
+13:54:19.204:      ┃ ┣obs_init_module(obs-browser.so): 0.084 ms
+13:54:19.205:      ┃ ┣obs_init_module(obs-ffmpeg.so): 410.42 ms
+13:54:19.205:      ┃ ┃ ┗nvenc_check: 0.743 ms
+13:54:19.205:      ┃ ┣obs_init_module(obs-filters.so): 0.029 ms
+13:54:19.205:      ┃ ┣obs_init_module(obs-libfdk.so): 0.004 ms
+13:54:19.205:      ┃ ┣obs_init_module(obs-outputs.so): 0.004 ms
+13:54:19.205:      ┃ ┣obs_init_module(obs-transitions.so): 0.011 ms
+13:54:19.205:      ┃ ┣obs_init_module(obs-vst.so): 0.007 ms
+13:54:19.205:      ┃ ┣obs_init_module(obs-websocket.so): 7.949 ms
+13:54:19.205:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+13:54:19.205:      ┃ ┣obs_init_module(rtmp-services.so): 0.095 ms
+13:54:19.205:      ┃ ┣obs_init_module(text-freetype2.so): 0.024 ms
+13:54:19.206:      ┃ ┗obs_init_module(vlc-video.so): 1.076 ms
+13:54:19.206:      ┣OBSBasic::ResetOutputs: 0.25 ms
+13:54:19.206:      ┣OBSBasic::CreateHotkeys: 0.065 ms
+13:54:19.206:      ┣OBSBasic::InitService: 3.753 ms
+13:54:19.206:      ┣OBSBasic::InitPrimitives: 0.171 ms
+13:54:19.206:      ┗OBSBasic::Load: 133.327 ms
+13:54:19.206: obs_hotkey_thread(25 ms): min=0.064 ms, median=1.234 ms, max=163.952 ms, 99th percentile=22.705 ms, 99.2984% below 25 ms
+13:54:19.207: audio_thread(Audio): min=0.007 ms, median=0.337 ms, max=111.086 ms, 99th percentile=5.107 ms
+13:54:19.207:  ┗receive_audio: min=0.003 ms, median=0.688 ms, max=103.603 ms, 99th percentile=23.311 ms, 0.0582679 calls per parent call
+13:54:19.207:    ┣buffer_audio: min=0 ms, median=0.002 ms, max=0.169 ms, 99th percentile=0.009 ms
+13:54:19.207:    ┗do_encode: min=0.134 ms, median=0.678 ms, max=103.59 ms, 99th percentile=23.296 ms
+13:54:19.207:      ┣encode(simple_aac_recording): min=0.127 ms, median=0.448 ms, max=8.359 ms, 99th percentile=1.588 ms, 0.410603 calls per parent call
+13:54:19.207:      ┣send_packet: min=0.002 ms, median=0.018 ms, max=99.627 ms, 99th percentile=1.318 ms
+13:54:19.207:      ┗encode(simple_aac_recording): min=0.123 ms, median=3.025 ms, max=69.153 ms, 99th percentile=24.7 ms, 0.589397 calls per parent call
+13:54:19.208: obs_graphics_thread(33.3333 ms): min=0.025 ms, median=12.426 ms, max=126.373 ms, 99th percentile=31.062 ms, 99.2534% below 33.333 ms
+13:54:19.208:  ┣tick_sources: min=0 ms, median=9.461 ms, max=58.208 ms, 99th percentile=26.955 ms
+13:54:19.208:  ┣output_frame: min=0.012 ms, median=0.487 ms, max=114.584 ms, 99th percentile=1.436 ms
+13:54:19.208:  ┃ ┗gs_context(video->graphics): min=0.012 ms, median=0.486 ms, max=114.583 ms, 99th percentile=1.435 ms
+13:54:19.208:  ┃   ┣render_video: min=0.007 ms, median=0.238 ms, max=114.139 ms, 99th percentile=1.138 ms
+13:54:19.208:  ┃   ┃ ┗render_main_texture: min=0.005 ms, median=0.229 ms, max=114.135 ms, 99th percentile=1.13 ms
+13:54:19.209:  ┃   ┗gs_flush: min=0.002 ms, median=0.202 ms, max=1.294 ms, 99th percentile=0.409 ms
+13:54:19.209:  ┗render_displays: min=0.003 ms, median=2.136 ms, max=18.697 ms, 99th percentile=5.936 ms
+13:54:19.209: OBSBasic::ResetOutputs: min=0.4 ms, median=0 ms, max=1.31 ms, 99th percentile=1.31 ms
+13:54:19.209: OBSBasic::ResetVideo: min=25.867 ms, median=0 ms, max=27.573 ms, 99th percentile=27.573 ms
+13:54:19.209: obs_graphics_thread(16.6667 ms): min=5.579 ms, median=10.236 ms, max=48.728 ms, 99th percentile=22.775 ms, 86.648% below 16.667 ms
+13:54:19.210:  ┣tick_sources: min=4.899 ms, median=8.621 ms, max=44.104 ms, 99th percentile=19.208 ms
+13:54:19.210:  ┣output_frame: min=0.123 ms, median=0.31 ms, max=11.237 ms, 99th percentile=1.333 ms
+13:54:19.210:  ┃ ┣gs_context(video->graphics): min=0.123 ms, median=0.3 ms, max=2.594 ms, 99th percentile=0.972 ms
+13:54:19.210:  ┃ ┃ ┣render_video: min=0.061 ms, median=0.144 ms, max=2.313 ms, 99th percentile=0.588 ms
+13:54:19.210:  ┃ ┃ ┃ ┣render_main_texture: min=0.059 ms, median=0.137 ms, max=2.298 ms, 99th percentile=0.567 ms
+13:54:19.210:  ┃ ┃ ┃ ┣render_convert_texture: min=0.021 ms, median=0.032 ms, max=0.668 ms, 99th percentile=0.095 ms, 0.0466853 calls per parent call
+13:54:19.211:  ┃ ┃ ┃ ┗stage_output_texture: min=0.01 ms, median=0.015 ms, max=0.498 ms, 99th percentile=0.049 ms, 0.0466853 calls per parent call
+13:54:19.211:  ┃ ┃ ┣gs_flush: min=0.037 ms, median=0.125 ms, max=1.077 ms, 99th percentile=0.387 ms
+13:54:19.211:  ┃ ┃ ┗download_frame: min=0 ms, median=0.069 ms, max=0.685 ms, 99th percentile=0.217 ms, 0.0466853 calls per parent call
+13:54:19.211:  ┃ ┗output_video_data: min=0.554 ms, median=0.738 ms, max=10.79 ms, 99th percentile=4.062 ms, 0.0466542 calls per parent call
+13:54:19.211:  ┗render_displays: min=0.375 ms, median=1.288 ms, max=23.488 ms, 99th percentile=3.32 ms
+13:54:19.211: video_thread(video): min=0.001 ms, median=3.317 ms, max=59.361 ms, 99th percentile=25.051 ms
+13:54:19.212:  ┗receive_video: min=2.361 ms, median=3.207 ms, max=40.198 ms, 99th percentile=18.747 ms, 1.24283 calls per parent call
+13:54:19.212:    ┗do_encode: min=2.36 ms, median=3.203 ms, max=40.197 ms, 99th percentile=18.742 ms
+13:54:19.212:      ┣encode(simple_video_recording): min=2.343 ms, median=3.171 ms, max=40.16 ms, 99th percentile=18.732 ms
+13:54:19.212:      ┗send_packet: min=0.002 ms, median=0.01 ms, max=11.091 ms, 99th percentile=0.515 ms
+13:54:19.212: obs_graphics_thread(33.3333 ms): min=0.288 ms, median=29.476 ms, max=227.89 ms, 99th percentile=74.778 ms, 69.4819% below 33.333 ms
+13:54:19.212:  ┣tick_sources: min=0.007 ms, median=23.404 ms, max=180.709 ms, 99th percentile=49.267 ms
+13:54:19.213:  ┣output_frame: min=0.123 ms, median=1.086 ms, max=23.255 ms, 99th percentile=3.893 ms
+13:54:19.213:  ┃ ┣gs_context(video->graphics): min=0.121 ms, median=1.079 ms, max=22.929 ms, 99th percentile=3.53 ms
+13:54:19.213:  ┃ ┃ ┣render_video: min=0.067 ms, median=0.488 ms, max=21.802 ms, 99th percentile=1.754 ms
+13:54:19.213:  ┃ ┃ ┃ ┣render_main_texture: min=0.062 ms, median=0.466 ms, max=17.25 ms, 99th percentile=1.447 ms
+13:54:19.213:  ┃ ┃ ┃ ┣render_convert_texture: min=0.022 ms, median=0.191 ms, max=21.159 ms, 99th percentile=1.213 ms, 0.116483 calls per parent call
+13:54:19.213:  ┃ ┃ ┃ ┗stage_output_texture: min=0.011 ms, median=0.097 ms, max=4.444 ms, 99th percentile=0.222 ms, 0.116483 calls per parent call
+13:54:19.213:  ┃ ┃ ┣gs_flush: min=0.018 ms, median=0.475 ms, max=12.756 ms, 99th percentile=1.447 ms
+13:54:19.213:  ┃ ┃ ┗download_frame: min=0 ms, median=0.46 ms, max=15.115 ms, 99th percentile=5.075 ms, 0.116483 calls per parent call
+13:54:19.214:  ┃ ┗output_video_data: min=0.002 ms, median=0.003 ms, max=21.229 ms, 99th percentile=2.397 ms, 0.11636 calls per parent call
+13:54:19.214:  ┗render_displays: min=0.024 ms, median=4.303 ms, max=144.769 ms, 99th percentile=30.001 ms
+13:54:19.214: video_thread(video): min=0.004 ms, median=2.439 ms, max=9430.72 ms, 99th percentile=1855.58 ms
+13:54:19.214:  ┗receive_video: min=1.941 ms, median=5.49 ms, max=1586.17 ms, 99th percentile=364.663 ms, 1.70046 calls per parent call
+13:54:19.214:    ┗do_encode: min=1.94 ms, median=5.489 ms, max=1586.16 ms, 99th percentile=364.66 ms
+13:54:19.214:      ┣encode(simple_video_recording): min=1.928 ms, median=5.269 ms, max=1586.15 ms, 99th percentile=364.591 ms
+13:54:19.215:      ┗send_packet: min=0.004 ms, median=0.023 ms, max=22.836 ms, 99th percentile=3.949 ms
+13:54:19.215: =================================================
+13:54:19.215: == Profiler Time Between Calls ==================
+13:54:19.215: obs_hotkey_thread(25 ms): min=25.117 ms, median=26.401 ms, max=190.266 ms, 13.7992% within ±2% of 25 ms (0% lower, 86.2008% higher)
+13:54:19.215: obs_graphics_thread(33.3333 ms): min=20.01 ms, median=33.335 ms, max=126.379 ms, 98.162% within ±2% of 33.333 ms (1.09133% lower, 0.746697% higher)
+13:54:19.216: obs_graphics_thread(16.6667 ms): min=9.91 ms, median=16.671 ms, max=48.772 ms, 80.3542% within ±2% of 16.667 ms (7.13063% lower, 12.5152% higher)
+13:54:19.216: obs_graphics_thread(33.3333 ms): min=20.704 ms, median=33.346 ms, max=227.959 ms, 58.0015% within ±2% of 33.333 ms (14.0119% lower, 27.9866% higher)
+13:54:19.216: =================================================
+13:54:20.983: Number of memory leaks: 0

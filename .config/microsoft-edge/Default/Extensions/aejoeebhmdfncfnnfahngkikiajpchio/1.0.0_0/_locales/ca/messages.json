@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "Despertador"
+   },
+   "AppDesc": {
+      "message": "Temporitzadors útils per a totes les vostres necessitats"
+   },
+   "AppName": {
+      "message": "Temporitzador per a  ™"
+   },
+   "Cancel": {
+      "message": "Cancel · lar"
+   },
+   "Countdown": {
+      "message": "Compte enrere"
+   },
+   "Pause": {
+      "message": "Pausa"
+   },
+   "Resume": {
+      "message": "Resum"
+   },
+   "Stop": {
+      "message": "Pare"
+   },
+   "Stopwatch": {
+      "message": "cronògraf"
+   }
+}

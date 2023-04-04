@@ -1,0 +1,23 @@
+[Info  - 6:06:58 PM] (34085) Pylance language server 2023.3.30 (pyright 68a8e98a) starting
+[Info  - 6:06:58 PM] (34085) Server root directory: /home/hadi/.vscode/extensions/ms-python.vscode-pylance-2023.3.30/dist
+[Info  - 6:06:58 PM] (34085) Starting service instance "Desktop"
+[Info  - 6:06:58 PM] (34085) Auto-indent enabled
+[Info  - 6:06:58 PM] (34085) No configuration file found.
+[Info  - 6:06:58 PM] (34085) No pyproject.toml file found.
+[Info  - 6:06:58 PM] (34085) Setting pythonPath for service "Desktop": "/bin/python3"
+[Warn  - 6:06:58 PM] (34085) stubPath /home/hadi/Desktop/typings is not a valid directory.
+[Info  - 6:06:58 PM] (34085) Assuming Python version 3.10
+[Info  - 6:06:58 PM] (34085) Assuming Python platform Linux
+[Info  - 6:07:00 PM] (34085) Searching for source files
+[Info  - 6:07:00 PM] (34085) No source files found.
+[Info  - 6:07:00 PM] (34085) Background analysis(1) root directory: /home/hadi/.vscode/extensions/ms-python.vscode-pylance-2023.3.30/dist
+[Info  - 6:07:00 PM] (34085) Background analysis(1) started
+[Info  - 6:07:01 PM] (34085) Indexer background runner(2) root directory: /home/hadi/.vscode/extensions/ms-python.vscode-pylance-2023.3.30/dist (index)
+[Info  - 6:07:01 PM] (34085) Indexing(2) started
+[Info  - 6:07:07 PM] (34085) [IDX(2)] Long operation: scan packages /home/hadi/Desktop (5570ms)
+[Info  - 6:07:07 PM] (34085) scanned(2) 161 files over 1 exec env
+[Info  - 6:07:09 PM] (34085) [IDX(2)] Long operation: indexing: /home/hadi/.vscode/extensions/ms-python.vscode-pylance-2023.3.30/dist/bundled/stubs/pandas/__init__.pyi (2155ms)
+[Info  - 6:07:13 PM] (34085) [IDX(2)] Long operation: index execution environment /home/hadi/Desktop (6182ms)
+[Info  - 6:07:13 PM] (34085) [IDX(2)] Long operation: index packages /home/hadi/Desktop (6328ms)
+[Info  - 6:07:13 PM] (34085) indexed(2) 95 files over 1 exec env
+[Info  - 6:07:13 PM] (34085) Indexing finished(2).

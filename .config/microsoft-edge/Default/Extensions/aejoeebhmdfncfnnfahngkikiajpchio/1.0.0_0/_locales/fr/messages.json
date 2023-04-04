@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "Réveil"
+   },
+   "AppDesc": {
+      "message": "Minuteries utiles pour tous vos besoins"
+   },
+   "AppName": {
+      "message": "Minuterie pour  ™"
+   },
+   "Cancel": {
+      "message": "Annuler"
+   },
+   "Countdown": {
+      "message": "Compte à rebours"
+   },
+   "Pause": {
+      "message": "Pause"
+   },
+   "Resume": {
+      "message": "Reprendre"
+   },
+   "Stop": {
+      "message": "Arrêtez"
+   },
+   "Stopwatch": {
+      "message": "Chronomètre"
+   }
+}

@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "Jam loceng"
+   },
+   "AppDesc": {
+      "message": "Pemasa yang berguna untuk semua keperluan anda"
+   },
+   "AppName": {
+      "message": "Pemasa untuk  ™"
+   },
+   "Cancel": {
+      "message": "Batal"
+   },
+   "Countdown": {
+      "message": "Undur"
+   },
+   "Pause": {
+      "message": "Jeda"
+   },
+   "Resume": {
+      "message": "Sambung semula"
+   },
+   "Stop": {
+      "message": "Berhenti"
+   },
+   "Stopwatch": {
+      "message": "jam randik"
+   }
+}

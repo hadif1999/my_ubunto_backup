@@ -1,0 +1,23 @@
+2023-03-30 17:53:00.150 [info] update#setState idle
+2023-03-30 17:53:05.158 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-30 17:53:05.175 [info] [UtilityProcess id: 1, type: extensionHost, pid: 33157]: successfully created
+2023-03-30 17:53:30.155 [info] update#setState checking for updates
+2023-03-30 17:53:30.211 [info] update#setState idle
+2023-03-30 18:53:30.204 [info] update#setState checking for updates
+2023-03-30 18:53:30.314 [info] update#setState idle
+2023-03-30 19:53:30.312 [info] update#setState checking for updates
+2023-03-30 19:53:30.409 [info] update#setState idle
+2023-03-30 20:53:30.504 [info] update#setState checking for updates
+2023-03-30 20:53:30.505 [info] update#setState idle
+2023-03-30 21:53:30.605 [info] update#setState checking for updates
+2023-03-30 21:53:30.616 [info] update#setState idle
+2023-03-30 22:53:30.716 [info] update#setState checking for updates
+2023-03-30 22:53:30.720 [info] update#setState idle
+2023-03-30 23:53:30.816 [info] update#setState checking for updates
+2023-03-30 23:53:30.820 [info] update#setState idle
+2023-03-31 00:53:30.852 [info] update#setState checking for updates
+2023-03-31 00:53:30.856 [info] update#setState idle
+2023-03-31 01:02:09.155 [info] [UtilityProcess id: 1, type: extensionHost, pid: 33157]: waiting to exit...
+2023-03-31 01:02:09.876 [info] [UtilityProcess id: 1, type: extensionHost, pid: 33157]: received exit event with code 0
+2023-03-31 01:02:09.878 [info] Extension host with pid 33157 exited with code: 0, signal: unknown.
+2023-03-31 01:02:12.595 [warning] [storage main] detected slow close() operation: Time: 3420ms, DB size: 38268928b, Large Keys: memento/workbench.parts.editor:55827, terminal.integrated.bufferState:22069, memento/workbench.editors.textResourceEditor:4977, __$__targetStorageMarker:3482, ms-toolsai.jupyter:2753

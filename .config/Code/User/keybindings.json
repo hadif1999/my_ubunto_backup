@@ -1,0 +1,79 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+n p",
+        "command": "python.createNewFile"
+    },
+    {
+        "key": "ctrl+n j",
+        "command": "ipynb.newUntitledIpynb"
+    },
+    {
+        "key": "ctrl+shift+enter",
+        "command": "python.execInTerminal-icon"
+    },
+    {
+        "key": "shift+alt+enter",
+        "command": "python.execInTerminal"
+    },
+    {
+        "key": "ctrl+n t",
+        "command": "workbench.action.files.newUntitledFile"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "-workbench.action.files.newUntitledFile"
+    },
+    {
+        "key": "shift+alt+c",
+        "command": "codegpt.getCode"
+    },
+    {
+        "key": "ctrl+shift+i",
+        "command": "-codegpt.getCode"
+    },
+    {
+        "key": "shift+alt+a",
+        "command": "codegpt.askCodeGPT"
+    },
+    {
+        "key": "ctrl+alt+down",
+        "command": "workbench.action.decreaseViewSize"
+    },
+    {
+        "key": "ctrl+alt+up",
+        "command": "workbench.action.increaseViewSize"
+    },
+    {
+        "key": "ctrl+alt+down",
+        "command": "workbench.action.terminal.resizePaneDown"
+    },
+    {
+        "key": "ctrl+alt+up",
+        "command": "workbench.action.terminal.resizePaneUp"
+    },
+    {
+        "key": "ctrl+alt+left",
+        "command": "workbench.action.terminal.resizePaneLeft",
+        "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported"
+    },
+    {
+        "key": "ctrl+shift+left",
+        "command": "-workbench.action.terminal.resizePaneLeft",
+        "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported"
+    },
+    {
+        "key": "ctrl+alt+right",
+        "command": "workbench.action.terminal.resizePaneRight",
+        "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported"
+    },
+    {
+        "key": "ctrl+shift+right",
+        "command": "-workbench.action.terminal.resizePaneRight",
+        "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported"
+    },
+    {
+        "key": "ctrl+f9",
+        "command": "workbench.action.toggleEditorWidths"
+    }
+]

@@ -1,0 +1,64 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="18.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "KEYMAP": "run\npython console\nconsole",
+    "MarketplacePluginsSearchHistory": "/tag:theme",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "font",
+    "appcds.runOnSecondStart": "PC-223.8836.43-72ee5bed7f318c4609d71d013b8e29de61d93f524e21ec617a2253219c821742",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PC-223.8836.43",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "22.0",
+    "fontSizeToResetEditor": "22.0",
+    "gotit.previous.run": "PC-223.8836.43",
+    "ide.memory.adjusted": "true",
+    "ide.updates.previous.build.number": "PC-223.8836.43",
+    "input.method.disabler.muted": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "PC-223.8836.43",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/hadi/Desktop/earthquake_proj/data_modifier.py"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "SpeedSearch": 1679567405011,
+    "SearchEverywhere": 1679567377250,
+    "GoToDeclaration": 1679672945759,
+    "CommentCode": 1679567366050,
+    "ShowUsages": 1679672930538,
+    "FindReplaceToggle": 1679567414159,
+    "FindInPath": 1679567397869
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="pythonProject1-history" project-path="$USER_HOME$/PycharmProjects/pythonProject1" last-access-time="1679673066942" />
+      <command-history-file filename="pythonProject1-history1" project-path="$USER_HOME$/PycharmProjects/pythonProject1" last-access-time="1679674406204" />
+    </command-history-files>
+  </component>
+</application>

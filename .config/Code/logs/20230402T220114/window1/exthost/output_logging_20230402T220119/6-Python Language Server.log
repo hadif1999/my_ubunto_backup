@@ -1,0 +1,23 @@
+[Info  - 10:01:27 PM] (38782) Pylance language server 2023.3.40 (pyright 04471971) starting
+[Info  - 10:01:27 PM] (38782) Server root directory: /home/hadi/.vscode/extensions/ms-python.vscode-pylance-2023.3.40/dist
+[Info  - 10:01:27 PM] (38782) Starting service instance "Desktop"
+[Info  - 10:01:27 PM] (38782) Auto-indent enabled
+[Info  - 10:01:27 PM] (38782) No configuration file found.
+[Info  - 10:01:27 PM] (38782) No pyproject.toml file found.
+[Info  - 10:01:27 PM] (38782) Setting pythonPath for service "Desktop": "/bin/python3"
+[Warn  - 10:01:27 PM] (38782) stubPath /home/hadi/Desktop/typings is not a valid directory.
+[Info  - 10:01:27 PM] (38782) Assuming Python version 3.10
+[Info  - 10:01:27 PM] (38782) Assuming Python platform Linux
+[Info  - 10:01:29 PM] (38782) Searching for source files
+[Info  - 10:01:29 PM] (38782) Found 1 source file
+[Info  - 10:01:31 PM] (38782) Background analysis(1) root directory: /home/hadi/.vscode/extensions/ms-python.vscode-pylance-2023.3.40/dist
+[Info  - 10:01:31 PM] (38782) Background analysis(1) started
+[Info  - 10:01:31 PM] (38782) Indexer background runner(2) root directory: /home/hadi/.vscode/extensions/ms-python.vscode-pylance-2023.3.40/dist (index)
+[Info  - 10:01:31 PM] (38782) Indexing(2) started
+[Info  - 10:01:37 PM] (38782) [BG(1)] Long operation: getSemanticTokens full at /home/hadi/Desktop/my_python_codes/pandas_practice.py (6458ms)
+[Info  - 10:01:37 PM] (38782) [IDX(2)] Long operation: scan packages /home/hadi/Desktop (7528ms)
+[Info  - 10:01:37 PM] (38782) scanned(2) 162 files over 1 exec env
+[Info  - 10:01:41 PM] (38782) [IDX(2)] Long operation: index execution environment /home/hadi/Desktop (3931ms)
+[Info  - 10:01:41 PM] (38782) [IDX(2)] Long operation: index packages /home/hadi/Desktop (4091ms)
+[Info  - 10:01:41 PM] (38782) indexed(2) 96 files over 1 exec env
+[Info  - 10:01:41 PM] (38782) Indexing finished(2).

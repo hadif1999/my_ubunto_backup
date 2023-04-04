@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "鬧鐘"
+   },
+   "AppDesc": {
+      "message": "滿足您所有需求的有用計時器"
+   },
+   "AppName": {
+      "message": "™計時器"
+   },
+   "Cancel": {
+      "message": "取消"
+   },
+   "Countdown": {
+      "message": "倒數"
+   },
+   "Pause": {
+      "message": "暫停"
+   },
+   "Resume": {
+      "message": "恢復"
+   },
+   "Stop": {
+      "message": "停止"
+   },
+   "Stopwatch": {
+      "message": "跑表"
+   }
+}

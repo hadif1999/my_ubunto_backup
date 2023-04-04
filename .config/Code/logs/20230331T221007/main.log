@@ -1,0 +1,36 @@
+2023-03-31 22:10:07.845 [info] [SharedProcess] using utility process
+2023-03-31 22:10:07.863 [info] update#setState idle
+2023-03-31 22:10:10.848 [info] [UtilityProcess type: shared-process, pid: <none>]: creating new...
+2023-03-31 22:10:10.866 [info] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2023-03-31 22:10:10.884 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-31 22:10:10.938 [info] [UtilityProcess type: shared-process, pid: 24883]: successfully created
+2023-03-31 22:10:10.945 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 24884]: successfully created
+2023-03-31 22:10:10.951 [info] [UtilityProcess id: 1, type: extensionHost, pid: 24903]: successfully created
+2023-03-31 22:10:37.874 [info] update#setState checking for updates
+2023-03-31 22:10:37.882 [info] update#setState idle
+2023-03-31 23:10:37.884 [info] update#setState checking for updates
+2023-03-31 23:10:38.151 [info] update#setState idle
+2023-04-01 00:10:38.245 [info] update#setState checking for updates
+2023-04-01 00:10:38.248 [info] update#setState idle
+2023-04-01 01:10:38.344 [info] update#setState checking for updates
+2023-04-01 01:10:38.347 [info] update#setState idle
+2023-04-01 02:10:38.445 [info] update#setState checking for updates
+2023-04-01 02:10:38.448 [info] update#setState idle
+2023-04-01 03:10:38.460 [info] update#setState checking for updates
+2023-04-01 03:10:38.462 [info] update#setState idle
+2023-04-01 04:10:38.561 [info] update#setState checking for updates
+2023-04-01 04:10:38.572 [info] update#setState idle
+2023-04-01 05:10:38.660 [info] update#setState checking for updates
+2023-04-01 05:10:38.681 [info] update#setState idle
+2023-04-01 06:10:38.776 [info] update#setState checking for updates
+2023-04-01 06:10:38.777 [info] update#setState idle
+2023-04-01 07:10:38.876 [info] update#setState checking for updates
+2023-04-01 07:10:39.185 [info] update#setState idle
+2023-04-01 08:10:39.200 [info] update#setState checking for updates
+2023-04-01 08:10:39.201 [info] update#setState idle
+2023-04-01 08:39:44.388 [info] [UtilityProcess id: 1, type: extensionHost, pid: 24903]: waiting to exit...
+2023-04-01 08:39:44.391 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 24884]: attempting to kill the process...
+2023-04-01 08:39:44.399 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 24884]: successfully killed the process
+2023-04-01 08:39:45.267 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 24884]: received exit event with code 0
+2023-04-01 08:39:46.034 [info] [UtilityProcess id: 1, type: extensionHost, pid: 24903]: received exit event with code 0
+2023-04-01 08:39:46.035 [info] Extension host with pid 24903 exited with code: 0, signal: unknown.

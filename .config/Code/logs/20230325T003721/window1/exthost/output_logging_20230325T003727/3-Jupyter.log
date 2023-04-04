@@ -1,0 +1,91 @@
+Visual Studio Code (1.76.2, undefined, desktop)
+Jupyter Extension Version: 2023.2.1200692131.
+Python Extension Version: 2023.4.1.
+Workspace folder /home/hadi/Desktop
+warn 00:37:29.484: Exception while attempting zmq : /snap/core/current/usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.22' not found (required by /home/hadi/.vscode/extensions/ms-toolsai.jupyter-2023.2.1200692131/out/node_modules/zeromq/prebuilds/linux-x64/electron.napi.glibc.node)
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'jupyterTestcf'
+info 00:37:30.167: Attempting to start a server because of preload conditions ...
+info 00:37:30.423: LSP Notebooks experiment is enabled
+info 00:37:30.425: Checking for server existence.
+warn 00:37:32.542: Failed to get activated env vars with python /bin/python3 in 1860ms
+warn 00:37:32.556: Failed to get activated env vars with python /bin/python3 in 1874ms
+warn 00:37:32.564: Failed to get activated env vars with python /bin/python3 in 1879ms
+info 00:37:32.898: Process Execution: > /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_SITE);print("USER_BASE_VALUE");"
+> /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_SITE);print("USER_BASE_VALUE");"
+info 00:37:33.201: Process Execution: > /bin/python3 -c "import jupyter;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import jupyter;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 00:37:33.228: Process Execution: > /bin/python3 -c "import notebook;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import notebook;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 00:37:33.253: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+warn 00:37:35.427: Failed to get activated env vars with python /bin/python3 in 7ms
+info 00:37:35.441: Process Execution: > /bin/python3 -m jupyter kernelspec --version
+> /bin/python3 -m jupyter kernelspec --version
+info 00:37:38.751: Connecting to server
+info 00:37:38.751: Launching server
+info 00:37:38.752: Starting Notebook
+warn 00:37:38.758: Failed to get activated env vars with python /bin/python3 in 8ms
+warn 00:37:38.760: Failed to get activated env vars with python /bin/python3 in 10ms
+info 00:37:38.761: Generating custom default config at /tmp/de695f29-9981-4635-a085-00d9ddd87354/jupyter_notebook_config.py
+Starting Jupyter from /bin/python3 with arguments --no-browser --notebook-dir="/home/hadi/Desktop" --config=/tmp/de695f29-9981-4635-a085-00d9ddd87354/jupyter_notebook_config.py --NotebookApp.iopub_data_rate_limit=10000000000.0
+warn 00:37:38.773: Failed to get activated env vars with python /bin/python3 in 12ms
+warn 00:37:38.780: Failed to get activated env vars with python /bin/python3 in 5ms
+info 00:37:38.792: Process Execution: > /bin/python3 -m jupyter notebook --no-browser --notebook-dir="/home/hadi/Desktop" --config=/tmp/de695f29-9981-4635-a085-00d9ddd87354/jupyter_notebook_config.py --NotebookApp.iopub_data_rate_limit=10000000000.0
+> /bin/python3 -m jupyter notebook --no-browser --notebook-dir="/home/hadi/Desktop" --config=/tmp/de695f29-9981-4635-a085-00d9ddd87354/jupyter_notebook_config.py --NotebookApp.iopub_data_rate_limit=10000000000.0
+/home/hadi/.local/lib/python3.10/site-packages/traitlets/traitlets.py:2548: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use '/home/hadi/Desktop' instead of '"/home/hadi/Desktop"' if you require traitlets >=5.
+  warn(
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[I 00:37:44.823 NotebookApp] Serving notebooks from local directory: /home/hadi/Desktop
+[I 00:37:44.824 NotebookApp] Jupyter Notebook 6.5.3 is running at:
+[I 00:37:44.824 NotebookApp] http://localhost:8888/?token=f4be063fb15501b4c7be109deb59ca0ea9611234515cb96f
+[I 00:37:44.824 NotebookApp]  or http://127.0.0.1:8888/?token=f4be063fb15501b4c7be109deb59ca0ea9611234515cb96f
+[I 00:37:44.824 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+warn 00:37:44.837: Failed to get activated env vars with python /bin/python3 in 12ms
+info 00:37:44.855: Process Execution: > /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.2.1200692131/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.2.1200692131/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+[C 00:37:44.838 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/hadi/.local/share/jupyter/runtime/nbserver-3972-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=f4be063fb15501b4c7be109deb59ca0ea9611234515cb96f
+     or http://127.0.0.1:8888/?token=f4be063fb15501b4c7be109deb59ca0ea9611234515cb96f
+warn 00:37:44.864: Failed to get activated env vars with python /bin/python3 in 8ms
+info 00:37:44.883: Process Execution: > /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.2.1200692131/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.2.1200692131/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+info 00:37:45.787: Connecting local server kernel http://localhost:8888/
+info 00:37:45.788: Creating server with url : http://localhost:8888/
+info 00:37:45.828: Server started.
+info 00:42:05.871: Starting interactive window for resource '/home/hadi/Desktop/earthquake_proj/data_modifier.py' with controller '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Interactive)'
+info 00:42:05.969: Attempting to start a server because of preload conditions ...
+info 00:42:07.146: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Python Path: , EnvType: Unknown, EnvName: '', Version: 3.10.6 (main, Mar 10 2023, 10:55:28) [GCC 11.3.0]) for '/Interactive-1.interactive' (disableUI=false)
+[I 00:42:07.177 NotebookApp] Creating new notebook in /earthquake_proj
+info 00:42:07.799: installMissingDependencies /bin/python3, ui.disabled=false for resource '/home/hadi/Desktop/earthquake_proj/data_modifier.py'
+warn 00:42:07.821: Failed to get activated env vars with python /bin/python3 in 22ms
+info 00:42:07.835: Process Execution: > /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 00:42:08.043: Spec argv[0] updated from '/bin/python3' to '/bin/python3'
+warn 00:42:08.049: Failed to get activated env vars with python /bin/python3 in 5ms
+[I 00:42:08.561 NotebookApp] Kernel started: 2182255d-d8fc-405f-9104-9c614cb0821b, name: pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1
+[W 00:42:08.596 NotebookApp] delete /earthquake_proj/data_modifier.py-jvsc-ae373248-48ad-4b46-8971-91766a5f74460f399aff-b86f-4e2d-9ca4-6910064fde90.ipynb
+info 00:42:18.678: Started session for kernel startUsingPythonInterpreter:.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+info 00:42:18.974: Generated code for 1 = <ipython-input-1-87fd65ed1542> with 3 lines
+warn 00:42:19.173: Failed to get activated env vars with python /bin/python3 in 281ms
+info 00:42:19.215: Process Execution: > /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.2.1200692131/pythonFiles/printJupyterDataDir.py
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.2.1200692131/pythonFiles/printJupyterDataDir.py
+info 00:50:09.417: Generated code for 2 = <ipython-input-2-03f8bc05350f> with 5 lines
+info 00:50:46.786: Generated code for 3 = <ipython-input-3-27e00e2c27bd> with 12 lines
+info 00:50:51.447: Generated code for 4 = <ipython-input-4-6b09ed9df9ac> with 9 lines

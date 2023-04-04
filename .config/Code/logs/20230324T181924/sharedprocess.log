@@ -1,0 +1,5 @@
+2023-03-24 18:19:31.111 [info] Starting worker process with pid 23759 (type: fileWatcher, window: 1).
+2023-03-24 18:19:35.210 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-24 18:21:17.287 [info] Uninstalling extension from the profile: grapecity.gc-excelviewer@4.2.56 vscode-userdata:/home/hadi/.vscode/extensions/extensions.json
+2023-03-24 18:21:17.452 [info] Marked extension as uninstalled grapecity.gc-excelviewer-4.2.56
+2023-03-24 18:21:18.492 [info] Successfully uninstalled extension from the profile grapecity.gc-excelviewer@4.2.56 vscode-userdata:/home/hadi/.vscode/extensions/extensions.json

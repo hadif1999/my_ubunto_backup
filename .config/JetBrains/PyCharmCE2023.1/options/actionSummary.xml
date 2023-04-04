@@ -1,0 +1,235 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1679568495746" />
+    </e>
+    <e n="ActivatePythonConsoleToolWindow">
+      <i c="19" l="1680461333677" />
+    </e>
+    <e n="ActivateRunToolWindow">
+      <i c="4" l="1679569042318" />
+    </e>
+    <e n="ActivateTerminalToolWindow">
+      <i c="36" l="1680461338185" />
+    </e>
+    <e n="ChooseRunConfiguration">
+      <i c="2" l="1679569586427" />
+    </e>
+    <e n="CloseActiveTab">
+      <i c="10" l="1679571549847" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="1" l="1679567548433" />
+    </e>
+    <e n="CollapseRegion">
+      <i c="3" l="1679673026390" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="150" l="1679571128509" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="6" l="1679568840115" />
+    </e>
+    <e n="EditorDown">
+      <i c="65" l="1679571185070" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="10" l="1679571193706" />
+    </e>
+    <e n="EditorEnter">
+      <i c="16" l="1679568821806" />
+    </e>
+    <e n="EditorEscape">
+      <i c="7" l="1679571560807" />
+    </e>
+    <e n="EditorLeft">
+      <i c="90" l="1679673011683" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="19" l="1679568523221" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1679568492024" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="38" l="1679568513699" />
+    </e>
+    <e n="EditorRight">
+      <i c="135" l="1679568906784" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="15" l="1679571196700" />
+    </e>
+    <e n="EditorScrollUp">
+      <i c="6" l="1679673029391" />
+    </e>
+    <e n="EditorTab">
+      <i c="3" l="1679568970111" />
+    </e>
+    <e n="EditorUp">
+      <i c="21" l="1679571219089" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="14" l="1679571183273" />
+    </e>
+    <e n="ExecuteInPyConsoleAction">
+      <i c="4" l="1679571314232" />
+    </e>
+    <e n="ExpandAllRegions">
+      <i c="5" l="1679673024570" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="3" l="1679673017056" />
+    </e>
+    <e n="FileStructurePopup">
+      <i c="2" l="1679674401292" />
+    </e>
+    <e n="GotoClass">
+      <i c="5" l="1679568089411" />
+    </e>
+    <e n="GotoFile">
+      <i c="1" l="1679568044645" />
+    </e>
+    <e n="InsertLiveTemplate">
+      <i c="5" l="1678812401259" />
+    </e>
+    <e n="IntroduceField">
+      <i c="1" l="1679571126201" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1679674217007" />
+    </e>
+    <e n="MoveStatementDown">
+      <i c="9" l="1679571219858" />
+    </e>
+    <e n="MoveStatementUp">
+      <i c="8" l="1679673030326" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="1" l="1679567714901" />
+    </e>
+    <e n="NewElement">
+      <i c="4" l="1679568437573" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="3" l="1679568448370" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1679672957238" />
+    </e>
+    <e n="PyRunFileInConsole">
+      <i c="12" l="1679673055480" />
+    </e>
+    <e n="RecentChanges">
+      <i c="1" l="1679570678602" />
+    </e>
+    <e n="RecentFiles">
+      <i c="2" l="1679568528783" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1679568359817" />
+    </e>
+    <e n="ReplaceInPath">
+      <i c="1" l="1679572018198" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1679569105730" />
+    </e>
+    <e n="Resume">
+      <i c="2" l="1679572046873" />
+    </e>
+    <e n="Run">
+      <i c="6" l="1679673905122" />
+    </e>
+    <e n="SaveAll">
+      <i c="2" l="1679673934990" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="3" l="1679571214153" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="11" l="1679568779529" />
+    </e>
+    <e n="ShowSettings">
+      <i c="19" l="1679572064827" />
+    </e>
+    <e n="SwitcherRecentEditedChangedToggleCheckBox">
+      <i c="1" l="1679568526197" />
+    </e>
+    <e n="ToggleBookmarkWithMnemonic">
+      <i c="1" l="1679674387567" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="1" l="1679570789049" />
+    </e>
+    <e n="com.intellij.execution.console.ConsoleExecuteAction">
+      <i c="6" l="1679570548326" />
+    </e>
+    <e n="com.intellij.execution.console.ConsoleHistoryController$MyAction">
+      <i c="1" l="1679570200218" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="1" l="1679567513295" />
+    </e>
+    <e n="com.intellij.ide.actions.ToolwindowSwitcher$ToolWindowAction">
+      <i c="1" l="1679568392423" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1679673815150" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
+      <i c="19" l="1679571975334" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$ClearFilteringAction">
+      <i c="2" l="1679571966513" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$EditShortcutAction">
+      <i c="1" l="1679570789706" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$FindByShortcutAction">
+      <i c="7" l="1679571885486" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$RemoveShortcutAction">
+      <i c="4" l="1679571842418" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$ResetShortcutsAction">
+      <i c="1" l="1679571482625" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="8" l="1679674403094" />
+    </e>
+    <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
+      <i c="2" l="1679568530607" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="1" l="1679571341582" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="21" l="1680461305679" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="24" l="1679674221741" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1678812333929" />
+    </e>
+    <e n="com.intellij.toolWindow.MoreSquareStripeButton$Companion$createAction$1">
+      <i c="9" l="1679673943453" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1680461315108" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1679673949718" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="3" l="1679571215994" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="2" l="1679571214931" />
+    </e>
+    <e n="com.jetbrains.python.console.PydevConsoleRunnerImpl$NewConsoleAction">
+      <i c="1" l="1679569137690" />
+    </e>
+  </component>
+</application>

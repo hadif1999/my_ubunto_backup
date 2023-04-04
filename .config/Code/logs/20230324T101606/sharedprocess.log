@@ -1,0 +1,5 @@
+2023-03-24 10:16:13.881 [info] Starting worker process with pid 3961 (type: fileWatcher, window: 1).
+2023-03-24 10:16:16.974 [info] Deleted from disk ms-vscode.cpptools /home/hadi/.vscode/extensions/ms-vscode.cpptools-1.14.4-linux-x64
+2023-03-24 10:16:17.426 [info] Deleted from disk ms-python.vscode-pylance /home/hadi/.vscode/extensions/ms-python.vscode-pylance-2023.3.20
+2023-03-24 11:24:10.356 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-24 11:26:07.741 [warning] No ptyHost heartbeat after 6 seconds

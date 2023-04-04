@@ -1,0 +1,13 @@
+2023-03-25 00:37:22.143 [info] update#setState idle
+2023-03-25 00:37:25.740 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-25 00:37:25.757 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3754]: successfully created
+2023-03-25 00:37:52.149 [info] update#setState checking for updates
+2023-03-25 00:37:52.151 [info] update#setState idle
+2023-03-25 00:53:16.246 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3754]: waiting to exit...
+2023-03-25 00:53:22.676 [warning] [storage main] detected slow close() operation: Time: 6450ms, DB size: 221184b, Large Keys: iconThemeData:90044, colorThemeData:9922, ms-python.python:5466, workbench.activity.placeholderViewlets:5297, memento/experiment.service.memento:4101
+2023-03-25 00:53:22.842 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3754]: did not exit within 6000ms, will kill it now...
+2023-03-25 00:53:22.842 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3754]: attempting to kill the process...
+2023-03-25 00:53:22.843 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3754]: successfully killed the process
+2023-03-25 00:53:23.274 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3754]: received exit event with code 0
+2023-03-25 00:53:23.274 [info] Extension host with pid 3754 exited with code: 0, signal: unknown.
+2023-03-25 00:53:28.565 [warning] [storage main] detected slow close() operation: Time: 12433ms, DB size: 38268928b, Large Keys: memento/workbench.parts.editor:20202, memento/workbench.editor.interactive:12294, __$__targetStorageMarker:3520, ms-toolsai.jupyter:2870, memento/workbench.editors.files.textFileEditor:2184

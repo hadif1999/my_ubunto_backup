@@ -1,0 +1,21 @@
+Experiment 'pythonaacf' is active
+Experiment 'pythonPromptNewToolsExt' is active
+Experiment 'pythonSurveyNotificationcf' is active
+> conda info --json
+Python interpreter path: /bin/python3
+> /bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/interpreterInfo.py
+Starting Pylance language server.
+Jupyter provided interpreter path override: /bin/python3
+Jupyter provided interpreter path override: /bin/python3
+Jupyter provided interpreter path override: /bin/python3
+Jupyter provided interpreter path override: /bin/python3
+Jupyter provided interpreter path override: /bin/python3
+Jupyter provided interpreter path override: /bin/python3
+Jupyter provided interpreter path override: /bin/python3
+Jupyter provided interpreter path override: /bin/python3
+Jupyter provided interpreter path override: /bin/python3
+> /bin/python3 ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/normalizeSelection.py
+Send text to terminal: /bin/python3
+Send text to terminal: a= [1,2,4,-1,5,67,7,4,2,3,2,5,0,74,43,24,5,6,2,4,4]
+

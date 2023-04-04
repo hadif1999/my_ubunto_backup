@@ -1,0 +1,29 @@
+{
+   "AlarmClock": {
+      "message": "Alarm klokke"
+   },
+   "AppDesc": {
+      "message": "Nyttige tidtakere for alle dine behov"
+   },
+   "AppName": {
+      "message": "Timer for  ™"
+   },
+   "Cancel": {
+      "message": "Avbryt"
+   },
+   "Countdown": {
+      "message": "nedtelling"
+   },
+   "Pause": {
+      "message": "Pause"
+   },
+   "Resume": {
+      "message": "Gjenoppta"
+   },
+   "Stop": {
+      "message": "Stoppe"
+   },
+   "Stopwatch": {
+      "message": "Stoppeklokke"
+   }
+}
