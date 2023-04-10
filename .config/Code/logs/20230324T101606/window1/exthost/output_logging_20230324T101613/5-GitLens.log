@@ -1,6 +1,0 @@
-[2023-03-24 06:46:18.934] [GIT  ] [/home/hadi/Desktop] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 93 ms
-
-[2023-03-24 06:46:19.456] [GIT  ] [/home/hadi/Desktop/requests_test] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 54 ms
-
-[2023-03-24 06:47:19.362] [GIT  ] [/home/hadi/Desktop/earthquake_proj] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 14 ms
-

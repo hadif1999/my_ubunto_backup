@@ -1,2 +1,0 @@
-2023-03-25 00:37:30.015 [info] [perf] Render performance baseline is 146ms
-2023-03-25 00:53:05.339 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.workingCopyHistory

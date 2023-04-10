@@ -1,8 +1,0 @@
-2023-03-24 10:16:07.372 [info] update#setState idle
-2023-03-24 10:16:10.522 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
-2023-03-24 10:16:10.544 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3918]: successfully created
-2023-03-24 10:16:37.376 [info] update#setState checking for updates
-2023-03-24 10:16:37.382 [info] update#setState idle
-2023-03-24 10:22:17.656 [info] [UtilityProcess id: 1, type: extensionHost, pid: 3918]: enabling inspect port
-2023-03-24 11:16:37.391 [info] update#setState checking for updates
-2023-03-24 11:16:37.491 [info] update#setState idle

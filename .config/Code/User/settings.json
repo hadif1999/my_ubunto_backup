@@ -13,8 +13,9 @@
     "[python]": {
         "editor.formatOnType": true
     },
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 1,
     "CodeGPT.model": "code-davinci-002",
     "jupyter.askForKernelRestart": false,
-    "notebook.output.textLineLimit": 40
+    "notebook.output.textLineLimit": 40,
+    "python.languageServer": "Pylance"
 }
