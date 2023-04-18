@@ -48,7 +48,7 @@ floating_modifier $mod
 bindsym $mod+Return exec i3-sensible-terminal
 
 #start a new chrome
-bindsym $mod+Shift+g exec chromium
+bindsym $mod+Shift+g exec google-chrome
 
 # start a new telegram
 bindsym $mod+Shift+t exec telegram-desktop

@@ -1,9 +1,9 @@
 [Default Applications]
-text/html=chromium_chromium.desktop
-x-scheme-handler/http=chromium_chromium.desktop
-x-scheme-handler/https=chromium_chromium.desktop
-x-scheme-handler/about=chromium_chromium.desktop
-x-scheme-handler/unknown=chromium_chromium.desktop
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
 audio/x-vorbis+ogg=vlc_vlc.desktop
 audio/ogg=vlc_vlc.desktop
 audio/vorbis=vlc_vlc.desktop

@@ -156,9 +156,9 @@
       "description": "Coupons, compare savings and save money while you shop",
       "icon": {
          "raster_icon": {
-            "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_shopping_maximal_dark.png/1.3.11/asset",
-            "high_contrast": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_shopping_hc.png/1.3.11/asset",
-            "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_shopping_maximal_light.png/1.3.11/asset"
+            "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_shopping_maximal_dark.png/1.3.12/asset",
+            "high_contrast": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_shopping_hc.png/1.3.12/asset",
+            "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_shopping_maximal_light.png/1.3.12/asset"
          }
       },
       "id": "523b5ef3-0b10-4154-8b62-10b2ebd00921",
@@ -172,10 +172,11 @@
       "on_by_default": true,
       "on_by_default|device:managed": false,
       "surfaces": [ "in_browser_sidebar" ],
+      "surfaces|flight:msEdgeShoppingInEdgeBar": [ "in_browser_sidebar", "standalone_sidebar" ],
       "target": {
          "url": "edge://shopping"
       },
-      "version": "1.3.11"
+      "version": "1.3.12"
    }, {
       "capabilities": {
          "resize_disabled": true
@@ -407,6 +408,7 @@
             "show_count": 3,
             "text": "Was opening the email in the pane helpful to you?"
          },
+         "lifetime": "tab",
          "remember_context": {
             "time_to_live_sec": 86400
          },
@@ -447,9 +449,9 @@
       "description": "Check email while staying in your flow",
       "icon": {
          "raster_icon": {
-            "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_outlook_dark.png/1.7.5/asset",
-            "high_contrast": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_outlook_hc.png/1.7.5/asset",
-            "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_outlook_light.png/1.7.5/asset"
+            "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_outlook_dark.png/1.7.6/asset",
+            "high_contrast": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_outlook_hc.png/1.7.6/asset",
+            "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_outlook_light.png/1.7.6/asset"
          }
       },
       "id": "8682d0fa-50b3-4ece-aa5b-e0b33f9919e2",
@@ -477,7 +479,7 @@
       },
       "trusted_domains": [ "live.com", "office.com", "microsoftonline.com", "microsoft.com", "office365.com" ],
       "trusted_types": [ "default", "dompurify" ],
-      "version": "1.7.5"
+      "version": "1.7.6"
    }, {
       "default_locale": "en",
       "description": "Empower people to express themselves creatively",
@@ -661,24 +663,23 @@
    }, {
       "default_locale": "en",
       "description": "Short & easy exercise sessions at your seat for a quick healthy break",
-      "disabled": true,
-      "disabled|locale:en": false,
       "icon": {
          "raster_icon": {
-            "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_health_maximal_dark.png/1.0.0/asset",
-            "high_contrast": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_health_hc.png/1.0.0/asset",
-            "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_health_maximal_light.png/1.0.0/asset"
+            "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_health_maximal_dark.png/1.0.1/asset",
+            "high_contrast": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_health_hc.png/1.0.1/asset",
+            "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_health_maximal_light.png/1.0.1/asset"
          }
       },
       "id": "b0197d6d-a306-4106-8536-17bb5ecfd446",
       "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3G4isP0NuZ6BX6zlBMWEgVNTCdbL66DLWBT8MhqgQpPZFV3DfJu5pHfQ+pItUFRgCiqggAsyeT7jcXLhPXaTQjB/mNZyj5ITIfZCQnFaiiZNYaTCmm9GnsTGG6ek5YpHfF63GkbTHjMIH/sFUTObwF+kNBv/l4NLVFIiDLAgo16nS35D5EiMvw+QaoXqaKMHA80kJmnCX5JTNt3LmitwEhPNIaRn2ptS3f2Ouu0da1uws8vzBs6Wj+VKRy5JJ4UGZOaSfeBx3xMR0fhZc4pHY5G2q5neWpYvx9JIh/6kRkbFbi9VtNqcriGbzAO2nhAskomtCKjWzypV9oklJWWKyQIDAQAB",
-      "locales": [ "en" ],
+      "locales": [ "en", "ja" ],
       "manifest_version": 3,
       "name": "Health and Wellness",
       "target": {
-         "url": "https://www.msn.com/en-us/health/healthapp"
+         "url": "https://www.msn.com/en-us/health/healthapp",
+         "url|locale:ja": "https://www.msn.com/ja-jp/health/healthapp"
       },
-      "version": "1.0.0"
+      "version": "1.0.1"
    }, {
       "capabilities": {
          "show_domain_in_header": true
@@ -1235,17 +1236,28 @@
    }, {
       "auto_show": {
          "enabled": true,
-         "fre_notification": {
-            "enabled": false,
-            "header": "Stay in the flow",
-            "text": "We have automatically opened Teams for an enhanced contextual experience."
+         "fallback_notification": {
+            "show_count": 5,
+            "text": "View the chat you came from in the side pane"
          },
-         "settings_description": "When a web link is opened from a Teams chat, the side pane will automatically open to show that chat for context.",
+         "fre_notification": {
+            "enabled": true,
+            "header": "Was opening this pane helpful to you?",
+            "show_count": 3,
+            "text": "Was opening this pane helpful to you?"
+         },
+         "remember_context": {
+            "time_to_live_sec": 86400
+         },
+         "settings_description": "When a web link is opened from a Teams chat, the side pane will show that chat for context.",
          "settings_learn_more_link": "https://go.microsoft.com/fwlink/?linkid=2213996",
          "settings_title": "Automatically open Teams chat context in the side pane"
       },
+      "capabilities": {
+         "show_domain_in_header": true
+      },
       "default_locale": "en",
-      "description": "Chat and collaborate on shared links",
+      "description": "Check your chat while staying in the flow",
       "disabled": true,
       "disabled|auth:aad": false,
       "dormancy": {
@@ -1258,9 +1270,9 @@
       "flights": [ "msEdgeHubAppTeams" ],
       "icon": {
          "raster_icon": {
-            "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_teams_dark.png/1.0.13/asset",
-            "high_contrast": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_teams_hc.png/1.0.13/asset",
-            "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_teams_light.png/1.0.13/asset"
+            "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_teams_dark.png/1.0.14/asset",
+            "high_contrast": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_teams_hc.png/1.0.14/asset",
+            "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_teams_light.png/1.0.14/asset"
          }
       },
       "id": "bc25fcef-8964-4e72-8287-23e2b496c128",
@@ -1269,10 +1281,13 @@
       "locales": [ "en" ],
       "manifest_version": 3,
       "name": "Teams",
-      "target": {
-         "url": "https://teams.microsoft.com/embed-client/chats/list"
+      "notifications": {
+         "enabled": true
       },
-      "version": "1.0.13"
+      "target": {
+         "url": "https://teams.microsoft.com/embed-client/chats/list?layout=singlePane&hostCtx=edge"
+      },
+      "version": "1.0.14"
    }, {
       "capabilities": {
          "show_domain_in_header": true
@@ -1349,8 +1364,8 @@
             "enabled": false,
             "header": "Using Skype"
          },
-         "settings_description": "When a web link is opened from an Skype chat, the side pane will automatically open to show that chat for context.",
-         "settings_title": "Automatically open Skype chat context in the side pane"
+         "settings_description": "When you open a link from a chat in Skype, the side pane will automatically open to show the chat for context.",
+         "settings_title": "Automatically open Skype chat links in the side pane"
       },
       "capabilities": {
          "show_domain_in_header": true
@@ -1361,9 +1376,9 @@
       "flights": [ "msEdgeHubAppSkype" ],
       "icon": {
          "raster_icon": {
-            "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_skype_dark.png/1.3.11/asset",
-            "high_contrast": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_skype_hc.png/1.3.11/asset",
-            "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_skype_light.png/1.3.11/asset"
+            "dark_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_skype_dark.png/1.3.13/asset",
+            "high_contrast": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_skype_hc.png/1.3.13/asset",
+            "light_mode": "https://edgeassetservice.azureedge.net/assets/edge_hub_apps_skype_light.png/1.3.13/asset"
          }
       },
       "id": "439642fc-998d-4a64-8bb6-940ecaf6b60b",
@@ -1375,11 +1390,12 @@
          "enabled": true
       },
       "target": {
-         "url": "https://web.skype.com/?source=shoreline",
-         "url|flight:msEdgeHubAppLatestSkype": "https://latest.web.skype.com/?source=shoreline"
+         "url": "https://web.skype.com/?browsername=edge_canary_shoreline",
+         "url|flight:msEdgeHubAppLatestSkype": "https://latest.web.skype.com/?browsername=edge_canary_shoreline",
+         "url|flight:msEdgeHubAppSkypeStable": "https://web.skype.com/?browsername=edge_stable_shoreline"
       },
       "trusted_domains": [ "live.com", "office.com", "microsoftonline.com", "microsoft.com", "office365.com", "sharepoint-df.com", "skype.com" ],
-      "version": "1.3.11"
+      "version": "1.3.13"
    }, {
       "default_locale": "en",
       "description": "Improve browser performance and save battery",
