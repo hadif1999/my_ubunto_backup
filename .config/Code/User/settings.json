@@ -17,5 +17,7 @@
     "CodeGPT.model": "code-davinci-002",
     "jupyter.askForKernelRestart": false,
     "notebook.output.textLineLimit": 40,
-    "python.languageServer": "Pylance"
+    "python.languageServer": "Pylance",
+    "files.autoSaveDelay": 500,
+    "git.suggestSmartCommit": false
 }

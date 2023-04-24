@@ -108,3 +108,4 @@ alias V-5="amixer -D pulse sset Master 5%-"
 alias V-20="amixer -D pulse sset Master 20%-"
 alias V-50="amixer -D pulse sset Master 50%-"
 
+

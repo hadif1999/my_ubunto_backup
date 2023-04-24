@@ -1,5 +1,5 @@
-2023/04/15-00:39:31.310 3 Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/Asset Store/assets.db/MANIFEST-000001
-2023/04/15-00:39:31.313 3 Recovering log #13
-2023/04/15-00:39:31.320 3 Level-0 table #16: started
-2023/04/15-00:39:32.395 3 Level-0 table #16: 362204 bytes OK
-2023/04/15-00:39:33.123 3 Delete type=0 #13
+2023/04/21-22:12:35.294 3 Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/Asset Store/assets.db/MANIFEST-000001
+2023/04/21-22:12:35.298 3 Recovering log #20
+2023/04/21-22:12:35.315 3 Level-0 table #22: started
+2023/04/21-22:12:36.619 3 Level-0 table #22: 378970 bytes OK
+2023/04/21-22:12:36.671 3 Delete type=0 #20

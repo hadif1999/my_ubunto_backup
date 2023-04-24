@@ -1,3 +1,15 @@
-2023/04/15-00:39:30.829 7f43 Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
-2023/04/15-00:39:30.830 7f43 Recovering log #23
-2023/04/15-00:39:30.831 7f43 Reusing old log /home/hadi/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/000023.log 
+2023/04/21-22:02:25.039 5fc5 Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2023/04/21-22:02:25.039 5fc5 Recovering log #23
+2023/04/21-22:02:25.134 5fc5 Reusing old log /home/hadi/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/000023.log 
+2023/04/21-22:06:08.021 5fc5 Level-0 table #27: started
+2023/04/21-22:06:08.088 5fc5 Level-0 table #27: 727420 bytes OK
+2023/04/21-22:06:08.139 5fc5 Delete type=0 #23
+2023/04/21-22:06:08.139 5fc5 Compacting 4@0 + 1@1 files
+2023/04/21-22:06:08.560 5fc5 Generated table #28@0: 5 keys, 398937 bytes
+2023/04/21-22:06:08.560 5fc5 Compacted 4@0 + 1@1 files => 398937 bytes
+2023/04/21-22:06:08.611 5fc5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/21-22:06:08.611 5fc5 Delete type=2 #18
+2023/04/21-22:06:08.611 5fc5 Delete type=2 #27
+2023/04/21-22:06:08.611 5fc5 Delete type=2 #21
+2023/04/21-22:06:08.611 5fc5 Delete type=2 #24
+2023/04/21-22:06:08.611 5fc5 Delete type=2 #15

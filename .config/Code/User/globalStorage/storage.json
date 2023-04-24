@@ -91,6 +91,39 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/kucoin_lib_using.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/kucoin_lib_using.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/kucoin_lib_using.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/kucoin_with_restapi.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/kucoin_with_restapi.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/kucoin_with_restapi.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/rest_api_prac.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/rest_api_prac.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/rest_api_prac.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/hadi/Desktop/my_python_codes/pandas_practice.py",
                                         "path": "/home/hadi/Desktop/my_python_codes/pandas_practice.py",
                                         "scheme": "file"
@@ -165,17 +198,6 @@
                                     "label": "~/Desktop/Untitled-1.py"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/python_test.py",
-                                        "path": "/home/hadi/Desktop/python_test.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/python_test.py"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -220,8 +242,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -231,6 +252,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -561,7 +589,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar"
+                                    "label": "&&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -812,8 +841,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -822,8 +850,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1467,8 +1494,8 @@
                 "userSettingsLabel": "ctrl+alt+b"
             },
             "workbench.action.togglePanel": {
-                "label": "Ctrl+J",
-                "userSettingsLabel": "ctrl+j"
+                "label": "Ctrl+Alt+J",
+                "userSettingsLabel": "ctrl+alt+j"
             },
             "workbench.action.zoomIn": {
                 "label": "Ctrl+=",
@@ -1526,10 +1553,6 @@
             "workbench.debug.action.toggleRepl": {
                 "label": "Ctrl+Shift+Y",
                 "userSettingsLabel": "ctrl+shift+y"
-            },
-            "workbench.action.terminal.toggleTerminal": {
-                "label": "Ctrl+`",
-                "userSettingsLabel": "ctrl+`"
             },
             "editor.action.toggleWordWrap": {
                 "label": "Alt+Z",
@@ -1733,7 +1756,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 437,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -1744,10 +1767,10 @@
             "backupPath": "/home/hadi/.config/Code/Backups/b5e1ec5b8078f2f93f1e445810ff02fe",
             "uiState": {
                 "mode": 1,
-                "x": 1,
-                "y": 24,
-                "width": 1681,
-                "height": 896
+                "x": 2,
+                "y": 22,
+                "width": 1532,
+                "height": 814
             }
         },
         "openedWindows": []
