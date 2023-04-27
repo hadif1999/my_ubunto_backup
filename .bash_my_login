@@ -1,0 +1,8 @@
+
+# mounting my other drives
+sudo mount /dev/sda5 /home/hadi/E_drive 2>/dev/null
+sudo mount /dev/sda6 /home/hadi/F_drive 2>/dev/null
+
+# opening vpn
+sudo open /home/hadi/Desktop/nekoray_v01/data/opt/nekoray/&
+ 
