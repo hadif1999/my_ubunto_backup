@@ -120,7 +120,7 @@ video/x-flv=vlc_vlc.desktop
 
 [Added Associations]
 video/x-matroska=kmplayer.desktop;vlc_vlc.desktop;
-video/mp4=vlc_vlc.desktop;
+video/mp4=org.kde.dragonplayer.desktop;org.gnome.Totem.desktop;vlc_vlc.desktop;
 audio/ogg=vlc_vlc.desktop;
 audio/vorbis=vlc_vlc.desktop;
 audio/x-vorbis=vlc_vlc.desktop;

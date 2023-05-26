@@ -1,3 +1,9 @@
-2023/04/15-00:39:31.308 7f1e Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/Extension State/MANIFEST-000001
-2023/04/15-00:39:31.308 7f1e Recovering log #4
-2023/04/15-00:39:31.330 7f1e Reusing old log /home/hadi/.config/microsoft-edge/Default/Extension State/000004.log 
+2023/05/25-00:33:05.596 c5d Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/Extension State/MANIFEST-000001
+2023/05/25-00:33:05.597 c5d Recovering log #7
+2023/05/25-00:33:06.705 c5d Reusing old log /home/hadi/.config/microsoft-edge/Default/Extension State/000007.log 
+2023/05/25-00:35:55.209 c23 Level-0 table #11: started
+2023/05/25-00:35:56.108 c23 Level-0 table #11: 2145104 bytes OK
+2023/05/25-00:35:56.297 c23 Delete type=0 #7
+2023/05/25-00:47:54.073 c24 Level-0 table #13: started
+2023/05/25-00:47:55.457 c24 Level-0 table #13: 2211791 bytes OK
+2023/05/25-00:47:55.630 c24 Delete type=0 #10

@@ -56,7 +56,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -90,111 +91,111 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/bingo_game/bingo_game.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/bingo_game/bingo_game.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/bingo_game/bingo_game.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/main.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/main.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/algo_trading/main.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/classes_toturial.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/classes_toturial.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/classes_toturial.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/market_data_kline_plots/get_market_data.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/market_data_kline_plots/get_market_data.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/algo_trading/market_data_kline_plots/get_market_data.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pivot_ploting.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pivot_ploting.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/algo_trading/pivot_ploting.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/google_txt2speech_test.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/google_txt2speech_test.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/google_txt2speech_test.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/projects/ranking_project_with_bert/eval_test_query/perdict_query_rank_mod/perdict_query_rank.py",
+                                        "path": "/home/hadi/Desktop/projects/ranking_project_with_bert/eval_test_query/perdict_query_rank_mod/perdict_query_rank.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/projects/ranking_project_with_bert/eval_test_query/perdict_query_rank_mod/perdict_query_rank.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/projects/ranking_project_with_bert/eval_test_query/main.py",
+                                        "path": "/home/hadi/Desktop/projects/ranking_project_with_bert/eval_test_query/main.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/projects/ranking_project_with_bert/eval_test_query/main.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_learns/sys_test.py",
+                                        "path": "/home/hadi/Desktop/my_learns/sys_test.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_learns/sys_test.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/hadi/Desktop/my_python_codes/kucoin_lib_using.py",
                                         "path": "/home/hadi/Desktop/my_python_codes/kucoin_lib_using.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/Desktop/my_python_codes/kucoin_lib_using.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/kucoin_with_restapi.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/kucoin_with_restapi.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/kucoin_with_restapi.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/rest_api_prac.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/rest_api_prac.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/rest_api_prac.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/pandas_practice.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/pandas_practice.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/pandas_practice.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/pandas.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/pandas.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/pandas.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/earthquake_proj/fulldata_mod.xlsx",
-                                        "path": "/home/hadi/Desktop/earthquake_proj/fulldata_mod.xlsx",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/earthquake_proj/fulldata_mod.xlsx"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/requests_test/requests_test.py",
-                                        "path": "/home/hadi/Desktop/requests_test/requests_test.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/requests_test/requests_test.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/earthquake_proj/ML_struc_proj.mp4",
-                                        "path": "/home/hadi/Desktop/earthquake_proj/ML_struc_proj.mp4",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/earthquake_proj/ML_struc_proj.mp4"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/main.py",
-                                        "path": "/home/hadi/Desktop/main.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/main.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/Untitled-1.py",
-                                        "path": "/home/hadi/Desktop/Untitled-1.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/Untitled-1.py"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -327,11 +328,6 @@
                                     }
                                 },
                                 {
-                                    "id": "workbench.userDataSync.actions.manage",
-                                    "label": "Settings Sync is On",
-                                    "checked": true
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -428,6 +424,22 @@
                     {
                         "id": "editor.action.clipboardCopyAction",
                         "label": "&&Copy"
+                    },
+                    {
+                        "id": "submenuitem.MenubarCopy",
+                        "label": "Copy As",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlToClipboard",
+                                    "label": "Copy Remote File URL"
+                                },
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlFrom",
+                                    "label": "Copy Remote File URL From..."
+                                }
+                            ]
+                        }
                     },
                     {
                         "id": "editor.action.clipboardPasteAction",
@@ -607,8 +619,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel",
-                                    "checked": true
+                                    "label": "&&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1736,19 +1747,19 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
+    "themeBackground": "#1f1f1f",
     "windowSplash": {
         "zoomLevel": 1,
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#cccccc",
-            "background": "#1e1e1e",
-            "editorBackground": "#1e1e1e",
-            "titleBarBackground": "#3c3c3c",
-            "activityBarBackground": "#333333",
-            "sideBarBackground": "#252526",
-            "statusBarBackground": "#007acc",
-            "statusBarNoFolderBackground": "#68217a"
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "activityBarBackground": "#181818",
+            "sideBarBackground": "#181818",
+            "statusBarBackground": "#181818",
+            "statusBarNoFolderBackground": "#1f1f1f"
         },
         "layoutInfo": {
             "sideBarSide": "left",
@@ -1773,5 +1784,6 @@
             }
         },
         "openedWindows": []
-    }
+    },
+    "window.experimental.useSandbox": true
 }

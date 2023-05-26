@@ -11,7 +11,7 @@
       <file>
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="156">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
@@ -21,7 +21,7 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="Python">
-      <summary usageCount="7" lastUsed="1680461263327" />
+      <summary usageCount="8" lastUsed="1683122147139" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
@@ -38,7 +38,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Python">
-      <summary usageCount="7" lastUsage="1680461263332" />
+      <summary usageCount="8" lastUsage="1683122147142" />
     </language>
   </component>
   <component name="ProjectView">
@@ -75,9 +75,8 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <editor active="true" />
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3658854" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36514193" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" weight="0.35755208" />
       <window_info anchor="bottom" id="Python Console" weight="0.30972224" />
@@ -91,7 +90,7 @@
       <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" weight="0.25" />
       <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
-      <unified_weights bottom="0.30972224" left="0.3658854" />
+      <unified_weights bottom="0.30972224" left="0.36514193" />
     </layoutV2>
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" />
@@ -165,7 +164,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="156">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>

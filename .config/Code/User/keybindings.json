@@ -97,5 +97,9 @@
     {
         "key": "ctrl+j",
         "command": "terminal.focus"
+    },
+    {
+        "key": "shift+alt+u",
+        "command": "editor.action.transformToUppercase"
     }
 ]

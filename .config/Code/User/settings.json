@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "Default Dark+",
     "files.autoSave": "afterDelay",
     "editor.fontSize": 17,
     "security.workspace.trust.untrustedFiles": "open",
@@ -19,5 +18,7 @@
     "notebook.output.textLineLimit": 40,
     "python.languageServer": "Pylance",
     "files.autoSaveDelay": 500,
-    "git.suggestSmartCommit": false
+    "git.suggestSmartCommit": false,
+    "git.autofetch": true,
+    "tabnine.experimentalAutoImports": true
 }
