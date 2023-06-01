@@ -1,3 +1,6 @@
-2023/05/25-00:32:56.477 c24 Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/05/25-00:32:56.477 c24 Recovering log #39
-2023/05/25-00:32:56.680 c24 Reusing old log /home/hadi/.config/microsoft-edge/Default/Sync Data/LevelDB/000039.log 
+2023/05/26-12:37:06.091 1c28 Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/05/26-12:37:06.092 1c28 Recovering log #39
+2023/05/26-12:37:06.237 1c28 Reusing old log /home/hadi/.config/microsoft-edge/Default/Sync Data/LevelDB/000039.log 
+2023/05/26-12:37:23.926 1c38 Level-0 table #44: started
+2023/05/26-12:37:24.137 1c38 Level-0 table #44: 137795 bytes OK
+2023/05/26-12:37:24.351 1c38 Delete type=0 #39

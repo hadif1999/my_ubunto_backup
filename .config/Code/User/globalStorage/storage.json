@@ -56,8 +56,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -91,23 +90,56 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/bingo_game/bingo_game.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/bingo_game/bingo_game.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/bingo_game/bingo_game.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/main.py",
                                         "path": "/home/hadi/Desktop/my_python_codes/algo_trading/main.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/Desktop/my_python_codes/algo_trading/main.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/src/market_data_gathering/market_processing.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/src/market_data_gathering/market_processing.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/algo_trading/src/market_data_gathering/market_processing.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/src/market_data_kline_plots/market_plotter.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/src/market_data_kline_plots/market_plotter.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/algo_trading/src/market_data_kline_plots/market_plotter.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/timeseries_forcasting/implementing_MLs_for_timeseries_data.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/timeseries_forcasting/implementing_MLs_for_timeseries_data.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/timeseries_forcasting/implementing_MLs_for_timeseries_data.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/bingo_game/bingo_game.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/bingo_game/bingo_game.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/bingo_game/bingo_game.py"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -163,39 +195,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Desktop/projects/ranking_project_with_bert/eval_test_query/perdict_query_rank_mod/perdict_query_rank.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/projects/ranking_project_with_bert/eval_test_query/main.py",
-                                        "path": "/home/hadi/Desktop/projects/ranking_project_with_bert/eval_test_query/main.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/projects/ranking_project_with_bert/eval_test_query/main.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_learns/sys_test.py",
-                                        "path": "/home/hadi/Desktop/my_learns/sys_test.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/my_learns/sys_test.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/kucoin_lib_using.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/kucoin_lib_using.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/kucoin_lib_using.py"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -581,7 +580,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.toggleFullScreen",
-                                    "label": "&&Full Screen"
+                                    "label": "&&Full Screen",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleZenMode",
@@ -614,8 +614,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleActivityBarVisibility",
-                                    "label": "&&Activity Bar",
-                                    "checked": true
+                                    "label": "&&Activity Bar"
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
@@ -679,8 +678,7 @@
                                 },
                                 {
                                     "id": "editor.action.toggleMinimap",
-                                    "label": "&&Minimap",
-                                    "checked": true
+                                    "label": "&&Minimap"
                                 },
                                 {
                                     "id": "breadcrumbs.toggle",
@@ -1176,7 +1174,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1760,15 +1759,6 @@
             "sideBarBackground": "#181818",
             "statusBarBackground": "#181818",
             "statusBarNoFolderBackground": "#1f1f1f"
-        },
-        "layoutInfo": {
-            "sideBarSide": "left",
-            "editorPartMinWidth": 220,
-            "titleBarHeight": 0,
-            "activityBarWidth": 48,
-            "sideBarWidth": 0,
-            "statusBarHeight": 22,
-            "windowBorder": false
         }
     },
     "windowsState": {
@@ -1776,11 +1766,12 @@
             "folder": "file:///home/hadi/Desktop",
             "backupPath": "/home/hadi/.config/Code/Backups/b5e1ec5b8078f2f93f1e445810ff02fe",
             "uiState": {
-                "mode": 1,
-                "x": 2,
-                "y": 22,
+                "mode": 3,
+                "display": 65,
                 "width": 1532,
-                "height": 814
+                "height": 814,
+                "x": 2,
+                "y": 22
             }
         },
         "openedWindows": []

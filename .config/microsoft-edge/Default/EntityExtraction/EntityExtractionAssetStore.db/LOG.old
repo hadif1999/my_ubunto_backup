@@ -1,3 +1,5 @@
-2023/05/25-00:38:02.618 3 Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/EntityExtractionAssetStore.db/MANIFEST-000001
-2023/05/25-00:38:02.623 3 Recovering log #4
-2023/05/25-00:38:02.713 3 Reusing old log /home/hadi/.config/microsoft-edge/Default/EntityExtractionAssetStore.db/000004.log 
+2023/05/26-12:42:12.531 3 Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/EntityExtractionAssetStore.db/MANIFEST-000001
+2023/05/26-12:42:12.534 3 Recovering log #4
+2023/05/26-12:42:12.547 3 Level-0 table #6: started
+2023/05/26-12:42:12.596 3 Level-0 table #6: 262848 bytes OK
+2023/05/26-12:42:12.647 3 Delete type=0 #4

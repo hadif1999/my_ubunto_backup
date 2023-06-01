@@ -20,5 +20,8 @@
     "files.autoSaveDelay": 500,
     "git.suggestSmartCommit": false,
     "git.autofetch": true,
-    "tabnine.experimentalAutoImports": true
+    "tabnine.experimentalAutoImports": true,
+    "git.confirmSync": false,
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": false
 }
