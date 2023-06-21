@@ -2,6 +2,16 @@
   <component name="BookmarksManager">
     <option name="groups">
       <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/test.py" />
+              <entry key="line" value="7" />
+            </attributes>
+            <option name="description" value="" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
         <option name="name" value="pythonProject1" />
       </GroupState>
     </option>
@@ -11,8 +21,11 @@
       <file>
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="364">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -21,7 +34,7 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="Python">
-      <summary usageCount="8" lastUsed="1683122147139" />
+      <summary usageCount="11" lastUsed="1687256567788" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
@@ -38,7 +51,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Python">
-      <summary usageCount="8" lastUsage="1683122147142" />
+      <summary usageCount="11" lastUsage="1687256567793" />
     </language>
   </component>
   <component name="ProjectView">
@@ -75,8 +88,32 @@
     </option>
   </component>
   <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2489518" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Dependency Checker" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Python Packages" order="4" visible="true" weight="0.045138888" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.15416667" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <unified_weights bottom="0.045138888" left="0.2489518" />
+    </layout>
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36514193" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18151042" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" weight="0.35755208" />
       <window_info anchor="bottom" id="Python Console" weight="0.30972224" />
@@ -90,26 +127,10 @@
       <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" weight="0.25" />
       <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
-      <unified_weights bottom="0.30972224" left="0.36514193" />
+      <unified_weights bottom="0.30972224" left="0.18151042" />
     </layoutV2>
-    <layout>
-      <window_info id="Bookmarks" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.50156903" />
-      <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Python Packages" order="4" />
-      <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Problems View" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.68962073" />
-      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
-    </layout>
     <recentWindows>
+      <value>Python Packages</value>
       <value>Terminal</value>
       <value>Python Console</value>
       <value>Project</value>
@@ -120,6 +141,10 @@
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
+    <state x="351" y="0" width="1406" height="1080" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1687256313424">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="351" y="0" width="1406" height="1080" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1687256313424" />
     <state x="1117" y="171" width="640" height="708" key="FileChooserDialogImpl" timestamp="1679672980359">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -140,10 +165,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1796" height="271" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1679674371468" />
-    <state x="562" y="0" width="1354" height="1080" key="SettingsEditor" timestamp="1679572332340">
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor" timestamp="1687257082192">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="562" y="0" width="1354" height="1080" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1679572332340" />
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1687257082192" />
     <state x="551" y="139" width="930" height="805" key="StructurePopup" timestamp="1679674403095">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -164,8 +189,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="364">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -91,111 +91,111 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/main.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/main.py",
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/using_ML_forcasting.ipynb",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/using_ML_forcasting.ipynb",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/main.py"
+                                    "label": "~/Desktop/my_python_codes/algo_trading/using_ML_forcasting.ipynb"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/src/market_data_gathering/market_processing.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/src/market_data_gathering/market_processing.py",
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/examples/plotting_trend_example.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/examples/plotting_trend_example.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/src/market_data_gathering/market_processing.py"
+                                    "label": "~/Desktop/my_python_codes/algo_trading/examples/plotting_trend_example.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/src/market_data_kline_plots/market_plotter.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/src/market_data_kline_plots/market_plotter.py",
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/trend_filters.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/trend_filters.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/src/market_data_kline_plots/market_plotter.py"
+                                    "label": "~/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/trend_filters.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/timeseries_forcasting/implementing_MLs_for_timeseries_data.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/timeseries_forcasting/implementing_MLs_for_timeseries_data.py",
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_kline_plots/market_plotter.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_kline_plots/market_plotter.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/timeseries_forcasting/implementing_MLs_for_timeseries_data.py"
+                                    "label": "~/Desktop/my_python_codes/algo_trading/pycoin/market_data_kline_plots/market_plotter.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/bingo_game/bingo_game.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/bingo_game/bingo_game.py",
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/market_processing.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/market_processing.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/bingo_game/bingo_game.py"
+                                    "label": "~/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/market_processing.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/classes_toturial.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/classes_toturial.py",
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_ML_forcasting/darts_models/darts_forcasting_models.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_ML_forcasting/darts_models/darts_forcasting_models.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/classes_toturial.py"
+                                    "label": "~/Desktop/my_python_codes/algo_trading/pycoin/market_ML_forcasting/darts_models/darts_forcasting_models.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/market_data_kline_plots/get_market_data.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/market_data_kline_plots/get_market_data.py",
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_ML_forcasting/forcasting_models.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_ML_forcasting/forcasting_models.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/market_data_kline_plots/get_market_data.py"
+                                    "label": "~/Desktop/my_python_codes/algo_trading/pycoin/market_ML_forcasting/forcasting_models.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pivot_ploting.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pivot_ploting.py",
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/examples/market_timeseries_forcasting_example.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/examples/market_timeseries_forcasting_example.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/pivot_ploting.py"
+                                    "label": "~/Desktop/my_python_codes/algo_trading/examples/market_timeseries_forcasting_example.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/google_txt2speech_test.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/google_txt2speech_test.py",
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/timeseries_forcasting/darts_kalman_filter.ipynb",
+                                        "path": "/home/hadi/Desktop/my_python_codes/timeseries_forcasting/darts_kalman_filter.ipynb",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/google_txt2speech_test.py"
+                                    "label": "~/Desktop/my_python_codes/timeseries_forcasting/darts_kalman_filter.ipynb"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/projects/ranking_project_with_bert/eval_test_query/perdict_query_rank_mod/perdict_query_rank.py",
-                                        "path": "/home/hadi/Desktop/projects/ranking_project_with_bert/eval_test_query/perdict_query_rank_mod/perdict_query_rank.py",
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/timeseries_forcasting/darts_lib_tuturial.ipynb",
+                                        "path": "/home/hadi/Desktop/my_python_codes/timeseries_forcasting/darts_lib_tuturial.ipynb",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/projects/ranking_project_with_bert/eval_test_query/perdict_query_rank_mod/perdict_query_rank.py"
+                                    "label": "~/Desktop/my_python_codes/timeseries_forcasting/darts_lib_tuturial.ipynb"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -581,8 +581,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.toggleFullScreen",
-                                    "label": "&&Full Screen",
-                                    "checked": true
+                                    "label": "&&Full Screen"
                                 },
                                 {
                                     "id": "workbench.action.toggleZenMode",
@@ -850,7 +849,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -859,7 +859,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1351,10 +1352,6 @@
                 "label": "Ctrl+Shift+S",
                 "userSettingsLabel": "ctrl+shift+s"
             },
-            "workbench.action.openSettings": {
-                "label": "Ctrl+,",
-                "userSettingsLabel": "ctrl+,"
-            },
             "workbench.view.extensions": {
                 "label": "Ctrl+Shift+X",
                 "userSettingsLabel": "ctrl+shift+x"
@@ -1760,6 +1757,15 @@
             "sideBarBackground": "#181818",
             "statusBarBackground": "#181818",
             "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 0,
+            "activityBarWidth": 0,
+            "sideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
         }
     },
     "windowsState": {
@@ -1767,12 +1773,11 @@
             "folder": "file:///home/hadi/Desktop",
             "backupPath": "/home/hadi/.config/Code/Backups/b5e1ec5b8078f2f93f1e445810ff02fe",
             "uiState": {
-                "mode": 3,
-                "display": 65,
-                "width": 1532,
-                "height": 814,
+                "mode": 1,
                 "x": 2,
-                "y": 22
+                "y": 23,
+                "width": 1409,
+                "height": 743
             }
         },
         "openedWindows": []

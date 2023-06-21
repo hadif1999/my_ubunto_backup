@@ -1,4 +1,4 @@
 ide.experimental.ui
-true
+false
 ide.experimental.ui.inter.font
 false

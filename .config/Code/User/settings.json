@@ -12,7 +12,6 @@
     "[python]": {
         "editor.formatOnType": true
     },
-    "window.zoomLevel": 1,
     "CodeGPT.model": "code-davinci-002",
     "jupyter.askForKernelRestart": false,
     "notebook.output.textLineLimit": 40,
@@ -23,5 +22,13 @@
     "tabnine.experimentalAutoImports": true,
     "git.confirmSync": false,
     "editor.minimap.enabled": false,
-    "workbench.activityBar.visible": false
+    "workbench.activityBar.visible": false,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "window.zoomLevel": 1,
+    "workbench.preferredHighContrastColorTheme": "Monokai",
+    "workbench.preferredHighContrastLightColorTheme": "Monokai",
+    "terminal.integrated.minimumContrastRatio": 3
 }

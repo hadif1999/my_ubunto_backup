@@ -12,6 +12,9 @@
     <e n="ActivateTerminalToolWindow">
       <i c="36" l="1680461338185" />
     </e>
+    <e n="CWMHostShowPopupAction">
+      <i c="2" l="1687256373741" />
+    </e>
     <e n="ChooseRunConfiguration">
       <i c="2" l="1679569586427" />
     </e>
@@ -19,13 +22,16 @@
       <i c="10" l="1679571549847" />
     </e>
     <e n="CodeCompletion">
-      <i c="1" l="1679567548433" />
+      <i c="3" l="1687256822323" />
     </e>
     <e n="CollapseRegion">
       <i c="3" l="1679673026390" />
     </e>
+    <e n="DisableNewUi">
+      <i c="1" l="1687256553858" />
+    </e>
     <e n="EditorBackSpace">
-      <i c="150" l="1679571128509" />
+      <i c="151" l="1687256455991" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="6" l="1679568840115" />
@@ -37,10 +43,10 @@
       <i c="10" l="1679571193706" />
     </e>
     <e n="EditorEnter">
-      <i c="16" l="1679568821806" />
+      <i c="18" l="1687256298635" />
     </e>
     <e n="EditorEscape">
-      <i c="7" l="1679571560807" />
+      <i c="8" l="1687256826960" />
     </e>
     <e n="EditorLeft">
       <i c="90" l="1679673011683" />
@@ -97,7 +103,7 @@
       <i c="1" l="1679571126201" />
     </e>
     <e n="MoreRunToolbarActions">
-      <i c="1" l="1679674217007" />
+      <i c="3" l="1687256371698" />
     </e>
     <e n="MoveStatementDown">
       <i c="9" l="1679571219858" />
@@ -147,17 +153,35 @@
     <e n="SearchEverywhere">
       <i c="3" l="1679571214153" />
     </e>
+    <e n="SettingsEntryPoint">
+      <i c="5" l="1687256548233" />
+    </e>
     <e n="ShowIntentionActions">
       <i c="11" l="1679568779529" />
     </e>
     <e n="ShowSettings">
-      <i c="19" l="1679572064827" />
+      <i c="21" l="1687257054885" />
+    </e>
+    <e n="SmartTypeCompletion">
+      <i c="2" l="1687256824801" />
     </e>
     <e n="SwitcherRecentEditedChangedToggleCheckBox">
       <i c="1" l="1679568526197" />
     </e>
+    <e n="ToggleBookmark">
+      <i c="1" l="1687256618527" />
+    </e>
     <e n="ToggleBookmarkWithMnemonic">
       <i c="1" l="1679674387567" />
+    </e>
+    <e n="ToggleDistractionFreeMode">
+      <i c="2" l="1687256665559" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1687256606975" />
+    </e>
+    <e n="TogglePresentationMode">
+      <i c="3" l="1687256668454" />
     </e>
     <e n="Tree-selectPrevious">
       <i c="1" l="1679570789049" />
@@ -171,8 +195,20 @@
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="1" l="1679567513295" />
     </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$LafChangeAction">
+      <i c="1" l="1687256547002" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="3" l="1687256497259" />
+    </e>
     <e n="com.intellij.ide.actions.ToolwindowSwitcher$ToolWindowAction">
       <i c="1" l="1679568392423" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$3">
+      <i c="1" l="1687256385208" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1687256287078" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
       <i c="2" l="1679673815150" />
@@ -204,6 +240,9 @@
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="1" l="1679571341582" />
     </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
+      <i c="1" l="1687256304951" />
+    </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="21" l="1680461305679" />
     </e>
@@ -217,7 +256,7 @@
       <i c="9" l="1679673943453" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="2" l="1680461315108" />
+      <i c="3" l="1687256602232" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1679673949718" />
