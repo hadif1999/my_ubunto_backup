@@ -56,8 +56,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -91,6 +90,17 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/trend_filters.py",
+                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/trend_filters.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/trend_filters.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/using_ML_forcasting.ipynb",
                                         "path": "/home/hadi/Desktop/my_python_codes/algo_trading/using_ML_forcasting.ipynb",
                                         "scheme": "file"
@@ -108,17 +118,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Desktop/my_python_codes/algo_trading/examples/plotting_trend_example.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/trend_filters.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/trend_filters.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/trend_filters.py"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -426,22 +425,6 @@
                         "label": "&&Copy"
                     },
                     {
-                        "id": "submenuitem.MenubarCopy",
-                        "label": "Copy As",
-                        "submenu": {
-                            "items": [
-                                {
-                                    "id": "gitlens.copyRemoteFileUrlToClipboard",
-                                    "label": "Copy Remote File URL"
-                                },
-                                {
-                                    "id": "gitlens.copyRemoteFileUrlFrom",
-                                    "label": "Copy Remote File URL From..."
-                                }
-                            ]
-                        }
-                    },
-                    {
                         "id": "editor.action.clipboardPasteAction",
                         "label": "&&Paste"
                     },
@@ -738,13 +721,6 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.action.splitEditorInGroup",
-                                    "label": "Split in &&Group"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -849,8 +825,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -859,8 +834,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1521,11 +1495,6 @@
                 "label": "Ctrl+K Ctrl+\\",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
-            },
-            "workbench.action.splitEditorInGroup": {
-                "label": "Ctrl+K Ctrl+Shift+\\",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
