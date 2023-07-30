@@ -3,7 +3,8 @@
     "profileAssociations": {
         "workspaces": {
             "file:///home/hadi/Desktop/git_test/stanford-cs-229-machine-learning": "__default__profile__",
-            "file:///home/hadi/Desktop": "__default__profile__"
+            "file:///home/hadi/Desktop": "__default__profile__",
+            "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -13,7 +14,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/hadi/Desktop"
+                "folderUri": "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private"
             }
         ],
         "emptyWindows": []
@@ -65,6 +66,17 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private",
+                                        "path": "/home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/python_ML_projects/my_projects/pycoin_private"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/hadi/Desktop",
                                         "path": "/home/hadi/Desktop",
                                         "scheme": "file"
@@ -90,111 +102,111 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/trend_filters.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/trend_filters.py",
+                                        "external": "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/market_data_kline_plots/market_plotter.py",
+                                        "path": "/home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/market_data_kline_plots/market_plotter.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/trend_filters.py"
+                                    "label": "~/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/market_data_kline_plots/market_plotter.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/using_ML_forcasting.ipynb",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/using_ML_forcasting.ipynb",
+                                        "external": "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/strategy_builder/SMA_cross/SMA_strategy.py",
+                                        "path": "/home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/strategy_builder/SMA_cross/SMA_strategy.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/using_ML_forcasting.ipynb"
+                                    "label": "~/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/strategy_builder/SMA_cross/SMA_strategy.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/examples/plotting_trend_example.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/examples/plotting_trend_example.py",
+                                        "external": "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/market_data_gathering/market_data_gathering.py",
+                                        "path": "/home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/market_data_gathering/market_data_gathering.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/examples/plotting_trend_example.py"
+                                    "label": "~/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/market_data_gathering/market_data_gathering.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_kline_plots/market_plotter.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_kline_plots/market_plotter.py",
+                                        "external": "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/order_making/order.py",
+                                        "path": "/home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/order_making/order.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/pycoin/market_data_kline_plots/market_plotter.py"
+                                    "label": "~/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/order_making/order.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/market_processing.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/market_processing.py",
+                                        "external": "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/using_ta.txt",
+                                        "path": "/home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/using_ta.txt",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/pycoin/market_data_gathering/market_processing.py"
+                                    "label": "~/Desktop/python_ML_projects/my_projects/pycoin_private/using_ta.txt"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_ML_forcasting/darts_models/darts_forcasting_models.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_ML_forcasting/darts_models/darts_forcasting_models.py",
+                                        "external": "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/market_data_gathering/trend_evaluator.py",
+                                        "path": "/home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/market_data_gathering/trend_evaluator.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/pycoin/market_ML_forcasting/darts_models/darts_forcasting_models.py"
+                                    "label": "~/Desktop/python_ML_projects/my_projects/pycoin_private/pycoin/market_data_gathering/trend_evaluator.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_ML_forcasting/forcasting_models.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/pycoin/market_ML_forcasting/forcasting_models.py",
+                                        "external": "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/fract_levels_strategy.ipynb",
+                                        "path": "/home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/fract_levels_strategy.ipynb",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/pycoin/market_ML_forcasting/forcasting_models.py"
+                                    "label": "~/Desktop/python_ML_projects/my_projects/pycoin_private/fract_levels_strategy.ipynb"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/algo_trading/examples/market_timeseries_forcasting_example.py",
-                                        "path": "/home/hadi/Desktop/my_python_codes/algo_trading/examples/market_timeseries_forcasting_example.py",
+                                        "external": "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/eval_trend_fract_levels.ipynb",
+                                        "path": "/home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/eval_trend_fract_levels.ipynb",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/algo_trading/examples/market_timeseries_forcasting_example.py"
+                                    "label": "~/Desktop/python_ML_projects/my_projects/pycoin_private/eval_trend_fract_levels.ipynb"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/timeseries_forcasting/darts_kalman_filter.ipynb",
-                                        "path": "/home/hadi/Desktop/my_python_codes/timeseries_forcasting/darts_kalman_filter.ipynb",
+                                        "external": "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/platform_api_usage.ipynb",
+                                        "path": "/home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/platform_api_usage.ipynb",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/timeseries_forcasting/darts_kalman_filter.ipynb"
+                                    "label": "~/Desktop/python_ML_projects/my_projects/pycoin_private/platform_api_usage.ipynb"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/hadi/Desktop/my_python_codes/timeseries_forcasting/darts_lib_tuturial.ipynb",
-                                        "path": "/home/hadi/Desktop/my_python_codes/timeseries_forcasting/darts_lib_tuturial.ipynb",
+                                        "external": "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/bingx_2.ipynb",
+                                        "path": "/home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private/bingx_2.ipynb",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/my_python_codes/timeseries_forcasting/darts_lib_tuturial.ipynb"
+                                    "label": "~/Desktop/python_ML_projects/my_projects/pycoin_private/bingx_2.ipynb"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -423,6 +435,22 @@
                     {
                         "id": "editor.action.clipboardCopyAction",
                         "label": "&&Copy"
+                    },
+                    {
+                        "id": "submenuitem.MenubarCopy",
+                        "label": "Copy As",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlToClipboard",
+                                    "label": "Copy Remote File URL"
+                                },
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlFrom",
+                                    "label": "Copy Remote File URL From..."
+                                }
+                            ]
+                        }
                     },
                     {
                         "id": "editor.action.clipboardPasteAction",
@@ -721,6 +749,13 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -825,7 +860,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -834,7 +870,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1496,6 +1533,11 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
             },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
+            },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
                 "userSettingsLabel": "shift+alt+0"
@@ -1739,8 +1781,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/hadi/Desktop",
-            "backupPath": "/home/hadi/.config/Code/Backups/b5e1ec5b8078f2f93f1e445810ff02fe",
+            "folder": "file:///home/hadi/Desktop/python_ML_projects/my_projects/pycoin_private",
+            "backupPath": "/home/hadi/.config/Code/Backups/5d70216167df0a398ab0422d6323f984",
             "uiState": {
                 "mode": 1,
                 "x": 2,

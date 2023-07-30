@@ -10,12 +10,12 @@
     },
     "codegpt.apiKey": "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",
     "[python]": {
-        "editor.formatOnType": true
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "ms-python.python"
     },
     "CodeGPT.model": "code-davinci-002",
     "jupyter.askForKernelRestart": false,
     "notebook.output.textLineLimit": 40,
-    "python.languageServer": "Pylance",
     "files.autoSaveDelay": 500,
     "git.suggestSmartCommit": false,
     "git.autofetch": true,
@@ -27,8 +27,21 @@
         "default": "right",
         "jupyter-notebook": "left"
     },
-    "window.zoomLevel": 1,
     "workbench.preferredHighContrastColorTheme": "Monokai",
     "workbench.preferredHighContrastLightColorTheme": "Monokai",
-    "terminal.integrated.minimumContrastRatio": 3
+    "terminal.integrated.minimumContrastRatio": 3,
+    "notebook.cellToolbarVisibility": "hover",
+    "window.zoomLevel": 1,
+    "notebook.lineNumbers": "on",
+    "python.languageServer": "Pylance",
+    "prettier.useTabs": true,
+    "prettier.endOfLine": "auto",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "pylint.showNotifications": "onError",
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "vsintellicode.java.completionsEnabled": false,
+    "intellicodeApiExamples.loggingLevel": "ALL",
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.autoFormatStrings": true
 }

@@ -99,7 +99,7 @@
         "command": "terminal.focus"
     },
     {
-        "key": "shift+alt+u",
+        "key": "ctrl+alt+u",
         "command": "editor.action.transformToUppercase"
     },
     {
@@ -207,5 +207,13 @@
     {
         "key": "ctrl+; a",
         "command": "-testing.runAll"
+    },
+    {
+        "key": "ctrl+alt+l",
+        "command": "editor.action.transformToLowercase"
+    },
+    {
+        "key": "shift+alt+v",
+        "command": "python.setInterpreter"
     }
 ]

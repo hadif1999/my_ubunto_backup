@@ -1,3 +1,6 @@
 [filesystem "JetBrains s.r.o.|17.0.6|/dev/sda9"]
 	timestampResolution = 4335 nanoseconds
 	minRacyThreshold = 4292 microseconds
+[filesystem "JetBrains s.r.o.|17.0.7|/dev/sda9"]
+	timestampResolution = 10610 nanoseconds
+	minRacyThreshold = 4002 microseconds

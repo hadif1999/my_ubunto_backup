@@ -233,3 +233,4 @@ video/x-fli=vlc_vlc.desktop;
 video/x-flv=vlc_vlc.desktop;org.kde.dragonplayer.desktop;
 video/x-flic=org.kde.dragonplayer.desktop;
 text/csv=libreoffice-calc.desktop;
+application/pdf=libreoffice-calc.desktop;google-chrome.desktop;org.gnome.Evince.desktop;libreoffice-draw.desktop;

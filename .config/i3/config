@@ -53,12 +53,10 @@ bindsym $mod+Shift+g exec google-chrome
 # start a new telegram
 bindsym $mod+Shift+t exec telegram-desktop
 
-# start a new firefox
-bindsym $mod+Shift+f exec firefox
-
 # start a new pycharm
 bindsym $mod+Shift+p exec pycharm-community
-
+# start nitrogen every time
+exec nitrogen --restore
 
 # kill focused window
 bindsym $mod+Shift+q kill
