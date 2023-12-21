@@ -1,7 +1,0 @@
-2023/03/19-21:01:05.966 aee Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/19-21:01:05.966 aee Recovering log #3
-2023/03/19-21:01:05.995 aee Reusing old log /home/hadi/.config/microsoft-edge/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
-2023/03/19-21:03:47.352 59f7 Level-0 table #5: started
-2023/03/19-21:03:48.183 59f7 Level-0 table #5: 279502 bytes OK
-2023/03/19-21:03:48.804 59f7 Delete type=0 #3
-2023/03/19-21:03:48.806 59f7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

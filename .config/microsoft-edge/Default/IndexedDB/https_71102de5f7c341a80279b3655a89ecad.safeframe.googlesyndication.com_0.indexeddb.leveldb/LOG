@@ -1,6 +1,0 @@
-2023/03/23-15:41:40.265 1171 Creating DB /home/hadi/.config/microsoft-edge/Default/IndexedDB/https_71102de5f7c341a80279b3655a89ecad.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
-2023/03/23-15:41:40.609 1171 Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/IndexedDB/https_71102de5f7c341a80279b3655a89ecad.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/23-15:41:46.866 1172 Level-0 table #5: started
-2023/03/23-15:41:46.910 1172 Level-0 table #5: 480 bytes OK
-2023/03/23-15:41:46.972 1172 Delete type=0 #3
-2023/03/23-15:41:46.983 1172 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

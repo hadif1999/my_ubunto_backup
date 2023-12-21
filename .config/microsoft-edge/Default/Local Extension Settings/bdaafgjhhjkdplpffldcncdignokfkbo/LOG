@@ -1,9 +1,0 @@
-2023/07/02-13:03:15.362 3964 Reusing MANIFEST /home/hadi/.config/microsoft-edge/Default/Local Extension Settings/bdaafgjhhjkdplpffldcncdignokfkbo/MANIFEST-000001
-2023/07/02-13:03:15.363 3964 Recovering log #26
-2023/07/02-13:03:15.567 3964 Reusing old log /home/hadi/.config/microsoft-edge/Default/Local Extension Settings/bdaafgjhhjkdplpffldcncdignokfkbo/000026.log 
-2023/07/02-13:54:21.740 3965 Compacting 1@0 + 1@1 files
-2023/07/02-13:54:21.781 3965 Generated table #29@0: 8 keys, 63384 bytes
-2023/07/02-13:54:21.781 3965 Compacted 1@0 + 1@1 files => 63384 bytes
-2023/07/02-13:54:21.849 3965 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/07/02-13:54:21.850 3965 Delete type=2 #27
-2023/07/02-13:54:21.850 3965 Delete type=2 #24
