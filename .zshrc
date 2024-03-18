@@ -108,6 +108,10 @@ alias V-5="amixer -D pulse sset Master 5%-"
 alias V-20="amixer -D pulse sset Master 20%-"
 alias V-50="amixer -D pulse sset Master 50%-"
 
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
 
 
 # >>> conda initialize >>>
@@ -124,4 +128,8 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
+
+# my custom alias
+alias cisco="/opt/cisco/anyconnect/bin/vpnui"
+alias docker-desktop="systemctl --user start docker-desktop"
 
