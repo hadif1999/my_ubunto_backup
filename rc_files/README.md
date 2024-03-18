@@ -2,3 +2,4 @@
 backups for: 
 - .bashrc file (~/.bashrc)
 - .zshrc file (~/.zshrc)
+- .vimrc file (~/.vimrc)
