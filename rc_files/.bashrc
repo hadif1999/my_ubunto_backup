@@ -135,3 +135,9 @@ unset __conda_setup
 
 alias cisco="/opt/cisco/anyconnect/bin/vpnui"
 alias docker-desktop="systemctl --user start docker-desktop"
+alias terabox=/opt/TeraBox/terabox
+# my custom alias
+alias cisco="/opt/cisco/anyconnect/bin/vpnui"
+alias docker-desktop="systemctl --user start docker-desktop"
+alias terabox=/opt/TeraBox/terabox
+alias nekoray="sudo ~/utils/nekoray_2.26/launcher"
