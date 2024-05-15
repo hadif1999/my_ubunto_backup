@@ -134,3 +134,11 @@ alias cisco="/opt/cisco/anyconnect/bin/vpnui"
 alias docker-desktop="systemctl --user start docker-desktop"
 alias terabox=/opt/TeraBox/terabox
 alias nekoray="sudo ~/utils/nekoray_2.26/launcher"
+alias pycharm="bash /home/hadi/pycharm/JetBrains.PyCharm.2024.1.1/pycharm-2024.1.1/bin/pycharm.sh"
+
+# bun completions
+[ -s "/home/hadi/.local/share/reflex/bun/_bun" ] && source "/home/hadi/.local/share/reflex/bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.local/share/reflex/bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
