@@ -1,55 +1,54 @@
-
-
-let g:pymode = 1
-let g:pymode_python = 'python3'
-let g:pymode_indent = 1
-let g:pymode_doc = 1
-let g:pymode_virtualenv = 1
-let g:pymode_rope_completion = 1
-let g:pymode_rope_complete_on_dot = 1
-let g:pymode_syntax_all = 1
-let g:pymode_lint = 0
-let g:pymode_run_bind = '<leader>r'
-let g:pymode_syntax_slow_sync = 1
-let g:pymode_rope_complete_on_dot = 1
-let g:pymode_rope_completion_bind = '<C-Space>'
-let g:pymode_rope_autoimport = 1
-let g:pymode_syntax = 1
-let g:pymode_rope_project_root = "."
-
-" Pathogen load
-filetype off
-
-call pathogen#infect()
-call pathogen#helptags()
-
-filetype plugin indent on
-syntax on
-set nocompatible              " required
+set nocompatible              " be iMproved, required
 filetype off                  " required
-
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
-
 " alternatively, pass a path where Vundle should install plugins
 "call vundle#begin('~/some/path/here')
 
 " let Vundle manage Vundle, required
-Plugin 'gmarik/Vundle.vim'
+Plugin 'VundleVim/Vundle.vim'
 
-" add all your plugins here (note older versions of Vundle
-" used Bundle instead of Plugin)
-
-" ...
+" The following are examples of different formats supported.
+" Keep Plugin commands between vundle#begin/end.
+" plugin on GitHub repo
+Plugin 'tpope/vim-fugitive'
+Plugin 'ycm-core/YouCompleteMe'
+Plugin 'vim-syntastic/syntastic'
+Plugin 'python-mode/python-mode'
+" plugin from http://vim-scripts.org/vim/scripts.html
+" Plugin 'L9'
+" The sparkup vim script is in a subdirectory of this repo called vim.
+" Install L9 and avoid a Naming conflict if you've already installed a
+" different version somewhere else.
+" Plugin 'ascenator/L9', {'name': 'newL9'}
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
-execute pathogen#infect()
-syntax on
-filetype plugin indent on
+" To ignore plugin indent changes, instead use:
+"filetype plugin on
+"
+" Brief help
+" :PluginList       - lists configured plugins
+" :PluginInstall    - installs plugins; append `!` to update or just :PluginUpdate
+" :PluginSearch foo - searches for foo; append `!` to refresh local cache
+" :PluginClean      - confirms removal of unused plugins; append `!` to auto-approve removal
+"
+" see :h vundle for more details or wiki for FAQ
+" Put your non-Plugin stuff after this line
 
-set number
-set hlsearch
+" pymode config
+let python_highlight_all=1
+syntax on
+let g:ycm_enable_semantic_highlighting=1
+let g:pymode_syntax = 1
+let g:pymode_syntax_all = 1
+let g:pymode_indent = 1
+let g:pymode_virtualenv = 1
+let g:pymode_run = 1
+let g:pymode_run_bind = '<leader>r'
+"""""""""""""""""""""""""""""""""
+""" change vim theme 
+colorscheme zellner
