@@ -135,6 +135,7 @@ alias docker-desktop="systemctl --user start docker-desktop"
 alias terabox=/opt/TeraBox/terabox
 alias nekoray="sudo ~/utils/nekoray_2.26/launcher"
 alias pycharm="bash /home/hadi/pycharm/JetBrains.PyCharm.2024.1.1/pycharm-2024.1.1/bin/pycharm.sh"
+alias mkubectl="minikube kubectl --"
 
 # bun completions
 [ -s "/home/hadi/.local/share/reflex/bun/_bun" ] && source "/home/hadi/.local/share/reflex/bun/_bun"
@@ -142,3 +143,8 @@ alias pycharm="bash /home/hadi/pycharm/JetBrains.PyCharm.2024.1.1/pycharm-2024.1
 # bun
 export BUN_INSTALL="$HOME/.local/share/reflex/bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+
+export OPENAI_API_KEY=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
+alias hamctl="go run /home/hadi/Downloads/hamctl-0.3.7/main.go"
+
+
