@@ -147,4 +147,6 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 export OPENAI_API_KEY=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
 alias hamctl="go run /home/hadi/Downloads/hamctl-0.3.7/main.go"
 
-
+# neovim
+export PATH="$PATH:/opt/nvim-linux64/bin"
+alias vim="nvim"
